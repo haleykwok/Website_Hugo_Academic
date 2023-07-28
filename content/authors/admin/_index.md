@@ -37,10 +37,10 @@ education:
     - course: BSc in Enterprise Engineering with Management and Computing
       institution: Hong Kong Polytechnic University
       year: 2020-2025
-    - course: Exchange Student and Research Intern
+    - course: Exchange Student and Research Intern in Computer Science and Technology
       institution: Shanghai Jiaotong University
       year: 2023-2024
-    - course: Research Intern
+    - course: Research Intern in Computer Science
       institution: McGill University
       year: 2023
 

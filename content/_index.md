@@ -69,27 +69,49 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: SJTU Information and Computing Lab, led by Prof. Fan Cheng, Shanghai Jiao Tong University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Shanghai, China
+          date_start: 'August 2023'
+          date_end: 'January 2024'
           description: |2-
-              Responsibilities include:
+              Responsibilities include: Working on Mean Field Theory method in Deep Learning to improve information security and cloud computing
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Research Assistant
+          company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
+          company_url: 'https://www.cs.mcgill.ca/~jguo/lab.html'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Montreal, Canada
+          date_start: 'May 2023'
+          date_end: 'August 2023'
+          description: |2-
+              Responsibilities include: Using Large Language Model for Code and Documentation in the field of Software Engineering and create tools with React.js
+
+        - title: IoT and ultra-wideband (UWB) Positioning developer
+          company: Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
+          company_url: 'https://hkinnovationnode.mit.edu/'
+          company_logo: org-gc
+          location: Hong Kong, China
+          date_start: 'June 2022'
+          date_end: 'July 2022'
+          description: |2-
+              Responsibilities include: Developed 3D-aware localization system with radiation ray collision method, 3D model printing and create GUI
+
+        - title: Research Asistant in PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng
+          company: The Hong Kong Polytechnic University
+          company_url: 'https://www.raids.group/'
+          company_logo: org-x
+          location: Hong Kong, China
+          date_start: 'July 2021'
+          date_end: 'June 2023'
+          description: |2-
+              Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
+
     design:
       columns: '2'
   - block: accomplishments
