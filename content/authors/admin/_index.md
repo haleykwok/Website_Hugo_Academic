@@ -36,7 +36,7 @@ education:
   courses:
     - course: BSc in Enterprise Engineering with Management and Computing
       institution: Hong Kong Polytechnic University
-      year: 2025
+      year: 2020-2025
     - course: Exchange Student and Research Intern
       institution: Shanghai Jiaotong University
       year: 2023-2024
