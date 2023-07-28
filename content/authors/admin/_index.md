@@ -7,7 +7,7 @@ first_name: Hin-Chi (Haley)
 last_name: Kwok
 
 # Status emoji
-status:
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -37,12 +37,12 @@ education:
     - course: BSc in Enterprise Engineering with Management and Computing
       institution: Hong Kong Polytechnic University
       year: 2025
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: Exchange Student and Research Intern
+      institution: Shanghai Jiaotong University
+      year: 2023
+    - course: Research Intern
+      institution: McGill University
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
