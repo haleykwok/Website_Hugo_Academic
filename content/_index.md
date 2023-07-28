@@ -91,7 +91,7 @@ sections:
           date_end: 'August 2023'
           description: |2-
               Responsibilities include: Using Large Language Model for Code and Documentation in the field of Software Engineering and create tools with React.js
-
+        
         - title: IoT and ultra-wideband (UWB) Positioning developer
           company: Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
           company_url: 'https://hkinnovationnode.mit.edu/'
@@ -101,7 +101,7 @@ sections:
           date_end: 'July 2022'
           description: |2-
               Responsibilities include: Developed 3D-aware localization system with radiation ray collision method, 3D model printing and create GUI
-
+        
         - title: Research Asistant in PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng
           company: The Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
@@ -111,21 +111,18 @@ sections:
           date_end: 'June 2023'
           description: |2-
               Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
-
               * MRL Based Control Approach for Assisting HRC in Personalized Production (2021/12-2022/08)
-•  Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception 
-• First author of awarded paper by HKIE and accepted by CASE 22’
-• Designed self-learning robotic assisted systems (SLRAS) with self-adapt DRL algorithms to assist human operators
-• Enhanced the performance by about 75% on average
-* Mutual Cognitive Human-Robot Collaborative Manufacturing System (2022/01-2023/02)
-• Deep Reinforcement Learning, Augmented Reality, HRC 
-• Awarded HKICT Student Innovation Grand Award and Gold Award and APICTA Award
-• Integrated virtual and realistic task planning and dynamic guidance of visual data to enhance the intelligence of
-robots and to facilitate information sharing with Augmented Reality
-• Conducted human-in-the-loop control approaches
-
+              * •  Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception 
+              * • First author of awarded paper by HKIE and accepted by CASE 22’
+              * • Designed self-learning robotic assisted systems (SLRAS) with self-adapt DRL algorithms to assist human operators
+              * • Enhanced the performance by about 75% on average
+              * Mutual Cognitive Human-Robot Collaborative Manufacturing System (2022/01-2023/02)
+              * • Deep Reinforcement Learning, Augmented Reality, HRC 
+              * • Awarded HKICT Student Innovation Grand Award and Gold Award and APICTA Award
+              * • Integrated virtual and realistic task planning and dynamic guidance of visual data to enhance the intelligence of robots and to facilitate information sharing with Augmented Reality
+              * • Conducted human-in-the-loop control approaches
     design:
-      columns: '2'
+      columns: '4'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
