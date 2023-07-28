@@ -39,7 +39,7 @@ education:
       year: 2025
     - course: Exchange Student and Research Intern
       institution: Shanghai Jiaotong University
-      year: 2023
+      year: 2023-2024
     - course: Research Intern
       institution: McGill University
       year: 2023
