@@ -112,6 +112,18 @@ sections:
           description: |2-
               Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
 
+              * MRL Based Control Approach for Assisting HRC in Personalized Production
+Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception 2021/12-2022/08
+• First author of awarded paper by HKIE and accepted by CASE 22’
+• Designed self-learning robotic assisted systems (SLRAS) with self-adapt DRL algorithms to assist human operators
+• Enhanced the performance by about 75% on average
+Mutual Cognitive Human-Robot Collaborative Manufacturing System HKSAR, CN
+Deep Reinforcement Learning, Augmented Reality, HRC 2022/01-2023/02
+• Awarded HKICT Student Innovation Grand Award and Gold Award and APICTA Award
+• Integrated virtual and realistic task planning and dynamic guidance of visual data to enhance the intelligence of
+robots and to facilitate information sharing with Augmented Reality
+• Conducted human-in-the-loop control approaches
+
     design:
       columns: '2'
   - block: accomplishments
