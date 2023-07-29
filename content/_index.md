@@ -76,19 +76,50 @@ sections:
           location: Shanghai, China
           date_start: '2023-08-16'
           date_end: '2024-01-14'
-          description: |2-
-              Responsibilities include: Working on Mean Field Theory method in Deep Learning to improve information security and cloud computing
+          description: |2- 
+              Responsibilities include: Working on Mean Field Theory method in Deep Learning to improve information security and cloud computing.
 
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Research Assistant
+          company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
+          company_url: 'https://www.cs.mcgill.ca/~jguo/lab.html'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Montreal, Canada
+          date_start: '2023-05-19'
+          date_end: '2023-08-13'
+          description: |2-
+              Responsibilities include: Using Large Language Model for Code and Documentation in the field of Software Engineering and create tools with React.js
+  
+        - title: IoT and ultra-wideband (UWB) Positioning developer
+          company: Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
+          company_url: 'https://hkinnovationnode.mit.edu/'
+          company_logo: org-gc
+          location: Hong Kong, China
+          date_start: '2022-06-06'
+          date_end: '2022-07-15'
+          description: |2-
+              Responsibilities include: Developed 3D-aware localization system with radiation ray collision method, 3D model printing and create GUI
+        
+        - title: Research Asistant in PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng
+          company: The Hong Kong Polytechnic University
+          company_url: 'https://www.raids.group/'
+          company_logo: org-x
+          location: Hong Kong, China
+          date_start: '2021-07-01'
+          date_end: '2023-06-30'
+          description: |2-
+              Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
+              * MRL Based Control Approach for Assisting HRC in Personalized Production (2021/12-2022/08)
+              * •  Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception 
+              * • First author of awarded paper by HKIE and accepted by CASE 22’
+              * • Designed self-learning robotic assisted systems (SLRAS) with self-adapt DRL algorithms to assist human operators
+              * • Enhanced the performance by about 75% on average
+              * Mutual Cognitive Human-Robot Collaborative Manufacturing System (2022/01-2023/02)
+              * • Deep Reinforcement Learning, Augmented Reality, HRC 
+              * • Awarded HKICT Student Innovation Grand Award and Gold Award and APICTA Award
+              * • Integrated virtual and realistic task planning and dynamic guidance of visual data to enhance the intelligence of robots and to facilitate information sharing with Augmented Reality
+              * • Conducted human-in-the-loop control approaches
     design:
-      columns: '2'
+      columns: '4'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
