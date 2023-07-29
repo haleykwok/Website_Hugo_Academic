@@ -69,19 +69,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: SJTU Information and Computing Lab, led by Prof. Fan Cheng, Shanghai Jiao Tong University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Shanghai, China
+          date_start: 'August 2023'
+          date_end: 'January 2024'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              Responsibilities include: Working on Mean Field Theory method in Deep Learning to improve information security and cloud computing
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
