@@ -72,7 +72,7 @@ sections:
         - title: Research Assistant
           company: SJTU Information and Computing Lab, led by Prof. Fan Cheng, Shanghai Jiao Tong University
           company_url: ''
-          company_logo: sjtu_logo.png 
+          company_logo: content/experience/sjtu_logo.png
           location: Shanghai, China
           date_start: '2023-08-16'
           date_end: '2024-01-14'
@@ -82,7 +82,7 @@ sections:
         - title: Research Assistant
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
           company_url: 'https://www.cs.mcgill.ca/~jguo/lab.html'
-          company_logo: mcgill_logo.png
+          company_logo: content/experience/mcgill_logo.png
           location: Montreal, Canada
           date_start: '2023-05-19'
           date_end: '2023-08-13'
@@ -92,7 +92,7 @@ sections:
         - title: IoT and ultra-wideband (UWB) Positioning developer
           company: Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
           company_url: 'https://hkinnovationnode.mit.edu/'
-          company_logo: mit_logo.png
+          company_logo: content/experience/mit_logo.png
           location: Hong Kong, China
           date_start: '2022-06-06'
           date_end: '2022-07-15'
@@ -102,18 +102,18 @@ sections:
         - title: Research Asistant in PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng
           company: The Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
-          company_logo: polyu_logo.png
+          company_logo: content/experience/sjtu_logo.png
           location: Hong Kong, China
           date_start: '2021-07-01'
           date_end: '2023-06-30'
           description: |2-
               Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
-              * 1. MRL Based Control Approach for Assisting HRC in Personalized Production (2021/12-2022/08)
+              * MRL Based Control Approach for Assisting HRC in Personalized Production (2021/12-2022/08)
               * •  Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception 
               * • First author of awarded paper by HKIE and accepted by CASE 22’
               * • Designed self-learning robotic assisted systems (SLRAS) with self-adapt DRL algorithms to assist human operators
               * • Enhanced the performance by about 75% on average
-              * 2. Mutual Cognitive Human-Robot Collaborative Manufacturing System (2022/01-2023/02)
+              * Mutual Cognitive Human-Robot Collaborative Manufacturing System (2022/01-2023/02)
               * • Deep Reinforcement Learning, Augmented Reality, HRC 
               * • Awarded HKICT Student Innovation Grand Award and Gold Award and APICTA Award
               * • Integrated virtual and realistic task planning and dynamic guidance of visual data to enhance the intelligence of robots and to facilitate information sharing with Augmented Reality
