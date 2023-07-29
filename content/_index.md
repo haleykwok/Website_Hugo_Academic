@@ -41,22 +41,22 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+  # - block: features
+  #   content:
+  #     title: Skills
+  #     items:
+  #       - name: R
+  #         description: 90%
+  #         icon: r-project
+  #         icon_pack: fab
+  #       - name: Statistics
+  #         description: 100%
+  #         icon: chart-line
+  #         icon_pack: fas
+  #       - name: Photography
+  #         description: 10%
+  #         icon: camera-retro
+  #         icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -72,7 +72,7 @@ sections:
         - title: Research Assistant
           company: SJTU Information and Computing Lab, led by Prof. Fan Cheng, Shanghai Jiao Tong University
           company_url: ''
-          company_logo: org-gc
+          company_logo: content/experience/sjtu_logo.png
           location: Shanghai, China
           date_start: '2023-08-16'
           date_end: '2024-01-14'
@@ -82,7 +82,7 @@ sections:
         - title: Research Assistant
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
           company_url: 'https://www.cs.mcgill.ca/~jguo/lab.html'
-          company_logo: org-x
+          company_logo: content/experience/mcgill_logo.png
           location: Montreal, Canada
           date_start: '2023-05-19'
           date_end: '2023-08-13'
@@ -92,7 +92,7 @@ sections:
         - title: IoT and ultra-wideband (UWB) Positioning developer
           company: Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
           company_url: 'https://hkinnovationnode.mit.edu/'
-          company_logo: org-gc
+          company_logo: content/experience/mit_logo.png
           location: Hong Kong, China
           date_start: '2022-06-06'
           date_end: '2022-07-15'
@@ -102,7 +102,7 @@ sections:
         - title: Research Asistant in PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng
           company: The Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
-          company_logo: org-x
+          company_logo: content/experience/polyu_logo.png
           location: Hong Kong, China
           date_start: '2021-07-01'
           date_end: '2023-06-30'
