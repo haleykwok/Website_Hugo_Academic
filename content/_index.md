@@ -108,7 +108,6 @@ sections:
           date_end: '2023-06-30'
           description: |2-
               Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
-              
               1. MRL Based Control Approach for Assisting HRC in Personalized Production (2021/12-2022/08)
               * •  Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception 
               * • First author of awarded paper by HKIE and accepted by CASE 22’
