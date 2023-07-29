@@ -72,7 +72,7 @@ sections:
         - title: Research Assistant
           company: SJTU Information and Computing Lab, led by Prof. Fan Cheng, Shanghai Jiao Tong University
           company_url: ''
-          company_logo: experience/sjtu_logo.png 
+          company_logo: sjtu_logo.png 
           location: Shanghai, China
           date_start: '2023-08-16'
           date_end: '2024-01-14'
@@ -82,7 +82,7 @@ sections:
         - title: Research Assistant
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
           company_url: 'https://www.cs.mcgill.ca/~jguo/lab.html'
-          company_logo: experience/mcgill_logo.png
+          company_logo: mcgill_logo.png
           location: Montreal, Canada
           date_start: '2023-05-19'
           date_end: '2023-08-13'
@@ -92,7 +92,7 @@ sections:
         - title: IoT and ultra-wideband (UWB) Positioning developer
           company: Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
           company_url: 'https://hkinnovationnode.mit.edu/'
-          company_logo: experience/mit_logo.png
+          company_logo: mit_logo.png
           location: Hong Kong, China
           date_start: '2022-06-06'
           date_end: '2022-07-15'
@@ -102,7 +102,7 @@ sections:
         - title: Research Asistant in PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng
           company: The Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
-          company_logo: experience/polyu_logo.png
+          company_logo: polyu_logo.png
           location: Hong Kong, China
           date_start: '2021-07-01'
           date_end: '2023-06-30'
