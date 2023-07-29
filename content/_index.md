@@ -74,10 +74,11 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Shanghai, China
-          date_start: 'August 2023'
-          date_end: 'January 2024'
+          date_start: '2023-08-16'
+          date_end: '2024-01-14'
           description: |2-
               Responsibilities include: Working on Mean Field Theory method in Deep Learning to improve information security and cloud computing
+
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
