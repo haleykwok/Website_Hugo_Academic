@@ -172,6 +172,35 @@ sections:
           organization_url: 
           title: Research 
           url: ''
+                - certificate_url: 
+          date_end: ''
+          date_start: '2021-01-01'
+          description: |2-
+              Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
+              * HKSAR Government Scholarship 2022/23
+              * HKSAR Government Fund - Reaching Out Award 2023
+              * HKSAR Government Fund - Talent Development Scholarship 2023
+              * The Cheng Foundation Scholarship 2023
+              * For Our Future Scholarship 2023
+              * Hall Residential Scholarship 2023
+              * ASMPT Scholarship 2023
+              * Dean's list (Faculty of Engineering) 2021/22
+              * Shun Hing Electric Works and Engineering Scholarship 2021/22
+          organization: HKSAR Government; The Incorporated Trustees of The Cheng Foundation; Greater Bay Area Homeland Youth Community Foundation; ASM Pacific Technology Limited; Shun Hing Group; The Hong Kong Polytechnic University
+          organization_url: 
+          title: Academic Scholarship
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2021-01-01'
+          description: |2-
+              Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
+              * Outstanding Tertiary Students Award of Hong Kong 2023
+              * Presidential Student Leadership Award of Department 2023
+          organization: The Hong Kong Youth & Tertiary Students Association (HKYTSA); The Hong Kong Polytechnic University
+          organization_url: 
+          title: Leadership 
+          url: ''
     design:
       columns: '2'
   - block: collection
