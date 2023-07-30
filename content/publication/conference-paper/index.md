@@ -1,19 +1,21 @@
 ---
-title: 'An example conference paper'
+title: 'Meta-Reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - KWOK Hin Chi
+  - LI Chengxi
+  - PANG Yat Ming
+  - ZHENG Pai
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  # - 'Equal contribution'
+  # - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-08-20T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,15 +28,15 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: HKIE
+publication_short: 
 
-abstract: 
+abstract: Nowadays, with the advancement of production technologies, the manufacturing paradigm has gradually shifted from mass production to a small-batch and high-variety personalized production manner, urged by high flexible automation capabilities. In this paradigm, the existing inspection and assembly processes after manufacturing still rely to a large extent on either human operators with low efficiency or machines with low flexibility. To solve this issue, human-robot collaboration (HRC) has been a prevailing topic of recent concerns. Current robot control strategies in human-machine collaboration are mainly through pre-defined programming and do not yet meet the need for flexible and adaptable tasks in individualised production. To address this challenge, this paper proposes a deep reinforcement learning (DRL) approach based on meta-learning to drive robots in HRC. It enables collaborative robots (cobots) to acquire basic skills and perform tasks based on personalised production requirements, improving learning efficiency and thus quickly adapting to new tasks for human operators. The robot control task was carried out in a simulated environment taken from a real production scenario to assess its efficacy. Experimental results show that our proposed method enables the robot to learn and perform HRC tasks quickly and outperforms the baseline DRL method in terms of success rate.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A Research Project utilized MAML-based 5-step PPO to improve robot’s productivity in HRC by about 75% on average. It aims to enable collaborative robots (cobots) to acquire basic skills and perform tasks based on personalised production requirements, made by KWOK Hin Chi , LI Chengxi, PANG Yat Ming, ZHENG Pai.
 
-tags: []
+tags: [Human-Centered Automation, Intelligent and Flexible Manufacturing, Learning and Adaptive Systems]
 
 # Display this page in the Featured widget?
 featured: true
