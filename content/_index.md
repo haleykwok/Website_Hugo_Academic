@@ -172,7 +172,7 @@ sections:
           organization_url: 
           title: Research 
           url: ''
-                - certificate_url: 
+        - certificate_url: 
           date_end: ''
           date_start: '2021-01-01'
           description: |2-
