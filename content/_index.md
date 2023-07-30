@@ -108,13 +108,13 @@ sections:
           date_end: '2023-06-30'
           description: |2-
               Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
-              * **Project 1**: MRL Based Control Approach for Assisting HRC in Personalized Production (2021/12-2022/08)
-              * Keywords: Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception 
+              * **Project 1: Meta-reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production (2021/12-2022/08)**
+              * *Keywords: Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception* 
               * • First author of awarded paper by HKIE and accepted by CASE 22’
               * • Designed self-learning robotic assisted systems (SLRAS) with self-adapt DRL algorithms to assist human operators
               * • Enhanced the performance by about 75% on average
-              * **Project 2**: Mutual Cognitive Human-Robot Collaborative Manufacturing System (2022/01-2023/02)
-              * Keywords: Deep Reinforcement Learning, Augmented Reality, HRC 
+              * **Project 2: Mutual Cognitive Human-Robot Collaborative Manufacturing System (2022/01-2023/02)**
+              * *Keywords: Deep Reinforcement Learning, Augmented Reality, HRC*
               * • Awarded HKICT Student Innovation Grand Award and Gold Award and APICTA Award
               * • Integrated virtual and realistic task planning and dynamic guidance of visual data to enhance the intelligence of robots and to facilitate information sharing with Augmented Reality
               * • Conducted human-in-the-loop control approaches
@@ -133,30 +133,60 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2023-06-30'
+          description: |2-
+              * HKIE Student Paper Award (Champion) 2021/22 for Project entitled "Meta-reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production"
+              * Canada Mitacs Globalink Scholarship: Top 2000 students over the world are invited to join the research internship in Canadian universities.
+              * UG Summer Research Abroad Scholarship (USRA): Research Scholarship for Undergraduate Students to conduct research in Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
+              * Undergradute Research and Innovation Scheme (URIS) Scholarship: Research Scholarship for Undergraduate Students to conduct research in Hong Kong Polytechnic University, Project entitled "Meta-reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production" and "Mutual Cognitive Human-Robot Collaborative Manufacturing System".
+          organization: Canada Mitacs Globalink; Hong Kong Institution of Engineers
+          organization_url: 
+          title: Research 
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          description: |2-
+              * HKSAR Government Scholarship 2022/23
+              * HKSAR Government Fund - Reaching Out Award 2023
+              * HKSAR Government Fund - Talent Development Scholarship 2023
+              * The Cheng Foundation Scholarship 2023
+              * For Our Future Scholarship 2023
+              * Hall Residential Scholarship 2023
+              * ASMPT Scholarship 2023
+              * Dean's list (Faculty of Engineering) 2021/22
+              * Shun Hing Electric Works and Engineering Scholarship 2021/22
+          organization: HKSAR Government; The Incorporated Trustees of The Cheng Foundation; Greater Bay Area Homeland Youth Community Foundation; ASM Pacific Technology Limited; Shun Hing Group; The Hong Kong Polytechnic University
+          organization_url: 
+          title: Academic Scholarship
+          url: 
+        - certificate_url: 
+          date_end: ''
+          date_start: '2021-01-01'
+          description: |2-
+            * Outstanding Tertiary Students Award of Hong Kong 2023
+            * Presidential Student Leadership Award of Department 2023
+          organization: The Hong Kong Youth & Tertiary Students Association (HKYTSA); The Hong Kong Polytechnic University
+          organization_url: 
+          title: Leadership 
           url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2021-01-01'
+          description: |2-
+              * Innovation and Technology Scholarship 2023 (HK$150,000): The Innovation and Technology Scholarship aims to provide recognition to outstanding undergraduates in universities in Hong Kong who have demonstrated exceptional skills and achievements in the field of innovation and technology as well as opportunities of widening their international/Mainland exposure and gaining industry experience.
+              * 21st Asia Pacific Information and Communications Technology Alliance (APICTA) Awards (Student-Tertiary Technology): Being a member of the HKSAR delegation and winning the largest yearly international ICT awards that all the participants are ranked in the top 3 among their regions/ countries. Our team is the first Hong Kong winner in the tertiary student category in the past 4 years.
+              * Gold Award of The 8th China International College Students' 'Internet+' Innovation and Entrepreneurship Competition: Ranked in the top 0.009% to win the highest award among 3,400,000 participating teams. Participation was by 25.33 million college students in 6.03 million teams from 121 countries and regions in five continents, and the competition has become the largest global event for innovation and entrepreneurship.
+              * Student Innovation Award (Tertiary or above) Gold Award and Grand Award in Student Innovation Stream in Hong Kong ICT Awards (HKICT Awards) for Project entitled “Mutual Cognitive Human-Robot Collaborative Manufacturing System”: Ranked in the top 0.3% to win the overall championship among 330 participating teams in Student innovation catorgory.
+              * Second Prize (Entrepreneurship Proposal Track) of The 8th Hong Kong University Student Innovation and Entrepreneurship Competition 2022
+              * Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship: PolyU Student Entrepreneurial Proof-of-Concept (POC) Funding Scheme is a funding initiative launched in 2017 as one of the key entrepreneurship education components at PolyU. POC Fund aims to instil a problem-driven innovation mindset into young talents through experiential learning and student-initiated research and development.
+              * Finalist in AI and Fintech Division in Hong Kong Techathon 2022: Hong Kong Techathon 2022 is a one-week hybrid challenge to bring in a new and possible technology-related business ideas.
+          organization: Innovation and Technology Commission and The Hong Kong and Shanghai Corporation Limited (HSBC); Asia Pacific Information and Communications Technology Alliance; The Ministry of Education of the People's Republic of China; Hong Kong New Emerging Technology Education Association (HKNETEA); Hong Kong Science Park; 
+          organization_url: 
+          title: Innovation
+          url: 
     design:
       columns: '2'
   - block: collection
