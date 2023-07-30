@@ -267,7 +267,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        ''
+        'I'm interested in the areas of Machine Learning, HCI/HRI, and Software Engineering. Feel free to reach out to me for further discussion.'
       # Contact (add or remove contact options as necessary)
       email: kwokhinchi@gmail.com
       phone: (+852) 5225 7202
@@ -284,6 +284,10 @@ sections:
       #   - ''
       #   - ''
       contact_links:
+        - icon: linkedin
+          icon_pack: fab
+          name: LinkedIn
+          link: 'https://www.linkedin.com/in/haley-kwok-4076a8254/'
         - icon: twitter
           icon_pack: fab
           name: Twitter 
