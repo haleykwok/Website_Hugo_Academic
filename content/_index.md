@@ -89,7 +89,7 @@ sections:
           description: |2-
               Responsibilities include: Using Large Language Model for Code and Documentation in the field of Software Engineering and create tools with React.js
   
-        - title: IoT and ultra-wideband (UWB) Positioning developer
+        - title: IoT and ultra-wideband (UWB) Positioning Developer
           company: Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
           company_url: 'https://hkinnovationnode.mit.edu/'
           company_logo:
@@ -99,8 +99,8 @@ sections:
           description: |2-
               Responsibilities include: Developed 3D-aware localization system with radiation ray collision method, 3D model printing and create GUI
         
-        - title: Research Asistant in PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng
-          company: The Hong Kong Polytechnic University
+        - title: Research Asistant 
+          company: PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng, Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
           company_logo: 
           location: Hong Kong, China
@@ -256,18 +256,18 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        ''
       # Contact (add or remove contact options as necessary)
       email: kwokhinchi@gmail.com
       phone: (+852) 5225 7202
@@ -279,7 +279,7 @@ sections:
         postcode: ''
         country: China
         country_code: CN
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: ''
       # office_hours:
       #   - ''
       #   - ''
