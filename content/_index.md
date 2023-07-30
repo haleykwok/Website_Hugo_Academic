@@ -137,6 +137,7 @@ sections:
           date_end: ''
           date_start: '2023-06-30'
           description: |2-
+              Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
               * HKIE Student Paper Award (Champion) 2021/22 for Project entitled "Meta-reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production"
               * Canada Mitacs Globalink Scholarship: Top 2000 students over the world are invited to join the research internship in Canadian universities.
               * UG Summer Research Abroad Scholarship (USRA): Research Scholarship for Undergraduate Students to conduct research in Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
@@ -149,6 +150,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: |2-
+              Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
               * HKSAR Government Scholarship 2022/23
               * HKSAR Government Fund - Reaching Out Award 2023
               * HKSAR Government Fund - Talent Development Scholarship 2023
@@ -166,6 +168,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: |2-
+              Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
               * Outstanding Tertiary Students Award of Hong Kong 2023
               * Presidential Student Leadership Award of Department 2023
           organization: The Hong Kong Youth & Tertiary Students Association (HKYTSA); The Hong Kong Polytechnic University
@@ -176,6 +179,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: |2-
+              Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
               * Innovation and Technology Scholarship 2023 (HK$150,000): The Innovation and Technology Scholarship aims to provide recognition to outstanding undergraduates in universities in Hong Kong who have demonstrated exceptional skills and achievements in the field of innovation and technology as well as opportunities of widening their international/Mainland exposure and gaining industry experience.
               * 21st Asia Pacific Information and Communications Technology Alliance (APICTA) Awards (Student-Tertiary Technology): Being a member of the HKSAR delegation and winning the largest yearly international ICT awards that all the participants are ranked in the top 3 among their regions/ countries. Our team is the first Hong Kong winner in the tertiary student category in the past 4 years.
               * Gold Award of The 8th China International College Students' 'Internet+' Innovation and Entrepreneurship Competition: Ranked in the top 0.009% to win the highest award among 3,400,000 participating teams. Participation was by 25.33 million college students in 6.03 million teams from 121 countries and regions in five continents, and the competition has become the largest global event for innovation and entrepreneurship.
