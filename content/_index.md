@@ -159,6 +159,19 @@ sections:
           organization_url: 
           title: Scholarship
           url: 
+        - certificate_url: 
+          date_end: ''
+          date_start: '2023-06-30'
+          description: |2-
+              Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
+              * HKIE Student Paper Award (Champion) 2021/22 for Project entitled "Meta-reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production"
+              * Canada Mitacs Globalink Scholarship: Top 2000 students over the world are invited to join the research internship in Canadian universities.
+              * UG Summer Research Abroad Scholarship (USRA): Research Scholarship for Undergraduate Students to conduct research in Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
+              * Undergradute Research and Innovation Scheme (URIS) Scholarship: Research Scholarship for Undergraduate Students to conduct research in Hong Kong Polytechnic University, Project entitled "Meta-reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production" and "Mutual Cognitive Human-Robot Collaborative Manufacturing System".
+          organization: Canada Mitacs Globalink; Hong Kong Institution of Engineers
+          organization_url: 
+          title: Research 
+          url: ''
     design:
       columns: '2'
   - block: collection
