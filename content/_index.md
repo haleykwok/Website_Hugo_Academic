@@ -109,12 +109,12 @@ sections:
           description: |2-
               Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
               * Project 1: MRL Based Control Approach for Assisting HRC in Personalized Production (2021/12-2022/08)
-              * • Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception 
+              * Keywords: Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception 
               * • First author of awarded paper by HKIE and accepted by CASE 22’
               * • Designed self-learning robotic assisted systems (SLRAS) with self-adapt DRL algorithms to assist human operators
               * • Enhanced the performance by about 75% on average
               * Project 2: Mutual Cognitive Human-Robot Collaborative Manufacturing System (2022/01-2023/02)
-              * • Deep Reinforcement Learning, Augmented Reality, HRC 
+              * Keywords: Deep Reinforcement Learning, Augmented Reality, HRC 
               * • Awarded HKICT Student Innovation Grand Award and Gold Award and APICTA Award
               * • Integrated virtual and realistic task planning and dynamic guidance of visual data to enhance the intelligence of robots and to facilitate information sharing with Augmented Reality
               * • Conducted human-in-the-loop control approaches
@@ -213,14 +213,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   - block: collection
     id: featured
     content:
@@ -269,33 +269,33 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: kwokhinchi@gmail.com
+      phone: (+852) 5225 7202
+      appointment_url: ''
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 
+        city: 
+        region: Hong Kong
+        postcode: ''
+        country: China
+        country_code: CN
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - ''
+        - ''
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://twitter.com/kwokhinchi'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'live:.cid.8804246787602c50'
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
