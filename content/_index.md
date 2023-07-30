@@ -221,17 +221,17 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
   - block: collection
     content:
       title: Recent Publications
@@ -280,14 +280,22 @@ sections:
         country: China
         country_code: CN
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - ''
-        - ''
+      # office_hours:
+      #   - ''
+      #   - ''
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: Twitter 
           link: 'https://twitter.com/kwokhinchi'
+        - icon: github
+          icon_pack: fab
+          name: GitHub
+          link: 'https://github.com/HaleyKwok'
+        - icon: instagram
+          icon_pack: fab
+          name: Instagram
+          link: 'https://www.instagram.com/haley.khc/'
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me
