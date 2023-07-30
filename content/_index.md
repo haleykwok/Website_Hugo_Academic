@@ -166,8 +166,8 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: |2-
-            * Outstanding Tertiary Students Award of Hong Kong 2023
-            * Presidential Student Leadership Award of Department 2023
+              * Outstanding Tertiary Students Award of Hong Kong 2023
+              * Presidential Student Leadership Award of Department 2023
           organization: The Hong Kong Youth & Tertiary Students Association (HKYTSA); The Hong Kong Polytechnic University
           organization_url: 
           title: Leadership 
