@@ -102,7 +102,7 @@ sections:
         - title: Research Asistant 
           company: PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng, Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
-          company_logo: brands = "polyu_logo"
+          company_logo: 
           location: Hong Kong, China
           date_start: '2021-07-01'
           date_end: '2023-06-30'
