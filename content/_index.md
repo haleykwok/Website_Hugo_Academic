@@ -136,6 +136,14 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-06-30'
+          description: ''
+          organization: The Hong Kong Youth & Tertiary Students Association (HKYTSA)
+          organization_url: https://hkytsa.org/otsahk/otsahk2023/hk/index.html
+          title: Outstanding Tertiary Students Award of Hong Kong 2023
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2023-06-30'
           description: |2-
               Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
               * HKIE Student Paper Award (Champion) 2021/22 for Project entitled "Meta-reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production"
