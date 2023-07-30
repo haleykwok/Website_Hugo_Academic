@@ -16,11 +16,11 @@ image:
   # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/kwokhinchi
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/kwokhinchi
 url_code: ''
 url_pdf: 'https://www.linkedin.com/in/haley-kwok-4076a8254/details/projects/1301831720/multiple-media-viewer/?profileId=ACoAAD7AKkcByjYChTFGaVPKHuROai7Pfb0GH3k&treasuryMediaId=1635532852614'
 url_slides: 'https://www.linkedin.com/in/haley-kwok-4076a8254/details/projects/1301831720/multiple-media-viewer/?profileId=ACoAAD7AKkcByjYChTFGaVPKHuROai7Pfb0GH3k&treasuryMediaId=1635532847758'
