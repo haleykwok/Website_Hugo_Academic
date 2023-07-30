@@ -137,7 +137,6 @@ sections:
           date_end: ''
           date_start: '2023-06-30'
           description: |2-
-              Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
               * HKIE Student Paper Award (Champion) 2021/22 for Project entitled "Meta-reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production"
               * Canada Mitacs Globalink Scholarship: Top 2000 students over the world are invited to join the research internship in Canadian universities.
               * UG Summer Research Abroad Scholarship (USRA): Research Scholarship for Undergraduate Students to conduct research in Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
@@ -150,7 +149,6 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: |2-
-              Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
               * Outstanding Tertiary Students Award of Hong Kong 2023
               * Presidential Student Leadership Award of Department 2023
           organization: The Hong Kong Youth & Tertiary Students Association (HKYTSA); The Hong Kong Polytechnic University
@@ -161,7 +159,6 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: |2-
-              Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
               * HKSAR Government Scholarship 2022/23
               * HKSAR Government Fund - Reaching Out Award 2023
               * HKSAR Government Fund - Talent Development Scholarship 2023
