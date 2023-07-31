@@ -235,6 +235,10 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: Management System
+          tag: Management System
+        - name: Robotics
+          tag: Robotics
         - name: Other
           tag: Demo
     design:
