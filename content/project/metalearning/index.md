@@ -20,8 +20,8 @@ image:
 #     name: Follow
 #     url: https://twitter.com/kwokhinchi
 url_code: ''
-url_pdf: 'https://www.linkedin.com/in/haley-kwok-4076a8254/details/projects/1301831720/multiple-media-viewer/?profileId=ACoAAD7AKkcByjYChTFGaVPKHuROai7Pfb0GH3k&treasuryMediaId=1635532852614'
-url_slides: 'https://www.linkedin.com/in/haley-kwok-4076a8254/details/projects/1301831720/multiple-media-viewer/?profileId=ACoAAD7AKkcByjYChTFGaVPKHuROai7Pfb0GH3k&treasuryMediaId=1635532847758'
+url_pdf: 'https://drive.google.com/file/d/1yjm-Rq3Yvg7UHue-tSGtJNZRNZPrOeuX/view?usp=drive_link'
+url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwoX6Va_/edit?usp=drive_link&ouid=102358073185606588058&rtpof=true&sd=true'
 url_video: ''
 
 # Slides (optional).
@@ -29,7 +29,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: slides = "CASE2022_presentation_final.pdf"
+# slides: example
 ---
 
 
