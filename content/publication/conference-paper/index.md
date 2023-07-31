@@ -39,7 +39,7 @@ summary: A Research Project utilized MAML-based 5-step PPO to improve robot’s 
 tags: [Human-Centered Automation, Intelligent and Flexible Manufacturing, Learning and Adaptive Systems]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
