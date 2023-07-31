@@ -170,18 +170,22 @@ sections:
               * Shun Hing Electric Works and Engineering Scholarship 2021/22
           organization: HKSAR Government; The Incorporated Trustees of The Cheng Foundation; Greater Bay Area Homeland Youth Community Foundation; ASM Pacific Technology Limited; Shun Hing Group; The Hong Kong Polytechnic University
           organization_url: 
-          title: Academic Scholarship
+          title: Academic
           url: 
         - certificate_url: 
           date_end: ''
           date_start: '2021-01-01'
           description: |2-
+              * Innovation and Technology Scholarship 2023 (HK$150,000): Aims to provide recognition to outstanding undergraduates who have demonstrated exceptional skills and achievements in IT.
+              * 21st Asia Pacific Information and Communications Technology Alliance (APICTA) Awards (Student-Tertiary Technology): Being a member of the HKSAR delegation and winning the largest yearly international ICT awards. Our team is the first Hong Kong winner in the tertiary student category in the past 4 years.
+              * Gold Award of The 8th China International College Students' 'Internet+' Innovation and Entrepreneurship Competition: Ranked in the top 0.009% to win the highest award among 3,400,000 participating teams. Participation was by 25.33 million college students in 6.03 million teams from 121 countries and regions in five continents, and the competition has become the largest global event for innovation and entrepreneurship.
+              * Hong Kong ICT Student Innovation Award (Tertiary or above) Gold Award and Grand Award in Student Innovation Stream for Project entitled “Mutual Cognitive Human-Robot Collaborative Manufacturing System”: Ranked in the top 0.3% to win the overall championship among 330 participating teams in Student innovation catorgory.
               * Second Prize (Entrepreneurship Proposal Track) of The 8th Hong Kong University Student Innovation and Entrepreneurship Competition 2022
               * Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship: instil a problem-driven innovation mindset into young talents through experiential learning and student-initiated research and development.
               * Finalist in AI and Fintech Division in Hong Kong Techathon 2022
-          organization: Hong Kong Science Park
+          organization: Innovation and Technology Commission; The Hong Kong and Shanghai Corporation Limited; Asia Pacific Information and Communications Technology Alliance; The Ministry of Education of the China; Hong Kong New Emerging Technology Education Association
           organization_url: 
-          title: Entrepreneurship
+          title: Innovation
           url: 
     design:
       columns: '2'
