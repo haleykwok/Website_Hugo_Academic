@@ -58,7 +58,7 @@ url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwo
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**RAIDS**](https://drive.google.com/file/d/1-EUpWj1nngniTLjTuNTsM4WblsXlZTIQ/view?usp=sharing)'
+  caption: 'Meta-Reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production'
   focal_point: ''
   preview_only: false
 
