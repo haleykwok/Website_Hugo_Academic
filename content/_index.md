@@ -179,7 +179,7 @@ sections:
               * Second Prize (Entrepreneurship Proposal Track) of The 8th Hong Kong University Student Innovation and Entrepreneurship Competition 2022
               * Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship: instil a problem-driven innovation mindset into young talents through experiential learning and student-initiated research and development.
               * Finalist in AI and Fintech Division in Hong Kong Techathon 2022
-          organization: Innovation and Technology Commission and The Hong Kong and Shanghai Corporation Limited (HSBC); Asia Pacific Information and Communications Technology Alliance; The Ministry of Education of the People's Republic of China; Hong Kong New Emerging Technology Education Association (HKNETEA); Hong Kong Science Park
+          organization: Hong Kong Science Park
           organization_url: 
           title: Entrepreneurship
           url: 
