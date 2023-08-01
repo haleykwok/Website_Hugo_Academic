@@ -3,6 +3,8 @@ title: Petronus Spherical Robot - Revolutionizing Pet Care with AI and IoT
 summary: The Petronus Spherical Robot is an innovative pet sitter designed to enhance the quality of life for pets and their owners. Leveraging the latest trends in Artificial Intelligence (AI) and the Internet of Things (IoT), the mission of the product is to provide practical solutions for pet monitoring and care.
 tags:
   - Robotics
+  - Internet of Things
+  - Arduino
 date: '2022-08-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -19,7 +21,7 @@ links:
     url: https://github.com/HaleyKwok/Spherical_Robot
 
 url_pdf: 'https://drive.google.com/file/d/1HWm06Mwj7lnCeUC36QnCySfe-0lxmlIQ/view?usp=sharing'
-url_code: 'https://github.com/HaleyKwok/Spherical_Robot'
+url_code: 'https://github.com/HaleyKwok/Spherical_Robot/tree/main/code'
 url_poster: 'https://drive.google.com/file/d/1RRubFRvyTZDl6D7ixnBmOrLKFcAO5Gqd/view?usp=sharing'
 url_slides: ‘https://drive.google.com/file/d/1tTC5OZGQTIzrT0lZezfE5RsNWeKfAXGQ/view?usp=sharing’
 url_source: 'https://drive.google.com/file/d/1_dp9mSYSsM5Mt2WoOhuZQe3kZDx-G-s5/view?usp=sharing'

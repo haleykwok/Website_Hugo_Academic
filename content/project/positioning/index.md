@@ -1,6 +1,6 @@
 ---
-title: 
-summary: 
+title: lighTag - A UWB Positioning System Integrated in Lighting System and its Applications
+summary: This project mainly focused on the research of the Ultra-wideband (UWB) technology and Internet of Things as well as their applications; supported by MIT Hong Kong Innovation Node and The Hong Kong Polytechnic University, made by KWOK Hin Chi, PAN Zewen, and ZHANG Wengyu from The Hong Kong Polytechnic University.
 tags:
   - Internet of Things
   - Arduino
@@ -17,8 +17,9 @@ links:
   - icon: github
     icon_pack: fab
     name: Github
-    url: 
-url_code: ''
+    url: https://github.com/lighTag-UWB/lighTag
+
+url_code: 'https://github.com/lighTag-UWB/lighTag/blob/main/backend.py'
 url_pdf: 'https://drive.google.com/file/d/1yjm-Rq3Yvg7UHue-tSGtJNZRNZPrOeuX/view?usp=drive_link'
 url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwoX6Va_/edit?usp=drive_link&ouid=102358073185606588058&rtpof=true&sd=true'
 url_video: ''
@@ -31,13 +32,3 @@ url_video: ''
 # slides: example
 ---
 
-
-Meta-Reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized ProductionMeta-Reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production
-Jan 2022 - Aug 2022Jan 2022 - Aug 2022
-
-Associated with The Hong Kong Polytechnic UniversityAssociated with The Hong Kong Polytechnic University
-A Research Project utilized MAML-based 5-step PPO to improve robot’s productivity in HRC by about 75% on average. It aims to enable collaborative robots (cobots) to acquire basic skills and perform tasks based on personalised production requirements, made by KWOK Hin Chi , LI Chengxi, PANG Yat Ming, ZHENG Pai.
-
-Awards:
-1. Champion in CA Paper Competition (Undergraduate Level) 2021/22
-2. Accepted by CASE 22'

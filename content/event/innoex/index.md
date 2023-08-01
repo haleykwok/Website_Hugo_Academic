@@ -1,8 +1,8 @@
 ---
-title: For Our Future Scholarship 2022 - Empowering Outstanding Scholars for Community Impact
+title: InnoTech Expo 2022 - Sharing on HKICT awarded project "Mutual Cognitive Human-Robot Collaborative Manufacturing System"
 
-event: Greater Bay Area Homeland Youth Community Foundation For Our Future Scholarship 2023
-event_url: https://www.gbayouth.org.hk/en/scope/scholarship
+event: InnoTech Expo 2022 
+event_url: 
 
 location: 
 address:

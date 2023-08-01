@@ -43,7 +43,7 @@ url_pdf: 'https://drive.google.com/file/d/1BmrugUacRbLUguatY2keeOVD7R-WDpI9/view
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: 'https://drive.google.com/file/d/1Ekh9BIVNp-kFXm08KjZihv2Er1D4_Hl1/view?usp=sharing'
-url_project: ''
+# url_project: ''
 url_slides: ''
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_video: 'https://www.youtube.com/watch?v=6o_pd5VpC-s'
@@ -61,7 +61,8 @@ url_video: 'https://www.youtube.com/watch?v=6o_pd5VpC-s'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects: example
+projects: 
+    - mchrcms
 
 ---
 
