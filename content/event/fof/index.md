@@ -1,14 +1,14 @@
 ---
-title: A Meta-Reinforcement Learning-Based Adaptive Robot Control for Human-Robot Collaboration in Personalized Production
+title: 
 
-event: 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE) 
-event_url: https://ras.papercept.net/conferences/conferences/CASE22/program/CASE22_ContentListWeb_1.html
+event: For Our Future Scholarship 2022
+event_url: https://www.gbayouth.org.hk/en/scope/scholarship
 
 location: 
 address:
   street: 
   city: 
-  region: Chengdu
+  region: Hong Kong
   postcode: 
   country: China
 
@@ -17,35 +17,35 @@ abstract: Nowadays, with the advancement of production technologies, the manufac
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-08-20T21:15:00Z'
-date_end: '2023-08-20T21:35:00Z'
+date: '2023-04-26T13:15:00Z'
+date_end: '2023-04-26T17:35:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [KWOK Hin Chi , LI Chengxi, PANG Yat Ming, ZHENG Pai]
-tags: [Human-Centered Automation, Intelligent and Flexible Manufacturing, Learning and Adaptive Systems]
+authors: [KWOK Hin Chi]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'CASE 2022'
+  caption: 'FOF 2022'
   focal_point: Right
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/kwokhinchi
-url_pdf: 'https://drive.google.com/file/d/1yjm-Rq3Yvg7UHue-tSGtJNZRNZPrOeuX/view?usp=drive_link'
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/kwokhinchi
+# url_pdf: ''
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwoX6Va_/edit?usp=drive_link&ouid=102358073185606588058&rtpof=true&sd=true'
-# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_slides: ''
+url_source: 'https://www.bastillepost.com/hongkong/article/12696446-15%E5%AD%B8%E7%94%9F%E7%8D%B2%E5%89%B5%E6%98%8E%E5%A4%A9%E7%8D%8E%E5%AD%B8%E9%87%91-%E9%BB%83%E6%B0%B8%E5%85%89%EF%B8%B0%E7%A4%BE%E6%9C%83%E5%B0%8D%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%85%85%E6%BB%BF'
 # url_video: 'https://youtube.com'
 
 
@@ -54,13 +54,13 @@ url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwo
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+# projects:
+#   - example
 ---
