@@ -14,8 +14,8 @@ image:
 
 links:
   - icon: Github
-    icon_pack: fab
-    name: Follow
+    icon_pack: fa-github
+    name: Github
     url: https://github.com/HaleyKwok/Spherical_Robot
 
 url_pdf: 'https://drive.google.com/file/d/1HWm06Mwj7lnCeUC36QnCySfe-0lxmlIQ/view?usp=sharing'
