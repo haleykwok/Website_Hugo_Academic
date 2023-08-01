@@ -1,37 +1,37 @@
 ---
-title: A Meta-Reinforcement Learning-Based Adaptive Robot Control for Human-Robot Collaboration in Personalized Production
+title: For Our Future Scholarship 2022 - Empowering Outstanding Scholars for Community Impact
 
-event: 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE) 
-event_url: https://ras.papercept.net/conferences/conferences/CASE22/program/CASE22_ContentListWeb_1.html
+event: Greater Bay Area Homeland Youth Community Foundation For Our Future Scholarship 2023
+event_url: https://www.gbayouth.org.hk/en/scope/scholarship
 
 location: 
 address:
   street: 
   city: 
-  region: Chengdu
+  region: Hong Kong
   postcode: 
   country: China
 
-summary: A Research Project utilized MAML-based 5-step PPO to improve robot’s productivity in HRC by about 75% on average. It aims to enable collaborative robots (cobots) to acquire basic skills and perform tasks based on personalised production requirements, made by KWOK Hin Chi , LI Chengxi, PANG Yat Ming, ZHENG Pai.
-abstract: Nowadays, with the advancement of production technologies, the manufacturing paradigm has gradually shifted from mass production to a small-batch and high-variety personalized production manner, urged by high flexible automation capabilities. In this paradigm, the existing inspection and assembly processes after manufacturing still rely to a large extent on either human operators with low efficiency or machines with low flexibility. To solve this issue, human-robot collaboration (HRC) has been a prevailing topic of recent concerns. Current robot control strategies in human-machine collaboration are mainly through pre-defined programming and do not yet meet the need for flexible and adaptable tasks in individualised production. To address this challenge, this paper proposes a deep reinforcement learning (DRL) approach based on meta-learning to drive robots in HRC. It enables collaborative robots (cobots) to acquire basic skills and perform tasks based on personalised production requirements, improving learning efficiency and thus quickly adapting to new tasks for human operators. The robot control task was carried out in a simulated environment taken from a real production scenario to assess its efficacy. Experimental results show that our proposed method enables the robot to learn and perform HRC tasks quickly and outperforms the baseline DRL method in terms of success rate.
+summary: As one of the esteemed scholars awarded the "For Our Future Scholarship 2022", I will have the opportunity to represent fellow scholars and share my inspiring stories of community impact and personal growth. 
+abstract: In the pursuit of recognizing exceptional university students who excel academically, exhibit diverse talents, and demonstrate unwavering dedication to community service, the Greater Bay Area Homeland Youth Community Foundation launched the 3rd edition of the "For Our Future Scholarship." As one of the esteemed scholars awarded the "For Our Future Scholarship 2022", I will have the opportunity to represent fellow scholars and share my inspiring stories of community impact and personal growth. The talk will highlight the transformative power of education, community service, and dedication to making a positive difference in society. By engaging with the audience, I aim to inspire others to embrace their own potential for creating meaningful change and contributing to the betterment of their communities and the Greater Bay Area as a whole.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-08-20T21:15:00Z'
-date_end: '2023-08-20T21:35:00Z'
+date: '2023-04-26T13:15:00Z'
+date_end: '2023-04-26T17:35:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [KWOK Hin Chi , LI Chengxi, PANG Yat Ming, ZHENG Pai]
-tags: [Human-Centered Automation, Intelligent and Flexible Manufacturing, Learning and Adaptive Systems]
+authors: [KWOK Hin Chi]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'CASE 2022'
+  caption: 'FOF 2023'
   focal_point: Right
 
 # links:
@@ -39,13 +39,13 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/kwokhinchi
-url_pdf: 'https://drive.google.com/file/d/1BmrugUacRbLUguatY2keeOVD7R-WDpI9/view?usp=sharing'
+# url_pdf: ''
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwoX6Va_/edit?usp=drive_link&ouid=102358073185606588058&rtpof=true&sd=true'
-# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_slides: ''
+url_source: 'https://www.bastillepost.com/hongkong/article/12696446-15%E5%AD%B8%E7%94%9F%E7%8D%B2%E5%89%B5%E6%98%8E%E5%A4%A9%E7%8D%8E%E5%AD%B8%E9%87%91-%E9%BB%83%E6%B0%B8%E5%85%89%EF%B8%B0%E7%A4%BE%E6%9C%83%E5%B0%8D%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%85%85%E6%BB%BF'
 # url_video: 'https://youtube.com'
 
 
@@ -54,13 +54,23 @@ url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwo
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+# projects:
+#   - example
 ---
+
+I believe in the power of the 3Cs, Curiosity, Challenges, and Changes. These are the key elements that drive my pursuit of growth and achieving my goals. Since the second grade of elementary school, I have been exposed to computers, and my interest in this machine grew rapidly. However, during my high school years, influenced by gender stereotypes and attending an all-girls school, I was discouraged from choosing subjects with a strong focus on logic and mathematics. Additionally, the low participation rate of women in the technology field led me to abandon opportunities in studying physics and information technology, which were closely related to computer science. Nevertheless, when I entered university, I rediscovered my passion for STEM and decided to embrace my love for technology once again.
+
+- **Curiosity** motivated me to explore the STEM field and participate in the RAIDS human-machine collaboration research project, always seeking new knowledge. This curiosity led me into the world of research, and I am grateful to my university for providing me the opportunity to be part of the RAIDS project. While winning awards and honors is gratifying, the pursuit of new knowledge and technologies is what I cherish the most.
+
+- I thrive on **Challenges** and fearlessly confront difficulties. In research and innovation projects, I constantly challenge myself and seek innovative approaches to problem-solving. I actively participate in international academic exchange programs and entrepreneurial competitions, fearlessly facing the unknown. This helps me constantly push my boundaries and discover my potential.
+
+- I am filled with the power of **Change** for the future, hoping to translate research outcomes into practical products and drive the development of the technology industry. My passion for STEM also motivates me to influence more students, expanding the impact of technology.
+
+In the journey of my future development, the 3Cs - Curiosity, Challenges, and Changes - will guide my path. I firmly believe that by maintaining curiosity, embracing challenges, and dedicating myself to change, I will achieve the future I aspire to. With the power of the 3Cs, I will explore, grow, realize my dreams, and make an impact on society.
