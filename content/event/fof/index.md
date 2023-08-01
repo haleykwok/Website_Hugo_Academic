@@ -1,5 +1,5 @@
 ---
-title: 
+title: For Our Future Scholarship 2022 - Empowering Outstanding Scholars for Community Impact
 
 event: Greater Bay Area Homeland Youth Community Foundation For Our Future Scholarship 2023
 event_url: https://www.gbayouth.org.hk/en/scope/scholarship
