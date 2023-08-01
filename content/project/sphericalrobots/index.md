@@ -18,8 +18,8 @@ image:
 #     name: Follow
 #     url: https://twitter.com/kwokhinchi
 url_code: ''
-url_pdf: 'https://drive.google.com/file/d/1yjm-Rq3Yvg7UHue-tSGtJNZRNZPrOeuX/view?usp=drive_link'
-url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwoX6Va_/edit?usp=drive_link&ouid=102358073185606588058&rtpof=true&sd=true'
+url_pdf: ''
+url_slides: ‘’
 url_video: ''
 
 # Slides (optional).
