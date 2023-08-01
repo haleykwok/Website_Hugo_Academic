@@ -12,11 +12,11 @@ image:
   caption: The diagram of Spherical Robot
   focal_point: Smart
 
-# links:
-#   - icon: github
-#     icon_pack: fa-github
-#     name: Github
-#     url: https://github.com/HaleyKwok/Spherical_Robot
+links:
+  - icon: github
+    icon_pack: fab
+    name: Github
+    url: https://github.com/HaleyKwok/Spherical_Robot
 
 url_pdf: 'https://drive.google.com/file/d/1HWm06Mwj7lnCeUC36QnCySfe-0lxmlIQ/view?usp=sharing'
 url_code: 'https://github.com/HaleyKwok/Spherical_Robot'
@@ -33,7 +33,6 @@ url_video: 'https://drive.google.com/file/d/1X-75ReIW8xzi45FKERpuovpHpaWbvhPE/vi
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-[Github](https://github.com/HaleyKwok/Spherical_Robot)
 
 The Petronus Spherical Robot is an innovative pet sitter designed to enhance the quality of life for pets and their owners. Leveraging the latest trends in Artificial Intelligence (AI) and the Internet of Things (IoT), the mission of the product is to provide practical solutions for pet monitoring and care.
 
