@@ -13,11 +13,11 @@ image:
   caption: The interface of the Library Management System
   focal_point: Smart
 
-# links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/kwokhinchi
+links:
+  - icon: github
+    icon_pack: fab
+    name: Github
+    url: https://github.com/HaleyKwok/Library_Management_System_Project
 url_code: 'https://github.com/HaleyKwok/Library_Management_System_Project'
 url_pdf: 'https://drive.google.com/file/d/1wPPG3phHJKRljaDIeEDp0KgwXcH0wdg6/view?usp=sharing'
 url_slides: 'https://drive.google.com/file/d/1m-3Jg9abBGox2O72dT5EFhN0-coztHm6/view?usp=sharing'
