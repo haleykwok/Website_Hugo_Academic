@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: Github
+  - icon: github
     icon_pack: fa-github
     name: Github
     url: https://github.com/HaleyKwok/Spherical_Robot
