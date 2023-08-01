@@ -34,19 +34,19 @@ image:
   caption: 'InnoTech Expo 2022'
   focal_point: Right
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/kwokhinchi
-url_pdf: ''
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/kwokhinchi
+url_pdf: 'https://drive.google.com/file/d/1BmrugUacRbLUguatY2keeOVD7R-WDpI9/view?usp=sharing'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
+url_poster: 'https://drive.google.com/file/d/1Ekh9BIVNp-kFXm08KjZihv2Er1D4_Hl1/view?usp=sharing'
+url_project: 'https://hinchi-kwok.com/project/mchrcms/'
 url_slides: ''
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_video: 'https://www.youtube.com/watch?v=6o_pd5VpC-s'
 
 
 # Markdown Slides (optional).
@@ -62,7 +62,7 @@ url_video: 'https://youtube.com'
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - ["Mutual Cognitive Human-Robot Collaborative Manufacturing System", "https://www.polyu.edu.hk/ise/raids/"]
+  - example
 ---
 
 
