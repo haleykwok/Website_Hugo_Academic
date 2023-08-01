@@ -12,8 +12,16 @@ address:
   postcode: 
   country: China
 
-summary: 
-abstract: 
+summary: In the pursuit of recognizing exceptional university students who excel academically, exhibit diverse talents, and demonstrate unwavering dedication to community service, the Greater Bay Area Homeland Youth Community Foundation launched the 3rd edition of the "For Our Future Scholarship." As one of the esteemed scholars awarded the "For Our Future Scholarship 2022", I will have the opportunity to represent fellow scholars and share their inspiring stories of community impact and personal growth. The talk will highlight the transformative power of education, community service, and dedication to making a positive difference in society. By engaging with the audience, the speaker aims to inspire others to embrace their own potential for creating meaningful change and contributing to the betterment of their communities and the Greater Bay Area as a whole.
+abstract: I believe in the power of the 3Cs, Curiosity, Challenges, and Changes. These are the key elements that drive my pursuit of growth and achieving my goals. Since the second grade of elementary school, I have been exposed to computers, and my interest in this machine grew rapidly. However, during my high school years, influenced by gender stereotypes and attending an all-girls school, I was discouraged from choosing subjects with a strong focus on logic and mathematics. Additionally, the low participation rate of women in the technology field led me to abandon opportunities in studying physics and information technology, which were closely related to computer science. Nevertheless, when I entered university, I rediscovered my passion for STEM and decided to embrace my love for technology once again.
+
+Curiosity motivated me to explore the STEM field and participate in the RAIDS human-machine collaboration research project, always seeking new knowledge. This curiosity led me into the world of research, and I am grateful to my university for providing me the opportunity to be part of the RAIDS project. While winning awards and honors is gratifying, the pursuit of new knowledge and technologies is what I cherish the most.
+
+I thrive on challenges and fearlessly confront difficulties. In research and innovation projects, I constantly challenge myself and seek innovative approaches to problem-solving. I actively participate in international academic exchange programs and entrepreneurial competitions, fearlessly facing the unknown. This helps me constantly push my boundaries and discover my potential.
+
+I am filled with the power of change for the future, hoping to translate research outcomes into practical products and drive the development of the technology industry. My passion for STEM also motivates me to influence more students, expanding the impact of technology.
+
+In the journey of my future development, the 3Cs - Curiosity, Challenges, and Changes - will guide my path. I firmly believe that by maintaining curiosity, embracing challenges, and dedicating myself to change, I will achieve the future I aspire to. With the power of the 3Cs, I will explore, grow, realize my dreams, and make an impact on society.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
