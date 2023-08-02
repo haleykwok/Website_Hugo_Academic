@@ -30,7 +30,7 @@ abcjs:
 
 # PREFACE
 
-As an individual with a deep-rooted passion for Computer Science, I started to find out materials that can provide me a comprehensive and systemic understandings towards Computer Sciecen and I am thrilled to introduce this book to you.
+As an individual with a deep-rooted passion for Computer Science, I started to find out materials that can provide me a comprehensive and systemic understandings towards Computer Science and I am thrilled to introduce this book to you.
 
 "Computing Essentials" serves as a comprehensive guide, providing a brief yet impactful introduction to the world of information technology. By reading "Computing Essentials," I have gained valuable insights into the inner workings of computers, learn about emerging technologies and trends, and develop a critical mindset towards the role of IT in today's society.
 
@@ -177,7 +177,7 @@ Software programs with a Ribbon GUI have:
 - Tabs: contain groups of related commands. Some tabs, called contextual tabs, appear only when they are needed and contain commands related to the selected object.
 - Galleries: like dialog boxes, display a set of choices.
 
-<center><img src = './Books_ComputingEssentials/C3RibbonGUI.png'></center>
+<center><img src = './C3RibbonGUI.png'></center>
 
 ## Specialized Application Software
 
