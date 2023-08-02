@@ -10,7 +10,7 @@ date: '2022-08-20T00:00:00Z'
 external_link: ''
 
 image:
-  caption: The diagram of 
+  caption: The diagram of UWB Module
   focal_point: Smart
 
 links:
