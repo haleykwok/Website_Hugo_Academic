@@ -177,7 +177,7 @@ Software programs with a Ribbon GUI have:
 - Tabs: contain groups of related commands. Some tabs, called contextual tabs, appear only when they are needed and contain commands related to the selected object.
 - Galleries: like dialog boxes, display a set of choices.
 
-<center><img src = 'content/post/Books/Books_ComputingEssentials/C3RibbonGUI.png'></center>
+<center><img src = 'C3RibbonGUI.png'></center>
 
 ## Specialized Application Software
 
