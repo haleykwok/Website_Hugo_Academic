@@ -99,7 +99,7 @@ sections:
           description: |2-
               Responsibilities include: Developed 3D-aware localization system with radiation ray collision method, 3D model printing and create GUI
         
-        - title: Research Asistant 
+        - title: Research Assistant 
           company: PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng, Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
           company_logo: 
@@ -235,10 +235,12 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
-        - name: Management System
-          tag: Management System
         - name: Robotics
           tag: Robotics
+        - name: Arduino
+          tag: Arduino
+        - name: Management System
+          tag: Management System
         - name: Other
           tag: Demo
     design:
