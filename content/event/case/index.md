@@ -1,5 +1,5 @@
 ---
-title: A Meta-Reinforcement Learning-Based Adaptive Robot Control for Human-Robot Collaboration in Personalized Production
+title: IEEE 18th International Conference on Automation Science and Engineering (CASE) - A Meta-Reinforcement Learning-Based Adaptive Robot Control for Human-Robot Collaboration in Personalized Production
 
 event: 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE) 
 event_url: https://ras.papercept.net/conferences/conferences/CASE22/program/CASE22_ContentListWeb_1.html
