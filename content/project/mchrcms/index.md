@@ -41,7 +41,20 @@ However, the increasing popularity of collaborative manufacturing between humans
 
 To address the challenges of difficult customized production and insufficient robot flexibility in on-demand manufacturing, a cognitive Cobot control system is proposed to enhance human-robot collaboration. An augmented reality (AR) guided human-robot collaborative manufacturing system is developed for customized products, integrating virtual and realistic task planning, dynamic guidance of visual data, and information sharing through AR. The system provides human-in-the-loop control approaches to better leverage human operators' intelligence. This AR-assisted human-robot collaboration moves towards intelligent manufacturing, leveraging industrial information technology and artificial intelligence algorithms to identify customized products in complex industrial scenarios, significantly improving assembly efficiency in SMEs, enhancing robot capabilities, and freeing humans from repetitive processes.
 
+**1) Context-aware holistic scene perception and task planning for HRC**
+The production shop floor is generating a huge amount of multimedia information such as images and videos every day, and this explosive growth of visual information can be used as source domain data in different industrial scenarios. Classifying human and robot models in depth images and reconstructing live human-robot collaboration models in point cloud data, as shown in Figure 1. The human motion trajectory and robot motion trajectory in the reconstructed model are recorded in real time with different markers to delineate the worker activity area and robot activity area to obtain a global grasp of the entire human-robot collaborative assembly, and further plan the operation process dynamically according to the assembly instructions in the manufacturing system to improve the operation efficiency. Our system allows cobot to generate task planning through the AI recognition of workpiece, workspace and worker, both of which have been successfully patented, proving our value of innovation.
+ 
+**2) Advanced human-robot collaborative assembly based on behavior understanding**
+AR and the industrial metaverse internet increase the control flexibility. Human and robots can understand different process at once, and users do not have to do the programming themselves. The images of the assembly floor are captured to reconstruct the field model, migrate a high-precision classification model from the field of artificial intelligence at the cost of small sample training, plan the worker work area and robot work area rationally and update their behaviours in real time according to the human-robot motion trajectory, and finally make intelligent decisions on assembly tasks to perform production processes on demand. This pattern recognition and inference algorithm is a technological innovation in this system.
+ 
+**3) Intelligent assembly based on Augmented Reality**
+In order to achieve on-demand deployment and visualization of assembly instructions, a complete information flow has been constructed in the human-robot collaborative assembly system, the communication protocols between different devices have been defined to improve the communication mechanism of the system to achieve active interaction and adaptive decision-making between the human-robot-manufacturing system with high flexibility. The team has developed a preliminary architecture and provide multiple button control modes to facilitate the motion control data and promote further data analysis and reasoning decisions in collaborative human-robot assembly.
+ 
+**4) AR dynamic guidance for closed-loop information flow based on Industrial Internet**
+Based on an augmented reality device visualization platform, a closed-loop information flow between the manufacturing system, the vision sensor and the human-robot is constructed. Based on the visual recognition and intelligent production results of the system, the assembly instructions are adaptively deployed to dynamically plan the assembly process to improve the efficiency of human-robot collaborative work, while visualizing the work instructions to assist the human-robot to quickly complete the highly flexible assembly of the connector and realize the active interaction in human-robot assembly.
+
 With the deployment of this system, perception, reasoning, and cognition capabilities are enhanced, enabling complex environment perception, motion path tracking, and shared assembly tasks between humans and Cobots. The system dynamically communicates instructions on an AR platform, creating a new model of flexible, rapidly adaptable, highly automated, and cost-effective customized product assembly.
+
 
 人機協作裝配作為現代智能工廠的主要實現方式之一，允許人類操作員和協作式機器人在一個共享的工作空間內完成各種製造裝配任務。由於其靈活的自動化能力，人機協作裝配在實現大規模個性化生產方面一直發揮著重要的作用。它將協作機器人高精確度、可靠性及可重複性的特性與人類的高靈活性和適應性相互結合，以實現最優化的生產力。
 
@@ -65,3 +78,5 @@ Other members of RAIDS
 
 Supervisor:
 Ir Dr Zheng Pai, Assistant Professor (ISE), Wong Tit Shing Young Scholar in Smart Robotics, and leader of RAIDS
+
+

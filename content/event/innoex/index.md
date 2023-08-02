@@ -1,10 +1,10 @@
 ---
 title: InnoTech Expo 2022 - Sharing on HKICT awarded project "Mutual Cognitive Human-Robot Collaborative Manufacturing System"
 
-event: InnoTech Expo 2022 
-event_url: 
+event: InnoTech Expo 2022
+event_url: https://ourhkfoundation.org.hk/innotechexpo2022/%E7%8E%A9%E5%91%B3%E7%A7%91%E6%99%AE/%E5%9F%BA%E6%96%BC%E4%BA%BA%E6%A9%9F%E4%BA%92%E8%AA%8D%E7%9F%A5%E7%9A%84%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%8D%94%E4%BD%9C%E8%A3%BD%E9%80%A0%E7%B3%BB%E7%B5%B1-12%E6%9C%8820%E6%97%A5-%E6%98%9F%E6%9C%9F%E4%BA%8C?value=fun&type=Innovation
 
-location: 
+location: Hong Kong Convention and Exhibition Centre
 address:
   street: 
   city: 
@@ -12,26 +12,26 @@ address:
   postcode: 
   country: China
 
-summary: As one of the esteemed scholars awarded the "For Our Future Scholarship 2022", I will have the opportunity to represent fellow scholars and share my inspiring stories of community impact and personal growth. 
-abstract: In the pursuit of recognizing exceptional university students who excel academically, exhibit diverse talents, and demonstrate unwavering dedication to community service, the Greater Bay Area Homeland Youth Community Foundation launched the 3rd edition of the "For Our Future Scholarship." As one of the esteemed scholars awarded the "For Our Future Scholarship 2022", I will have the opportunity to represent fellow scholars and share my inspiring stories of community impact and personal growth. The talk will highlight the transformative power of education, community service, and dedication to making a positive difference in society. By engaging with the audience, I aim to inspire others to embrace their own potential for creating meaningful change and contributing to the betterment of their communities and the Greater Bay Area as a whole.
+summary: In this workshop, the speakers, a group of graduate students from Hong Kong Polytechnic University, presented their innovative research on a Mutual Cognitive Human-Robot Collaborative Manufacturing System. This system explores the concept of Industrial 5.0, focusing on human-robot collaborative work environments to improve manufacturing and assembly tasks in smart factories.
+abstract: Industry 5.0 has attracted worldwide attention with its reference to the human-machine collaborative work model, which allows human operators and collaborative robots to perform a variety of manufacturing and assembly tasks in a shared workspace, and is widely used in the smart factory. However, the control methods and application areas of collaborative robots are still immature, and the robots lack the ability to adapt to new tasks in response to personalized tasks. In order to solve the difficulties of customized production and the lack of robot flexibility, a team of students from Polytechnic University proposes a human-machine cognitive robotic collaborative manufacturing system to improve the efficiency of the collaboration between the two parties. The system combines artificial intelligence with augmented reality and digital augmentation technologies to achieve highly detailed and flexible intelligent operations. The system enables robots to significantly improve their perception, reasoning, and cognitive abilities, so that they can better interact with industrial personnel and accelerate the progress of personalized production.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-04-26T13:15:00Z'
-date_end: '2023-04-26T17:35:00Z'
+date: '2022-12-20T14:00:00Z'
+date_end: '2022-12-20T14:20:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [KWOK Hin Chi]
-tags: []
+authors: [KWOK Hin Chi , LI Chengxi, PANG Yat Ming, ZHENG Pai]
+tags: [Human-Centered Automation, Intelligent and Flexible Manufacturing, Learning and Adaptive Systems]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'FOF 2023'
+  caption: 'InnoTech Expo 2022'
   focal_point: Right
 
 # links:
@@ -39,14 +39,14 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/kwokhinchi
-# url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1BmrugUacRbLUguatY2keeOVD7R-WDpI9/view?usp=sharing'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1Ekh9BIVNp-kFXm08KjZihv2Er1D4_Hl1/view?usp=sharing'
 # url_project: ''
 # url_slides: ''
-url_source: 'https://www.bastillepost.com/hongkong/article/12696446-15%E5%AD%B8%E7%94%9F%E7%8D%B2%E5%89%B5%E6%98%8E%E5%A4%A9%E7%8D%8E%E5%AD%B8%E9%87%91-%E9%BB%83%E6%B0%B8%E5%85%89%EF%B8%B0%E7%A4%BE%E6%9C%83%E5%B0%8D%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%85%85%E6%BB%BF'
-# url_video: 'https://youtube.com'
+# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_video: 'https://www.youtube.com/watch?v=6o_pd5VpC-s'
 
 
 # Markdown Slides (optional).
@@ -61,16 +61,9 @@ url_source: 'https://www.bastillepost.com/hongkong/article/12696446-15%E5%AD%B8%
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects:
-#   - example
+projects: 
+    - mchrcms
+
 ---
 
-I believe in the power of the 3Cs, Curiosity, Challenges, and Changes. These are the key elements that drive my pursuit of growth and achieving my goals. Since the second grade of elementary school, I have been exposed to computers, and my interest in this machine grew rapidly. However, during my high school years, influenced by gender stereotypes and attending an all-girls school, I was discouraged from choosing subjects with a strong focus on logic and mathematics. Additionally, the low participation rate of women in the technology field led me to abandon opportunities in studying physics and information technology, which were closely related to computer science. Nevertheless, when I entered university, I rediscovered my passion for STEM and decided to embrace my love for technology once again.
 
-- **Curiosity** motivated me to explore the STEM field and participate in the RAIDS human-machine collaboration research project, always seeking new knowledge. This curiosity led me into the world of research, and I am grateful to my university for providing me the opportunity to be part of the RAIDS project. While winning awards and honors is gratifying, the pursuit of new knowledge and technologies is what I cherish the most.
-
-- I thrive on **Challenges** and fearlessly confront difficulties. In research and innovation projects, I constantly challenge myself and seek innovative approaches to problem-solving. I actively participate in international academic exchange programs and entrepreneurial competitions, fearlessly facing the unknown. This helps me constantly push my boundaries and discover my potential.
-
-- I am filled with the power of **Change** for the future, hoping to translate research outcomes into practical products and drive the development of the technology industry. My passion for STEM also motivates me to influence more students, expanding the impact of technology.
-
-In the journey of my future development, the 3Cs - Curiosity, Challenges, and Changes - will guide my path. I firmly believe that by maintaining curiosity, embracing challenges, and dedicating myself to change, I will achieve the future I aspire to. With the power of the 3Cs, I will explore, grow, realize my dreams, and make an impact on society.

@@ -2,9 +2,9 @@
 title: InnoTech Expo 2022 - Sharing on HKICT awarded project "Mutual Cognitive Human-Robot Collaborative Manufacturing System"
 
 event: InnoTech Expo 2022
-event_url: 
+event_url: https://ourhkfoundation.org.hk/innotechexpo2022/%E7%8E%A9%E5%91%B3%E7%A7%91%E6%99%AE/%E5%9F%BA%E6%96%BC%E4%BA%BA%E6%A9%9F%E4%BA%92%E8%AA%8D%E7%9F%A5%E7%9A%84%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%8D%94%E4%BD%9C%E8%A3%BD%E9%80%A0%E7%B3%BB%E7%B5%B1-12%E6%9C%8820%E6%97%A5-%E6%98%9F%E6%9C%9F%E4%BA%8C?value=fun&type=Innovation
 
-location: 
+location: Hong Kong Convention and Exhibition Centre
 address:
   street: 
   city: 
@@ -43,10 +43,10 @@ url_pdf: 'https://drive.google.com/file/d/1BmrugUacRbLUguatY2keeOVD7R-WDpI9/view
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: 'https://drive.google.com/file/d/1Ekh9BIVNp-kFXm08KjZihv2Er1D4_Hl1/view?usp=sharing'
-url_project: 
-url_slides: ''
+# url_project: ''
+# url_slides: ''
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://www.youtube.com/watch?v=FHkH03IN4II'
+url_video: 'https://www.youtube.com/watch?v=6o_pd5VpC-s'
 
 
 # Markdown Slides (optional).
@@ -61,8 +61,9 @@ url_video: 'https://www.youtube.com/watch?v=FHkH03IN4II'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - mchrcms
+projects: 
+    - mchrcms
+
 ---
 
 
