@@ -22,7 +22,7 @@ organizations:
     url: https://www.polyu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Haley Kwok interested in the areas of Machine Learning, HCI/HRI, and Software Engineering. She has a deep passion for learning and remaining open to new ideas, always seeking to broaden her horizons and expand her skills through interdisciplinary learning.
+bio: I am interested in the areas of Machine Learning, HCI/HRI, and Software Engineering. She has a deep passion for learning and remaining open to new ideas, always seeking to broaden her horizons and expand her skills through interdisciplinary learning.
 
 # Interests to show in About widget
 interests:
