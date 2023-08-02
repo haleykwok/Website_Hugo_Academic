@@ -4,7 +4,7 @@ title: A Meta-Reinforcement Learning-Based Adaptive Robot Control for Human-Robo
 event: 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE) 
 event_url: https://ras.papercept.net/conferences/conferences/CASE22/program/CASE22_ContentListWeb_1.html
 
-location: 
+location: held in Mexico City (with satellite site concurrently in Chengdu, China)
 address:
   street: 
   city: 
@@ -12,13 +12,13 @@ address:
   postcode: 
   country: China
 
-summary: A Research Project utilized MAML-based 5-step PPO to improve robot’s productivity in HRC by about 75% on average. It aims to enable collaborative robots (cobots) to acquire basic skills and perform tasks based on personalised production requirements, made by KWOK Hin Chi , LI Chengxi, PANG Yat Ming, ZHENG Pai.
-abstract: Nowadays, with the advancement of production technologies, the manufacturing paradigm has gradually shifted from mass production to a small-batch and high-variety personalized production manner, urged by high flexible automation capabilities. In this paradigm, the existing inspection and assembly processes after manufacturing still rely to a large extent on either human operators with low efficiency or machines with low flexibility. To solve this issue, human-robot collaboration (HRC) has been a prevailing topic of recent concerns. Current robot control strategies in human-machine collaboration are mainly through pre-defined programming and do not yet meet the need for flexible and adaptable tasks in individualised production. To address this challenge, this paper proposes a deep reinforcement learning (DRL) approach based on meta-learning to drive robots in HRC. It enables collaborative robots (cobots) to acquire basic skills and perform tasks based on personalised production requirements, improving learning efficiency and thus quickly adapting to new tasks for human operators. The robot control task was carried out in a simulated environment taken from a real production scenario to assess its efficacy. Experimental results show that our proposed method enables the robot to learn and perform HRC tasks quickly and outperforms the baseline DRL method in terms of success rate.
+summary: CASE is the flagship conference of the IEEE Robotics & Automation Society. It provides a primary international forum for automation researchers and practitioners to present and discuss their work. CASE2022 will include plenary and keynote sessions, contributed paper sessions, workshops and tutorial sessions, industry panel discussions, exhibitions from our corporate partners, and numerous social events and student activities. The theme of the conference is AI (Artificial Intelligence) Automation. 
+abstract: A Research Project utilized MAML-based 5-step PPO to improve robot’s productivity in HRC by about 75% on average. It aims to enable collaborative robots (cobots) to acquire basic skills and perform tasks based on personalised production requirements, made by KWOK Hin Chi , LI Chengxi, PANG Yat Ming, ZHENG Pai. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-08-20T21:15:00Z'
-date_end: '2022-08-20T21:35:00Z'
+date_end: '2022-08-24T21:35:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -64,6 +64,8 @@ url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwo
 projects:
   - metalearning
 ---
+
+Nowadays, with the advancement of production technologies, the manufacturing paradigm has gradually shifted from mass production to a small-batch and high-variety personalized production manner, urged by high flexible automation capabilities. In this paradigm, the existing inspection and assembly processes after manufacturing still rely to a large extent on either human operators with low efficiency or machines with low flexibility. To solve this issue, human-robot collaboration (HRC) has been a prevailing topic of recent concerns. Current robot control strategies in human-machine collaboration are mainly through pre-defined programming and do not yet meet the need for flexible and adaptable tasks in individualised production. To address this challenge, this paper proposes a deep reinforcement learning (DRL) approach based on meta-learning to drive robots in HRC. It enables collaborative robots (cobots) to acquire basic skills and perform tasks based on personalised production requirements, improving learning efficiency and thus quickly adapting to new tasks for human operators. The robot control task was carried out in a simulated environment taken from a real production scenario to assess its efficacy. Experimental results show that our proposed method enables the robot to learn and perform HRC tasks quickly and outperforms the baseline DRL method in terms of success rate.
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

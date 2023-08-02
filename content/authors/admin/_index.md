@@ -26,7 +26,6 @@ bio: Haley Kwok interested in the areas of Machine Learning, HCI/HRI, and Softwa
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
   - Machine Learning
   - Human-Robot Collaboration
   - Software Engineering

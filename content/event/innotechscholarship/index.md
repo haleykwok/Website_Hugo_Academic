@@ -4,7 +4,7 @@ title: Innovation and Technology Scholarship Award Presentation Ceremony 2023
 event: Innovation and Technology Scholarship Award Presentation Ceremony 2023
 event_url: https://innotechscholarship.hkfyg.org.hk/en/2023/06/14/innovation-and-technology-scholarship-award-presentation-ceremony-2023/
 
-location: 
+location: Hong Kong Convention and Exhibition Centre
 address:
   street: 
   city: 

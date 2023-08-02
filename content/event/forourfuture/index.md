@@ -4,7 +4,7 @@ title: For Our Future Scholarship 2022 - Empowering Outstanding Scholars for Com
 event: Greater Bay Area Homeland Youth Community Foundation For Our Future Scholarship 2023
 event_url: https://www.gbayouth.org.hk/en/scope/scholarship
 
-location: 
+location: Hong Kong Convention and Exhibition Centre
 address:
   street: 
   city: 
