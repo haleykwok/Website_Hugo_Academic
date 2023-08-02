@@ -17,9 +17,9 @@ abstract: InnoEx is Asia's most anticipated Information and Technology (I&T) eve
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-12-20T14:00:00Z'
-date_end: '2022-12-20T14:20:00Z'
-all_day: false
+date: '2023-04-13T08:00:00Z'
+date_end: '2023-04-16T18:30:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -31,7 +31,7 @@ tags: [Human-Centered Automation, Intelligent and Flexible Manufacturing, Learni
 featured: false
 
 image:
-  caption: 'InnoTech Expo 2022'
+  caption: 'InnoEx 2022'
   focal_point: Right
 
 # links:
@@ -71,5 +71,5 @@ InnoEx is Asia's most anticipated Information and Technology (I&T) event and the
 
 At InnoEx, influential tech experts, entrepreneurs, thought leaders, and investors from various industries come together to share insights, discuss collaborations, and exchange ideas about upcoming trends and future opportunities. The event provides a unique opportunity for participants to gather first-hand market intelligence and network with potential partners in the fast-paced and dynamic world of technology.
 
-Presented at InnoEX, our system addresses the challenges faced in personalized production and the lack of flexibility in collaborative manufacturing.
+Presented at InnoEX and supported by HKTDC, our system addresses the challenges faced in personalized production and the lack of flexibility in collaborative manufacturing.
 
