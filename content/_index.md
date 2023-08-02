@@ -203,7 +203,7 @@ sections:
           - post
         author: ""
         category: ""
-        tag: ""
+        tag: "Computer Science, Industrial and Systems Engineering, Course Notes, Books, Reflection, 2022, 2023, Demo"
         exclude_featured: false
         exclude_future: false
         exclude_past: false
