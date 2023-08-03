@@ -34,13 +34,13 @@ interests:
 education:
   courses:
     - course: BSc in Enterprise Engineering with Management and Computing
-      institution: Hong Kong Polytechnic University
+      institution: Hong Kong Polytechnic University, China
       year: 2020-2025
     - course: Exchange Student and Research Intern in Computer Science and Technology
-      institution: Shanghai Jiaotong University
+      institution: Shanghai Jiaotong University, China
       year: 2023-2024
     - course: Research Intern in Computer Science
-      institution: McGill University
+      institution: McGill University, Canada
       year: 2023
 
 # Social/Academic Networking
@@ -80,5 +80,7 @@ email: 'kwokhinchi@gmail.com'
 highlight_name: true
 ---
 
-Haley Kwok interested in the areas of Machine Learning, HCI/HRI, and Software Engineering. She has a deep passion for learning and remaining open to new ideas, always seeking to broaden her horizons and expand her skills through interdisciplinary learning.
+Hello everyone. Welcome to my website! I am always open to new ideas and opportunities. Feel free to reach out.
+- I am interested in the areas of Machine Learning, HCI/HRI, and Software Engineering. I am interested in the areas of Machine Learning, HCI/HRI, and Software Engineering. 
+- I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE - will shape my future, help me achieve my goals, and positively impact my community. I am passionate for technology, and I am here to share my journey of rediscovering my passion for STEM. Despite facing gender stereotypes and societal expectations from selecting IT as my career, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. My ultimate ambition is to translate my research into real products, contribute to make CHANGES in the science and technology industry, and inspire others to pursue a career in STEM. 
 {style="text-align: justify;"}

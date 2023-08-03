@@ -30,7 +30,7 @@ abcjs:
 # Mid-term Review in 2023 
 
 ### 1/2023
-<center><img src = './img/2023/23RJan.png'></center>
+<center><img src = '/img/2023/23RJan.png'></center>
 
 ✅ IELTS
 ✅ NVIDIA Certificate 

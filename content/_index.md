@@ -135,7 +135,7 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: '2023-06-30'
+          date_start: ''
           description: |2-
               * HKIE Student Paper Award (Champion) 2021/22 for Project entitled "Meta-reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production"
               * Canada Mitacs Globalink Scholarship: Top 2000 students over the world are invited to join the research internship in Canadian universities.
@@ -147,7 +147,7 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: ''
           description: |2-
               * Innovation and Technology Scholarship 2023 (HK$150,000): Aims to provide recognition to outstanding undergraduates who have demonstrated exceptional skills and achievements in IT.
               * 21st Asia Pacific Information and Communications Technology Alliance (APICTA) Awards (Student-Tertiary Technology): Being a member of the HKSAR delegation and winning the largest yearly international ICT awards. Our team is the first Hong Kong winner in the tertiary student category in the past 4 years.
@@ -162,7 +162,7 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: ''
           description: |2-
               * Outstanding Tertiary Students Award of Hong Kong 2023
               * Presidential Student Leadership Award of Department 2023
@@ -172,7 +172,7 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: ''
           description: |2-
               * HKSAR Government Scholarship 2022/23
               * HKSAR Government Fund - Reaching Out Award 2023
@@ -202,7 +202,7 @@ sections:
         folders:
           - post
         author: ""
-        category: ""
+        category: "Computer Science", "Industrial and Systems Engineering", "Course Notes", "Books", "Reflection", "2022", "2023", "Demo"
         tag: ""
         exclude_featured: false
         exclude_future: false
