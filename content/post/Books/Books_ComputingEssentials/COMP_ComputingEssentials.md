@@ -179,7 +179,6 @@ Software programs with a Ribbon GUI have:
 
 <center><img src = 'C3RibbonGUI.png'></center>
 
-![png](./C3RibbonGUI.png) 
 
 ## Specialized Application Software
 
