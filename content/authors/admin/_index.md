@@ -80,5 +80,5 @@ email: 'kwokhinchi@gmail.com'
 highlight_name: true
 ---
 
-I am interested in the areas of Machine Learning, HCI/HRI, and Software Engineering. Feel free to reach out.
+Embrace Curiosity, Confront Challenges, and Drive Change. Feel free to reach out.
 {style="text-align: justify;"}
