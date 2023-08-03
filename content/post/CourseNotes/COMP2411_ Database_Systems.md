@@ -5,7 +5,7 @@ updated: 2023-06-14
 tags: [2022, Course Notes, Computer Science] 
 categories: "Course Notes"
 keywords:
-description: The overview of course COMP2411 Database Systems
+summary: The overview of course COMP2411 Database Systems
 top_img: 
 comments: true
 cover:

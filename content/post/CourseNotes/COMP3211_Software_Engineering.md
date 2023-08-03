@@ -5,7 +5,7 @@ updated: 2023-06-15
 tags: [2022, Course Notes, Computer Science] 
 categories: "Course Notes"
 keywords:
-description: The overview of course COMP3211 Software Engineering
+summary: The overview of course COMP3211 Software Engineering
 top_img: 
 comments: true
 cover:

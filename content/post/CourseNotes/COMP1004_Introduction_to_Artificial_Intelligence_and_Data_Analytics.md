@@ -5,7 +5,7 @@ updated: 2023-05-20
 tags: [2022, Course Notes, Computer Science] 
 categories: "Course Notes"
 keywords:
-description: The overview of course COMP1004 Introduction to Artificial Intelligence and Data Analytics
+summary: The overview of course COMP1004 Introduction to Artificial Intelligence and Data Analytics
 top_img: 
 comments: true
 cover:

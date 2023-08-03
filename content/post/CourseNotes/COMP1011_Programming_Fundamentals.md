@@ -5,7 +5,7 @@ updated: 2023-06-14
 tags: [2023, Course Notes, Computer Science] 
 categories: "Course Notes"
 keywords:
-description: The overview of course COMP1011 Programming Fundamentals.
+summary: The overview of course COMP1011 Programming Fundamentals.
 top_img: 
 comments: true
 cover:

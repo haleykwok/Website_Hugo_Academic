@@ -5,7 +5,7 @@ updated:
 tags: [2023, Course Notes, Industrial and Systems Engineering] 
 categories: "Course Notes"
 keywords:
-description: The overview of course ENG4001 Project Management
+summary: The overview of course ENG4001 Project Management
 top_img: 
 comments: true
 cover:

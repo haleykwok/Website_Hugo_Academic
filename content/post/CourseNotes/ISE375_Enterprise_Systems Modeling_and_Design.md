@@ -5,7 +5,7 @@ updated: 2023-02-15
 tags: [2022, Course Notes, Computer Science, Industrial and Systems Engineering]
 categories: "Course Notes"
 keywords:
-description: The overview of course ISE375 Enterprise Systems Modeling and Design
+summary: The overview of course ISE375 Enterprise Systems Modeling and Design
 top_img: 
 comments: true
 cover:
