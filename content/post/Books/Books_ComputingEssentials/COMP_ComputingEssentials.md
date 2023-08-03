@@ -5,7 +5,7 @@ updated: 2023-05-30
 tags: [2022, Books, Computer Science] 
 categories: "Books"
 keywords:
-description: The overview of the book Computing Essentials, Making IT work for you
+summary: The overview of the book Computing Essentials, Making IT work for you
 top_img: 
 comments: true
 cover:
