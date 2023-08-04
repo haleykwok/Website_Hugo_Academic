@@ -36,7 +36,7 @@ education:
     - course: BSc in Enterprise Engineering with Management
       institution: Hong Kong Polytechnic University, China
       year: 2020-2025
-    - course: BSc in Computing
+    - course: BSc in Computing (minor)
       institution: Hong Kong Polytechnic University, China
       year: 2021-2025
     - course: Exchange Student and Research Intern in Computer Science and Technology
@@ -90,7 +90,7 @@ Hi everyone, welcome to my website. I am interested in the areas of Machine Lear
 
 Ever since the second grade of elementary school, I have been exposed to computers, and my interest in this machine grew rapidly. During my high school years, due to gender stereotyping and attending a traditional all-girls school with a low participation rate of girls in science and technology, I was discouraged from choosing logic and math-based subjects, causing me to pass up the opportunity to study Physics and Information Technology, which are closely related to Computer Science. While I entered university, I rediscovered my passion for STEM and decided to embrace my love for technology. Because of my background, I was at a disadvantage when it came to choosing engineering subjects such as computer science and electronic engineering in university admission. Fortunately, with the support of my professors, I received the chances to participate in a computer science related projects and took several computer science courses, which really helped me to strengthen my computer science background.
 
-My CURIOSITY led me to explore the field of STEM and to participate in the RAIDS human-robot collaboration research program in my constant quest for new knowledge. With the support of the Polytechnic University, I was given the opportunity to participate in the RAIDS Human-Machine Collaborative Research Program. While participating in competitions and winning honors, I cherish the pursuit of new knowledge and technology.
+My CURIOSITY led me to explore the field of STEM and to participate in the RAIDS human-robot collaboration research program in my constant quest for new knowledge. With the support of the Hong Kong Polytechnic University, I was given the opportunity to participate in the RAIDS Human-Robot Collaboration Research Project. While participating in competitions and winning honors, I cherish the pursuit of new knowledge and technology. Later, I worked as a research intern at McGill University in Canada, where I gained more research experience and knowledge in the field of computer science. These experiences mean a lot to me, and I am grateful for the opportunities that have been given. 
 
 I like to accept CHALLENGES and face difficulties. In my research and innovation projects, I look forward to constantly challenging myself and finding innovative solutions to problems. I actively participate in international academic exchange programs and entrepreneurial competitions, and bravely face unknown challenges. This will enable me to break through and realize my potential.
 
