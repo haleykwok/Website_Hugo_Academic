@@ -96,4 +96,5 @@ I envision a future filled with the power of change, and I hope to transform my 
 Although my path to studying computer science sounds rocky, I made no regret on the decision I made earlier because I believe every journey has its value in life. As Steve Jobs said, “You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.” In the journey of my future development, the 3Cs - Curiosity, Challenges, and Changes - will guide my path. I firmly believe and being sanguine that by maintaining curiosity, embracing challenges, and dedicating myself to change, I will achieve the future I aspire to. With the power of the 3Cs, I will explore, grow, realize my dreams, and make an impact on society. We're here to put a dent in the universe. Otherwise, why else even be here?
 
 </details>
+
 {style="text-align: justify;"}
