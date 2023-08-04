@@ -41,3 +41,4 @@ I like to accept challenges and face difficulties. In my research and innovation
 I envision a future filled with the power of change, and I hope to transform my research results into real products and promote the development of the science and technology industry. My love for STEM also makes me interested in influencing more students and expanding the impact of science and technology.
 
 Moving forward, the 3Cs - Curiosity, Challenge, and Change - will guide my direction. I strongly believe that staying curious, embracing challenges, and committing to change will lead to the future I aspire to. I will use the power of the 3Cs to explore, grow, realize my dreams and impact my community.
+

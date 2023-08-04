@@ -22,7 +22,7 @@ organizations:
     url: https://www.polyu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE - will shape my future, help me achieve my goals, and positively impact my community. I am passionate for technology, and I am here to share my journey of rediscovering my passion for STEM. Despite facing gender stereotypes and societal expectations from selecting IT as my career, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. My ultimate ambition is to translate my research into real products, contribute to make CHANGES in the science and technology industry, and inspire others to pursue a career in STEM. 
+bio: I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE - will shape my future, help me achieve my goals, and positively impact my community. I am passionate for technology, and I am here to share my journey of rediscovering my passion for STEM. Despite facing gender stereotypes and societal expectations from selecting IT as my career before, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. My ultimate ambition is to translate my research into real products, contribute to make CHANGES in the science and technology industry, and inspire others to pursue a career in STEM. 
 
 # Interests to show in About widget
 interests:
@@ -81,6 +81,6 @@ highlight_name: true
 ---
 
 Hi everyone, welcome to my website. I am interested in the areas of Machine Learning, HCI/HRI, and Software Engineering. Feel free to reach out.
-I strongly believe that the 3Cs - Curiosity, Challenge, and Change - will shape my future, help me achieve my goals, and positively impact my community. I am passionate for technology, and I am here to share my journey of rediscovering my passion for STEM. Despite facing gender stereotypes and societal expectations from selecting IT as my career before, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. My ultimate ambition is to translate my research into real products, contribute to make CHANGES in the science and technology industry, and inspire others to pursue a career in STEM. 
+- I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE - will shape my future, help me achieve my goals, and positively impact my community. I am passionate for technology, and I am here to share my journey of rediscovering my passion for STEM. Despite facing gender stereotypes and societal expectations from selecting IT as my career before, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. My ultimate ambition is to translate my research into real products, contribute to make CHANGES in the science and technology industry, and inspire others to pursue a career in STEM. 
 
 {style="text-align: justify;"}
