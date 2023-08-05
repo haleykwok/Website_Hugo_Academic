@@ -58,7 +58,7 @@ url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwo
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Meta-Reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production'
+  caption: 'The diagram of meta-RL learning process'
   focal_point: ''
   preview_only: false
 
