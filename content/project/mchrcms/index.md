@@ -71,10 +71,10 @@ Awards:
 4. [Second Prize (Entrepreneurship Proposal Track) of The 8th Hong Kong University Student Innovation and Entrepreneurship Competition 2022](https://www.hkchallengeplus.com/en/)
 
 Students:
-Tsang Chin-lok, Mphil student (Department of Aeronautical and Aviation Engineering)
-Li Chengxi, PhD student (Department of Industrial and Systems Engineering (ISE))
-Kwok Hin-chi, undergraduate student (ISE)
-Other members of RAIDS
+- Tsang Chin-lok, Mphil student (Department of Aeronautical and Aviation Engineering)
+- Li Chengxi, PhD student (Department of Industrial and Systems Engineering (ISE))
+- Kwok Hin-chi, undergraduate student (ISE)
+- Other members of RAIDS
 
 Supervisor:
 Ir Dr Zheng Pai, Assistant Professor (ISE), Wong Tit Shing Young Scholar in Smart Robotics, and leader of RAIDS
