@@ -71,7 +71,7 @@ sections:
       items:
         - title: Research Assistant
           company: SJTU Information and Computing Lab, led by Prof. Fan Cheng, Shanghai Jiao Tong University
-          company_url: 'https://cs.sjtu.edu.cn/en/'
+          company_url: 'https://www.cs.sjtu.edu.cn/~chengfan/index.html'
           company_logo: sjtu_logo
           location: Shanghai, China
           date_start: '2023-08-16'
