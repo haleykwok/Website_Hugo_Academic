@@ -82,7 +82,7 @@ sections:
         - title: Research Assistant
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
           company_url: 'https://www.cs.mcgill.ca/~jguo/lab.html'
-          company_logo: mcgill_logo
+          company_logo: mcgill-logo
           location: Montreal, Canada
           date_start: '2023-05-19'
           date_end: '2023-08-13'
@@ -102,7 +102,7 @@ sections:
         - title: Research Assistant 
           company: PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng, Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
-          company_logo: polyu
+          company_logo: polyu-logo
           location: Hong Kong, China
           date_start: '2021-07-01'
           date_end: '2023-06-30'
