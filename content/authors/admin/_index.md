@@ -40,7 +40,7 @@ education:
       institution: Hong Kong Polytechnic University, China
       year: 2021-2025
     - course: Exchange Student and Research Intern in Computer Science and Technology
-      institution: [Shanghai Jiaotong University, China](https://cs.sjtu.edu.cn/en/)
+      institution: Shanghai Jiaotong University, China
       year: 2023-2024
     - course: Research Intern in Computer Science
       institution: McGill University, Canada
