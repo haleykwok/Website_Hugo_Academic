@@ -81,7 +81,7 @@ sections:
 
         - title: Research Assistant
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
-          company_url: 'https://www.cs.mcgill.ca/~jguo/lab.html'
+          company_url: 'https://www.cs.mcgill.ca/~martin/students.html'
           company_logo: mcgill-logo
           location: Montreal, Canada
           date_start: '2023-05-19'
@@ -269,14 +269,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
   # - block: collection
   #   id: featured
   #   content:
