@@ -326,7 +326,7 @@ sections:
         I'm interested in the areas of Machine Learning, HCI/HRI, and Software Engineering. Feel free to reach out to me for further discussion.
       # Contact (add or remove contact options as necessary)
       email: kwokhinchi@gmail.com
-      phone: (+852) 5225 7202
+      phone: ''
       appointment_url: ''
       address:
         street: 
