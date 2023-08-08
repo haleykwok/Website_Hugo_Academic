@@ -83,7 +83,8 @@ email: 'kwokhinchi@gmail.com'
 highlight_name: true
 ---
 
-- Hi everyone, welcome to my website. I am interested in the areas of Machine Learning, HCI/HRI, and Software Engineering. I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE - will shape my future, help me achieve my goals, and positively impact my community. I am passionate for technology, and I am here to share my journey of rediscovering my passion for STEM. Despite facing gender stereotypes and societal expectations from selecting IT as my career before, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. My ultimate ambition is to translate my research into real products, contribute to make CHANGES in the science and technology industry, and inspire others to pursue a career in STEM. 
+- Hi everyone, welcome to my website. I am interested in the areas of Machine Learning, HCI/HRI, and Software Engineering. 
+- I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE - will shape my future, help me achieve my goals, and positively impact my community. I am passionate for technology, and I am here to share my journey of rediscovering my passion for STEM. Despite facing gender stereotypes and societal expectations from selecting IT as my career before, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. My ultimate ambition is to translate my research into real products, contribute to make CHANGES in the science and technology industry, and inspire others to pursue a career in STEM. 
 - An individual may be able to do great things, but a group of individuals can do better. Feel free to reach out if you have cool idea that we can collaborate by any chance.
 
 <details close>
