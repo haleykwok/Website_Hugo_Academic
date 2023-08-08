@@ -42,10 +42,10 @@ image:
 # url_pdf: ''
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_poster: ''
+url_poster: 'https://hkytsa.org/otsahk/otsahk2023/hk/index.html'
 # url_project: ''
 # url_slides: ''
-url_source: 'https://hkytsa.org/otsahk/otsahk2023/hk/index.html'
+# url_source: ''
 # url_video: 'https://youtube.com'
 
 
