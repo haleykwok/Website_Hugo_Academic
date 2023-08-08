@@ -77,7 +77,7 @@ social:
     link: uploads/KwokHinChi_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'kwokhinchi@gmail.com'
+email: 'kwokhinchi[AT]gmail[DOT]com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
