@@ -53,7 +53,7 @@ One of the core member in PolyU iOS Club
 ### 3/2023
 
 ✅ Presidental Student Leadership Award (only one student would be awarded in each department)
-<!-- <center><img src = '/img/2023/23RPSLA.png'></center> -->
+<center><img src = '/img/2023/23RPSLA.png'></center> 
 Photo taken with the head of Department of Industrial and Systems Engineering Prof. Chan and President of PolyU Prof. Teng
 <center><img src = '/img/2023/23R_PSLA_ProfChan.jpeg'></center>
 <center><img src = '/img/2023/23R_PSLA_ProfTeng.jpg'></center>
@@ -102,8 +102,8 @@ The National Natural Science Foundation of China (NSFC) and the Research Grants 
 
 
 <center><img src = '/img/2023/23RHallScholarship.png'></center>
-<center><img src = '/img/2023/23RTalentDevelopment.png'></center>
+<center><img src = '/img/2023/23RTalentDevelopment.png'></center> 
  
 
 
- -->
+
