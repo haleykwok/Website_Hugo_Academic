@@ -1,4 +1,5 @@
-<!-- ---
+<!-- 
+---
 title: Mid-term Review in 2023 
 date: 2023-04-20 
 updated: 
@@ -102,8 +103,6 @@ The National Natural Science Foundation of China (NSFC) and the Research Grants 
 
 
 <center><img src = '/img/2023/23RHallScholarship.png'></center>
-<center><img src = '/img/2023/23RTalentDevelopment.png'></center> 
- 
-
+<center><img src = '/img/2023/23RTalentDevelopment.png'></center>-->
 
 
