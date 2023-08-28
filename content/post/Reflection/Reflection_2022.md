@@ -1,4 +1,5 @@
-<!-- ---
+<!--  
+---
 title: 2022, An incredible year to step out of Comfort Zone
 date: 2022-12-31 
 updated:
@@ -74,12 +75,11 @@ I think it's been an exciting year with a lot of good things happening. Thanks t
 
 ## Academic
 ✅ Achieve CGPA 3.7
-<!-- <center><img src = '22RGPA.png'></center> 
 ✅ Dean's list (Faculty of Engineering) 2021/22, Ranking 1 in Major
 <center><img src = '/img/2022/22RDean.png' width = 300 ></center>
 
 
-<!-- <center><img src = '/img/2022/22RAzure_Certificate copy.png'></center> 
+
 ✅ Certificates of my self-learning on more than 10 courese on Azure, Python, Data Science, Machine Learning, Deep Learning, etc.
 Please check my [LinkedIn](https://www.linkedin.com/in/haley-kwok-4076a8254/) for detailed verifications
 AI-900 certified 
@@ -122,7 +122,7 @@ Group Research Project Supervised by Dr. Pai Zheng from [Research Group of AI fo
 
 ✅ [2022 Student Innovation Grand Award and Student Innovation Award (Tertiary or above) Gold Award by HKNETA](https://www.hkictawards.hk/award_en.php?year=2022&aid=8)
 <center><img src = '/img/2022/22RHKICT.png'></center>
-<!-- <center class = 'fourth'><img src = '22RHKICT3.jpeg' width = 200><img src = '22RHKICT2.jpeg' width = 200><img src = '22RHKICT1.jpeg' width = 200><img src = '22RHKICT4.jpeg' width = 200></center> 
+
 
 <center><img src = '/img/2022/22RHKICT1.jpeg'></center>
 <center><img src = '/img/2022/22RHKICT2.jpeg'></center>
@@ -152,16 +152,16 @@ Group Research Project Supervised by Dr. Pai Zheng from [Research Group of AI fo
 ## Scholarship
 ✅ Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship
 ✅ Shun Hing Electric Works and Engineering Scholarship 2021/22
-<!-- <center><img src = '22RShun Hing Electric Works and Engineering Scholarship_KWOK Hin Chi.png'></center> 
+
 ✅ URIS Scholarship 2021/22 
 Undergraduate Research and Innovation Scheme (URIS) is a prestigious programme aimed to strengthen academic curiosity and enquiry-based learning among outstanding undergraduate students. It is University's objective to nurture the next generation researchers and innovators. It provides $30000 research funding and $20000 scholarship for each student.
 <center><img src = '/img/2022/22RURIS.png'></center>
 ✅ Government Scholarship 2022/23 ($40000)
 The awardees should have:
 ​1. academic excellence (with a minimum cumulative GPA of 3.7 by the end of 2021/22);
-2. attained a minimum of 24 credits in 2021/22 (including the transferred credits of the subjects taken in 2021/22); and
-3. achievement/involvement in extra-curricular activities and/or community services, demonstrated 
-4. leadership and good communication skills in the past two academic years.
+1. attained a minimum of 24 credits in 2021/22 (including the transferred credits of the subjects taken in 2021/22); and
+2. achievement/involvement in extra-curricular activities and/or community services, demonstrated 
+3. leadership and good communication skills in the past two academic years.
 <center><img src = '/img/2022/22RHKSAR.png'></center>
 ✅ Receive Lee Hysan Scholarship, but rejected due to the time-clash with MITACS
 <center><img src = '/img/2022/22RSL.png'></center>
@@ -170,4 +170,4 @@ The awardees should have:
 
 
 
-<center>End of my 2022<center> -->
+<center>End of my 2022<center>-->

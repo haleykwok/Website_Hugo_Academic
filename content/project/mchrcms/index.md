@@ -24,7 +24,7 @@ image:
 #     url: https://twitter.com/kwokhinchi
 # url_code: ''
 # url_pdf: ''
-url_slides: 'https://docs.google.com/presentation/d/1WOKw3FGCJllrwoo4R4wMfJNYU7Oi4Xtd/edit?usp=sharing&ouid=102358073185606588058&rtpof=true&sd=true'
+# url_slides: 'https://docs.google.com/presentation/d/1WOKw3FGCJllrwoo4R4wMfJNYU7Oi4Xtd/edit?usp=sharing&ouid=102358073185606588058&rtpof=true&sd=true'
 url_video: 'https://www.youtube.com/watch?v=FHkH03IN4II'
 
 # Slides (optional).
@@ -35,7 +35,7 @@ url_video: 'https://www.youtube.com/watch?v=FHkH03IN4II'
 # slides: example
 ---
 
-Human-robot collaborative assembly (HRCA) is a crucial implementation in modern smart factories, enabling seamless communication and cooperation between human operators and robots in a shared workspace. HRCA plays a significant role in achieving personalized production with high efficiency, combining the accuracy and reliability of collaborative robots with the flexibility and adaptability of humans.
+<!-- Human-robot collaborative assembly (HRCA) is a crucial implementation in modern smart factories, enabling seamless communication and cooperation between human operators and robots in a shared workspace. HRCA plays a significant role in achieving personalized production with high efficiency, combining the accuracy and reliability of collaborative robots with the flexibility and adaptability of humans.
 
 However, the increasing popularity of collaborative manufacturing between humans and Cobots has highlighted certain challenges. The application areas and control approaches of Cobots, especially for individualized tasks, are still immature. With the trend of mass customization, there is a lack of automated solutions for detailed product assembly, resulting in manual assembly as the predominant method for complex customized products among SMEs. Cobots lack the ability to adapt to new tasks easily, requiring manual reprogramming by engineers, leading to increased time costs and reduced fluency in human-robot collaboration.
 
@@ -53,7 +53,20 @@ In order to achieve on-demand deployment and visualization of assembly instructi
 **4) AR dynamic guidance for closed-loop information flow based on Industrial Internet**
 Based on an augmented reality device visualization platform, a closed-loop information flow between the manufacturing system, the vision sensor and the human-robot is constructed. Based on the visual recognition and intelligent production results of the system, the assembly instructions are adaptively deployed to dynamically plan the assembly process to improve the efficiency of human-robot collaborative work, while visualizing the work instructions to assist the human-robot to quickly complete the highly flexible assembly of the connector and realize the active interaction in human-robot assembly.
 
-With the deployment of this system, perception, reasoning, and cognition capabilities are enhanced, enabling complex environment perception, motion path tracking, and shared assembly tasks between humans and Cobots. The system dynamically communicates instructions on an AR platform, creating a new model of flexible, rapidly adaptable, highly automated, and cost-effective customized product assembly.
+With the deployment of this system, perception, reasoning, and cognition capabilities are enhanced, enabling complex environment perception, motion path tracking, and shared assembly tasks between humans and Cobots. The system dynamically communicates instructions on an AR platform, creating a new model of flexible, rapidly adaptable, highly automated, and cost-effective customized product assembly. -->
+
+As one of the main realizations of the modern smart factory, human-robot collaborative assembly (HRCA) allows human operators and collaborative robots to perform a variety of manufacturing and assembly tasks in a shared workspace. Due to its flexible automation capabilities, human-machine collaborative assembly has been playing an important role in realizing large-scale personalized production. It combines the high accuracy, reliability and repeatability of collaborative robots with the high flexibility and adaptability of humans to achieve optimized productivity.
+
+The share of collaborative robots in the robotics market has increased dramatically as this collaborative manufacturing model has gained popularity. However, the corresponding application areas and control methods of collaborative robots are still immature, especially when responding to individualized tasks, the robots lack the ability to adapt to new tasks and require engineers to redesign them, a process that increases the time cost and reduces the smoothness of collaboration between the two parties. Mass customization has become a new trend in existing manufacturing models. However, due to the lack of automated solutions for detailed product assembly, manual assembly is still the dominant assembly method used by SMEs for complex customized products.
+
+In order to address the challenges of customized production and lack of robot flexibility, we propose a robotic co-manufacturing system based on human-robot interaction to improve the efficiency of collaboration between both parties. To realize intelligent operations in highly detailed and flexible assembly situations, we develop an augmented reality (AR)-guided human-robot collaborative manufacturing system. It integrates virtual reality task planning and dynamic guidance of visual data, enhances the artificial intelligence of the collaborative robot and AR information sharing, and provides human-supervised control methods in a user-friendly way, thus better integrating the intelligence of the operator and the collaborative robot. It migrates algorithmic models from the field of artificial intelligence to complex industrial scenarios, enabling customized product recognition at the cost of small samples and enhancing the ability of collaborative robots to perform multimodal tasks. The system frees people from repetitive mechanical tasks and makes human-robot collaboration the best choice for industrial organizations.
+
+**1) Context-aware holistic scene perception and task planning for HRC**
+**2) Advanced human-robot collaborative assembly based on behavior understanding**
+**3) Intelligent assembly based on Augmented Reality**
+**4) AR dynamic guidance for closed-loop information flow based on Industrial Internet**
+
+By deploying the system, we have enhanced the perception, reasoning and cognitive capabilities of the system, including the intelligence of industrial personnel and robots. We achieved the ability to perceive complex environments and track motion paths, to share assembly tasks between humans and collaborative robots based on perceived information, and to adapt to rapidly realize personalized production plans. At the same time, the system realizes interactive visualization and dynamic instruction delivery on an AR platform, resulting in a new model of customized product assembly that is flexible, adaptable, highly automated, and cost-effective.
 
 
 人機協作裝配作為現代智能工廠的主要實現方式之一，允許人類操作員和協作式機器人在一個共享的工作空間內完成各種製造裝配任務。由於其靈活的自動化能力，人機協作裝配在實現大規模個性化生產方面一直發揮著重要的作用。它將協作機器人高精確度、可靠性及可重複性的特性與人類的高靈活性和適應性相互結合，以實現最優化的生產力。
@@ -64,11 +77,6 @@ With the deployment of this system, perception, reasoning, and cognition capabil
 
 通過部署這一系統，我們增強了系統的感知、推理和認知能力，包括工業人員和機器人的智能。實現了對複雜環境的感知和運動路徑的追蹤，根據感知信息在人和協作式機器人之間共享裝配任務，並適應快速實現個性化生產進度。同時，系統在AR平台上交互式地可視化和動態地傳遞指令，形成了一個新的柔性、多用途、快速適應性、高度自動化和成本效益的定制化產品裝配模式。
 
-Awards: 
-1. [APICTA](https://apicta.org/apicta-2022/): Being a member of the HKSAR delegation and winning the largest yearly international ICT awards that all the participants are ranked in the top 3 among their regions/ countries. Our team is the first Hong Kong winner in the tertiary student category in the past 4 years. 
-2. [HKICT Grand Award and Gold Award](https://www.hkictawards.hk/award_en.php?year=2022&aid=8): Ranked in the top 0.3% to win the overall championship among 330 participating teams in Student innovation catorgory
-3. [Gold Award of Internet+](https://www.polyu.edu.hk/ise/news-and-events/news/2022/20221201-student-award/): Ranked in the top 0.009% to win the highest award among 3,400,000 participating teams
-4. [Second Prize (Entrepreneurship Proposal Track) of The 8th Hong Kong University Student Innovation and Entrepreneurship Competition 2022](https://www.hkchallengeplus.com/en/)
 
 Students:
 - Tsang Chin-lok, Mphil student (Department of Aeronautical and Aviation Engineering)
@@ -79,4 +87,8 @@ Students:
 Supervisor:
 Ir Dr Zheng Pai, Assistant Professor (ISE), Wong Tit Shing Young Scholar in Smart Robotics, and leader of RAIDS
 
-
+Reference/ Awards: 
+1. [APICTA](https://apicta.org/apicta-2022/): Being a member of the HKSAR delegation and winning the largest yearly international ICT awards that all the participants are ranked in the top 3 among their regions/ countries. Our team is the first Hong Kong winner in the tertiary student category in the past 4 years. 
+2. [HKICT Grand Award and Gold Award](https://www.hkictawards.hk/award_en.php?year=2022&aid=8): Ranked in the top 0.3% to win the overall championship among 330 participating teams in Student innovation catorgory
+3. [Gold Award of Internet+](https://www.polyu.edu.hk/ise/news-and-events/news/2022/20221201-student-award/): Ranked in the top 0.009% to win the highest award among 3,400,000 participating teams
+4. [Second Prize (Entrepreneurship Proposal Track) of The 8th Hong Kong University Student Innovation and Entrepreneurship Competition 2022](https://www.hkchallengeplus.com/en/)
