@@ -61,10 +61,10 @@ The share of collaborative robots in the robotics market has increased dramatica
 
 In order to address the challenges of customized production and lack of robot flexibility, we propose a robotic co-manufacturing system based on human-robot interaction to improve the efficiency of collaboration between both parties. To realize intelligent operations in highly detailed and flexible assembly situations, we develop an augmented reality (AR)-guided human-robot collaborative manufacturing system. It integrates virtual reality task planning and dynamic guidance of visual data, enhances the artificial intelligence of the collaborative robot and AR information sharing, and provides human-supervised control methods in a user-friendly way, thus better integrating the intelligence of the operator and the collaborative robot. It migrates algorithmic models from the field of artificial intelligence to complex industrial scenarios, enabling customized product recognition at the cost of small samples and enhancing the ability of collaborative robots to perform multimodal tasks. The system frees people from repetitive mechanical tasks and makes human-robot collaboration the best choice for industrial organizations.
 
-**1) Context-aware holistic scene perception and task planning for HRC**
-**2) Advanced human-robot collaborative assembly based on behavior understanding**
-**3) Intelligent assembly based on Augmented Reality**
-**4) AR dynamic guidance for closed-loop information flow based on Industrial Internet**
+- Context-aware holistic scene perception and task planning for HRC
+- Advanced human-robot collaborative assembly based on behavior understanding**
+- Intelligent assembly based on Augmented Reality
+- AR dynamic guidance for closed-loop information flow based on Industrial Internet
 
 By deploying the system, we have enhanced the perception, reasoning and cognitive capabilities of the system, including the intelligence of industrial personnel and robots. We achieved the ability to perceive complex environments and track motion paths, to share assembly tasks between humans and collaborative robots based on perceived information, and to adapt to rapidly realize personalized production plans. At the same time, the system realizes interactive visualization and dynamic instruction delivery on an AR platform, resulting in a new model of customized product assembly that is flexible, adaptable, highly automated, and cost-effective.
 
