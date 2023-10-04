@@ -181,6 +181,8 @@ sections:
               * For Our Future Scholarship 2023
               * Hall Residential Scholarship 2023
               * ASMPT Scholarship 2023
+              * VTech Group of Companies Scholarship 2022/23
+              * ACEHK Scholarship 
               * Dean's list (Faculty of Engineering) 2021/22
               * Shun Hing Electric Works and Engineering Scholarship 2021/22
           organization: HKSAR Government; The Incorporated Trustees of The Cheng Foundation; Greater Bay Area Homeland Youth Community Foundation; ASM Pacific Technology Limited; Shun Hing Group; The Hong Kong Polytechnic University
