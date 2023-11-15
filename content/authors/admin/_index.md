@@ -33,16 +33,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Enterprise Engineering with Management
+    - course: BSc in Enterprise Engineering with Management, Industrial and Systems Engineering Department
       institution: Hong Kong Polytechnic University, China
       year: 2020-2025
-    - course: BSc in Computing (minor)
+    - course: BSc in Computing (minor), Computing Department
       institution: Hong Kong Polytechnic University, China
       year: 2021-2025
     - course: Exchange Student in Computer Science and Technology, Information and Computing Lab, SEIEE
       institution: Shanghai Jiaotong University, China
       year: 2023-2024
-    - course: Research Intern in Computer Science
+    - course: Research Intern, Computer Science Department
       institution: McGill University, Canada
       year: 2023
 
