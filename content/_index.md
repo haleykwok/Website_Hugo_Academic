@@ -110,7 +110,7 @@ sections:
               Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
               * **Project 1: Meta-reinforcement Learning Based Control Approach for Assisting HRC in Personalized Production (2021/12-2022/08)**
               * *Keywords: Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception* 
-              * • First author of awarded paper by HKIE and accepted by CASE 22’
+              * • Awarded paper by HKIE
               * • Designed self-learning robotic assisted systems (SLRAS) with self-adapt DRL algorithms to assist human operators
               * • Enhanced the performance by about 75% on average
               * **Project 2: Mutual Cognitive Human-Robot Collaborative Manufacturing System (2022/01-2023/02)**
@@ -327,7 +327,7 @@ sections:
       text: |-
         I'm interested in the areas of Machine Learning, HCI/HRI, and Software Engineering. Feel free to reach out to me for further discussion.
       # Contact (add or remove contact options as necessary)
-      email: kwokhinchi[AT]gmail[DOT]com
+      email: kwokhinchi@gmail.com
       phone: ''
       appointment_url: ''
       address:
