@@ -69,15 +69,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant
-          company: SJTU Information and Computing Lab, led by Prof. Fan Cheng, Shanghai Jiao Tong University
-          company_url: 'https://www.cs.sjtu.edu.cn/~chengfan/index.html'
-          company_logo: sjtu_logo
-          location: Shanghai, China
-          date_start: '2023-08-16'
-          date_end: '2024-01-14'
-          description: |2- 
-              Responsibilities include: Working on Mean Field Theory method in Deep Learning to improve information security and cloud computing.
+        # - title: Research Assistant
+        #   company: SJTU Information and Computing Lab, led by Prof. Fan Cheng, Shanghai Jiao Tong University
+        #   company_url: 'https://www.cs.sjtu.edu.cn/~chengfan/index.html'
+        #   company_logo: sjtu_logo
+        #   location: Shanghai, China
+        #   date_start: '2023-08-16'
+        #   date_end: '2024-01-14'
+        #   description: |2- 
+        #       Responsibilities include: Working on Mean Field Theory method in Deep Learning to improve information security and cloud computing.
 
         - title: Research Assistant
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University

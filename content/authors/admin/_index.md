@@ -39,7 +39,7 @@ education:
     - course: BSc in Computing (minor)
       institution: Hong Kong Polytechnic University, China
       year: 2021-2025
-    - course: Exchange Student and Research Intern in Computer Science and Technology
+    - course: Exchange Student in Computer Science and Technology
       institution: Shanghai Jiaotong University, China
       year: 2023-2024
     - course: Research Intern in Computer Science
