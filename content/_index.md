@@ -325,7 +325,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I'm interested in the areas of Machine Learning, HCI/HRI, and Software Engineering. Feel free to reach out to me for further discussion.
+        I'm interested in the areas of Machine Learning, HRC, and Software Engineering. Feel free to reach out to me for further discussion.
       # Contact (add or remove contact options as necessary)
       email: kwokhinchi@gmail.com
       phone: ''
