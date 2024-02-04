@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student in Enterprise Engineering with Management and Computing
+role: Student in IEOR and Computing
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -80,7 +80,7 @@ social:
   #   link: uploads/KwokHinChi_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'kwokhinchi[AT]gmail[DOT]com'
+email: 'kwokhinchi@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
