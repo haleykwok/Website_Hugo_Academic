@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Hin-Chi (Haley) Kwok
+title: Hin Chi Kwok
 
 # Full name (for SEO)
-first_name: Hin-Chi (Haley)
+first_name: Hin Chi
 last_name: Kwok
 
 # Status emoji
