@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Hin-Chi (Haley) Kwok
+title: Hin Chi Kwok
 date: 2022-11-02
 type: landing
 
