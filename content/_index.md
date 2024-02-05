@@ -174,7 +174,7 @@ sections:
           date_end: ''
           date_start: '2020-08-30'
           description: |2-
-              * HKSAR Government Scholarship 2022/23
+              * HKSAR Government Scholarship 2022/23-2023/24
               * HKSAR Government Fund - Reaching Out Award 2023
               * HKSAR Government Fund - Talent Development Scholarship 2023
               * The Cheng Foundation Scholarship 2023
