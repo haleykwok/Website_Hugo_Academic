@@ -83,13 +83,13 @@ sections:
         - title: Data Science Discovery Intern
           company: Nexa Speech and UC Berkeley
           company_url: 'https://www.nexa-speech.com/'
-          company_logo:  ucb-logo
+          company_logo: ucb-logo
           location: Berkeley, California, USA
-          date_start: '2023-1-14'
-          date_end: '2023-08-10'
+          date_start: '2024-1-14'
+          date_end: '2024-08-10'
           description: |2-
+              Building a Multi-Agent System for Real-Time Conversations Between Humans and AIs
               
-
         - title: Machine Learning and Software Engineering Research Assistant
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
           company_url: 'https://www.cs.mcgill.ca/~martin/students.html'
