@@ -78,8 +78,6 @@ sections:
         #   date_end: '2024-01-14'
         #   description: |2- 
         #       Responsibilities include: Working on Mean Field Theory method in Deep Learning to improve information security and cloud computing.
-
-
         - title: Data Science Discovery Intern
           company: Nexa Speech and UC Berkeley
           company_url: 'https://www.nexa-speech.com/'
@@ -88,7 +86,7 @@ sections:
           date_start: '2024-1-14'
           date_end: '2024-08-10'
           description: |2-
-              Building a Multi-Agent System for Real-Time Conversations Between Humans and AIs
+              Responsibilities include: Building a Multi-Agent System for Real-Time Conversations Between Humans and AIs
               
         - title: Machine Learning and Software Engineering Research Assistant
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
