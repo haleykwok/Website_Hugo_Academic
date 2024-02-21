@@ -74,7 +74,7 @@ sections:
           company_url: 'https://www.nexa-speech.com/'
           company_logo: ucb-logo
           location: Berkeley, USA
-          date_start: '2024-1-14'
+          date_start: '2024-01-14'
           date_end: '2024-08-10'
           description: |2-
               Responsibilities include: Building a Multi-Agent System for Real-Time Conversations Between Humans and AIs
