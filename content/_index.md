@@ -79,17 +79,28 @@ sections:
         #   description: |2- 
         #       Responsibilities include: Working on Mean Field Theory method in Deep Learning to improve information security and cloud computing.
 
-        - title: Research Assistant
+
+        - title: Data Science Discovery Intern
+          company: Nexa Speech and UC Berkeley
+          company_url: 'https://www.nexa-speech.com/'
+          company_logo:  ucb-logo
+          location: Berkeley, California, USA
+          date_start: '2023-1-14'
+          date_end: '2023-08-10'
+          description: |2-
+              
+
+        - title: Machine Learning and Software Engineering Research Assistant
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
           company_url: 'https://www.cs.mcgill.ca/~martin/students.html'
           company_logo: mcgill-logo
-          location: Montreal, Canada
+          location: Montreal, Quebec, Canada
           date_start: '2023-05-19'
           date_end: '2023-08-13'
           description: |2-
               Responsibilities include: Using Large Language Model for Code and Documentation in the field of Software Engineering and create tools with React.js
   
-        - title: IoT and ultra-wideband (UWB) Positioning Research Intern
+        - title: IoT and ultra-wideband (UWB) Positioning Developer Intern
           company: Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
           company_url: 'https://hkinnovationnode.mit.edu/'
           company_logo: mit_logo
@@ -99,7 +110,7 @@ sections:
           description: |2-
               Responsibilities include: Developed 3D-aware localization system with radiation ray collision method, 3D model printing and create GUI
         
-        - title: Research Assistant 
+        - title: AI and Robotcs Research Assistant 
           company: PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng, Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
           company_logo: polyu-logo

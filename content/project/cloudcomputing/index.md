@@ -1,12 +1,13 @@
 ---
 title: Spark, Hadoop, Kubernetes and Resource Allocation Algorithms' Optimization in Cloud Computing
-summary: This project at Shanghai Jiaotong University under the supervision of Prof. Chao Li 
-tags:
+summary: This course (CS3328) at Shanghai Jiaotong University is supervised by Prof. Chao Li, students will not only master the theoretical aspects but also apply their knowledge to real-world scenarios, preparing them for the challenges of cloud computing. 
+
+
   - Software Engineering
   - Machine Learning
   - Computer Science
   - Cloud Computing
-date: '2023-08-15T00:00:00Z'
+date: '2024-01-05T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -15,14 +16,14 @@ image:
   caption: The diagram of existed resource allocation algorithms technology in Cloud Computing
   focal_point: Smart
 
-links:
+# links:
 #   - icon: twitter
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/kwokhinchi
 # url_code: ''
-url_pdf: 'https://drive.google.com/file/d/12FuxX5Y4ULeRJOfn-cFZyEIlfr1j063G/view?usp=sharing'
 url_pdf: 'https://drive.google.com/file/d/1ZWnJkxUGpuYMOTeFaOcb6gjgVizREnNX/view?usp=sharing'
+url_pdf: 'https://drive.google.com/file/d/12FuxX5Y4ULeRJOfn-cFZyEIlfr1j063G/view?usp=sharing'
 # url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwoX6Va_/edit?usp=drive_link&ouid=102358073185606588058&rtpof=true&sd=true'
 # url_video: ''
 
@@ -44,4 +45,3 @@ This course provides a comprehensive overview of cutting-edge technologies and m
 - Kubernetes Lab: Participants will explore Kubernetes' container orchestration mechanisms, gaining experience in deploying and managing scalable applications.
 - Resource Allocation Optimization Research: The course will delve into the theory and practice of optimizing resource allocation algorithms in cloud computing, with a research paper where students will analyze existing algorithms and propose innovative solutions.
 
-Throughout the course, students will not only master the theoretical aspects but also apply their knowledge to real-world scenarios, preparing them for the challenges of modern software engineering in the cloud.
