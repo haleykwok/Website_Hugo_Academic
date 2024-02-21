@@ -2,9 +2,8 @@
 title: Spark, Hadoop, Kubernetes and Resource Allocation Algorithms' Optimization in Cloud Computing
 summary: This course (CS3328) at Shanghai Jiaotong University is supervised by Prof. Chao Li, students will not only master the theoretical aspects but also apply their knowledge to real-world scenarios, preparing them for the challenges of cloud computing. 
 tags:
+  - Other
   - Software Engineering
-  - Machine Learning
-  - Computer Science
   - Cloud Computing
 date: '2024-01-05T00:00:00Z'
 

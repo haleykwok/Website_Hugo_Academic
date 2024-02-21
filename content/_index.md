@@ -97,7 +97,7 @@ sections:
         #   date_end: ''
         #   description: |2-
         #       Responsibilities include: 
-        
+
         - title: IoT and ultra-wideband (UWB) Positioning Developer Intern
           company: Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
           company_url: 'https://hkinnovationnode.mit.edu/'
@@ -270,10 +270,12 @@ sections:
           tag: Robotics
         - name: Arduino
           tag: Arduino
-        - name: Management System
-          tag: Management System
+        - name: Management System/ Database
+          tag: Management System/ Database
+        - name: Software Engineering
+          tag: Software Engineering
         - name: Other
-          tag: Demo
+          tag: Other
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
