@@ -20,9 +20,9 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/kwokhinchi
-# url_code: ''
+url_code: 'https://drive.google.com/file/d/1QroCwEUNvkWffyNJP6IDodpwPHBL6rcI/view?usp=sharing'
 url_pdf: 'https://drive.google.com/file/d/1ZWnJkxUGpuYMOTeFaOcb6gjgVizREnNX/view?usp=sharing'
-url_pdf: 'https://drive.google.com/file/d/12FuxX5Y4ULeRJOfn-cFZyEIlfr1j063G/view?usp=sharing'
+url_slides: 'https://drive.google.com/file/d/12FuxX5Y4ULeRJOfn-cFZyEIlfr1j063G/view?usp=sharing'
 # url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwoX6Va_/edit?usp=drive_link&ouid=102358073185606588058&rtpof=true&sd=true'
 # url_video: ''
 
