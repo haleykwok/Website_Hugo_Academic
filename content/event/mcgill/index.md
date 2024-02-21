@@ -12,7 +12,7 @@ address:
   postcode: 
   country: Canada
 
-summary: This research project at McGill University under the supervision of Dr. Jin Guo in the McGill Software Technology Lab seeks to critically assess the current capabilities and limitations of ML-based documentation generation tools. By focusing on the generation of pertinent and high-quality information, the project aims to enhance the utility of these tools for developers, ultimately leading to more efficient and effective software engineering practices. The success of this project could lead to more context-aware machine learning solutions that align closely with the nuanced needs of software engineers.
+# summary: 
 # abstract: 
 
 # Talk start and end times.
@@ -78,3 +78,4 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
+This research project at McGill University under the supervision of Dr. Jin Guo in the McGill Software Technology Lab seeks to critically assess the current capabilities and limitations of ML-based documentation generation tools. By focusing on the generation of pertinent and high-quality information, the project aims to enhance the utility of these tools for developers, ultimately leading to more efficient and effective software engineering practices. The success of this project could lead to more context-aware machine learning solutions that align closely with the nuanced needs of software engineers.

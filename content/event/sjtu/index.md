@@ -12,7 +12,7 @@ address:
   postcode: 
   country: China
 
-summary: 
+summary: During my exchange at Shanghai Jiao Tong University, I immersed myself in an enriching academic environment, took relevant courses that deepened my knowledge, and experienced a variety of teaching styles. The state-of-the-art facilities, such as the software building with its modern computer labs, enhanced my learning experience.
 # abstract: 
 
 # Talk start and end times.
@@ -61,8 +61,8 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects:
-#   - mlforcodeanddoc
+projects:
+  - cloudcomputing
 ---
 
 <!-- Nowadays, with the advancement of production technologies, the manufacturing paradigm has gradually shifted from mass production to a small-batch and high-variety personalized production manner, urged by high flexible automation capabilities. In this paradigm, the existing inspection and assembly processes after manufacturing still rely to a large extent on either human operators with low efficiency or machines with low flexibility. To solve this issue, human-robot collaboration (HRC) has been a prevailing topic of recent concerns. Current robot control strategies in human-machine collaboration are mainly through pre-defined programming and do not yet meet the need for flexible and adaptable tasks in individualised production. To address this challenge, this paper proposes a deep reinforcement learning (DRL) approach based on meta-learning to drive robots in HRC. It enables collaborative robots (cobots) to acquire basic skills and perform tasks based on personalised production requirements, improving learning efficiency and thus quickly adapting to new tasks for human operators. The robot control task was carried out in a simulated environment taken from a real production scenario to assess its efficacy. Experimental results show that our proposed method enables the robot to learn and perform HRC tasks quickly and outperforms the baseline DRL method in terms of success rate. -->
@@ -78,3 +78,5 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
+
+During my exchange at Shanghai Jiao Tong University, I immersed myself in an enriching academic environment, took relevant courses that deepened my knowledge, and experienced a variety of teaching styles. The state-of-the-art facilities, such as the software building with its modern computer labs, enhanced my learning experience. The university's commitment to innovation was evident in platforms like e-Valley, which supports student projects from idea to product. Culturally, interacting with both local and international students broadened my understanding and appreciation of diverse perspectives. Living in Shanghai allowed me to experience its vibrant pace and witness firsthand the region's economic growth and cultural vitality. Exploring the city's landmarks and cuisine enriched my life beyond academics. I am grateful for this memorable opportunity provided by Shanghai Jiao Tong University and the support from Hong Kong Polytechnic University, and I look forward to possibly revisiting in the future.
