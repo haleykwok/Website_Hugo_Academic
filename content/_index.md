@@ -68,28 +68,27 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      ---
       items:
         - title: Data Science Discovery Intern
           company: Nexa Speech and UC Berkeley
           company_url: 'https://www.nexa-speech.com/'
-          company_logo: ucb_logo
+          company_logo: ucb-logo
           location: Berkeley, USA
-          date_start: '2024-01-14'
+          date_start: '2024-1-14'
           date_end: '2024-08-10'
-          description: |
-            Responsibilities include: Building a Multi-Agent System for Real-Time Conversations Between Humans and AIs
+          description: |2-
+              Responsibilities include: Building a Multi-Agent System for Real-Time Conversations Between Humans and AIs
 
         - title: Machine Learning and Software Engineering Research Assistant
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
           company_url: 'https://www.cs.mcgill.ca/~martin/students.html'
-          company_logo: mcgill_logo
+          company_logo: mcgill-logo
           location: Montreal, Canada
           date_start: '2023-05-19'
           date_end: '2023-08-13'
-          description: |
-            Responsibilities include: Using Large Language Model for Code and Documentation in the field of Software Engineering and create tools with React.js
-
+          description: |2-
+              Responsibilities include: Using Large Language Model for Code and Documentation in the field of Software Engineering and create tools with React.js
+  
         - title: IoT and ultra-wideband (UWB) Positioning Developer Intern
           company: Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
           company_url: 'https://hkinnovationnode.mit.edu/'
@@ -97,31 +96,30 @@ sections:
           location: Hong Kong, China
           date_start: '2022-06-06'
           date_end: '2022-07-15'
-          description: |
-            Responsibilities include: Developed 3D-aware localization system with radiation ray collision method, 3D model printing and create GUI
-
-        - title: AI and Robotics Research Assistant
+          description: |2-
+              Responsibilities include: Developed 3D-aware localization system with radiation ray collision method, 3D model printing and create GUI
+        
+        - title: AI and Robotcs Research Assistant 
           company: PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng, Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
-          company_logo: polyu_logo
+          company_logo: polyu-logo
           location: Hong Kong, China
           date_start: '2021-07-01'
           date_end: '2023-06-30'
-          description: |
-            Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
-            - **Project 1: Meta-reinforcement Learning Based Control Approach for Assisting HRC in Personalized Production (2021/12-2022/08)**
-              *Keywords: Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception* 
-              - Awarded paper by HKIE
-              - Designed self-learning robotic assisted systems (SLRAS) with self-adapt DRL algorithms to assist human operators
-              - Enhanced the performance by about 75% on average
-            - **Project 2: Mutual Cognitive Human-Robot Collaborative Manufacturing System (2022/01-2023/02)**
-              *Keywords: Deep Reinforcement Learning, Augmented Reality, HRC*
-              - Awarded HKICT Student Innovation Grand Award and Gold Award and APICTA Award
-              - Integrated virtual and realistic task planning and dynamic guidance of visual data to enhance the intelligence of robots and to facilitate information sharing with Augmented Reality
-              - Conducted human-in-the-loop control approaches
-      design:
-        columns: '2'
-      ---
+          description: |2-
+              Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
+              * **Project 1: Meta-reinforcement Learning Based Control Approach for Assisting HRC in Personalized Production (2021/12-2022/08)**
+              * *Keywords: Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception* 
+              * • Awarded paper by HKIE
+              * • Designed self-learning robotic assisted systems (SLRAS) with self-adapt DRL algorithms to assist human operators
+              * • Enhanced the performance by about 75% on average
+              * **Project 2: Mutual Cognitive Human-Robot Collaborative Manufacturing System (2022/01-2023/02)**
+              * *Keywords: Deep Reinforcement Learning, Augmented Reality, HRC*
+              * • Awarded HKICT Student Innovation Grand Award and Gold Award and APICTA Award
+              * • Integrated virtual and realistic task planning and dynamic guidance of visual data to enhance the intelligence of robots and to facilitate information sharing with Augmented Reality
+              * • Conducted human-in-the-loop control approaches
+    design:
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
