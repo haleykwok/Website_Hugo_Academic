@@ -264,16 +264,18 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: AI
+          tag: AI
         - name: Robotics
           tag: Robotics
         - name: Arduino
           tag: Arduino
-        - name: Management System/ Database
-          tag: Management System/ Database
+        - name: Management System
+          tag: Management System
         - name: Software Engineering
           tag: Software Engineering
+        - name: Other
+          tag: Other
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

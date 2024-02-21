@@ -4,7 +4,7 @@ summary: This research project at McGill University under the supervision of Dr.
 
 tags:
   - Software Engineering
-  - Machine Learning
+  - AI
   - Code Generation
 date: '2023-08-15T00:00:00Z'
 

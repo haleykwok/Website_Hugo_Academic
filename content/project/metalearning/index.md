@@ -5,7 +5,7 @@ tags:
   - Human-Centered Automation
   - Intelligent and Flexible Manufacturing
   - Learning and Adaptive Systems
-  - Deep Learning
+  - AI
   - Robotics
 date: '2022-08-20T00:00:00Z'
 

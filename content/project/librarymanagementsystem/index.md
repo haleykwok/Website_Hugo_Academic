@@ -2,7 +2,7 @@
 title: Library Management System
 summary: A Group Project of Database Systems (COMP2411) subject at The Hong Kong Polytechnic University, made by CHEN Derun, JIANG Guanlin, KWOK Hin Chi, LIU Minghao, YE Haowen, and ZHANG Wengyu.
 tags:
-  - Management System/ Database
+  - Management System
   - Software Engineering
 date: '2022-11-20T00:00:00Z'
 
