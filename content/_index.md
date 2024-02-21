@@ -78,15 +78,16 @@ sections:
         #   date_end: '2024-01-14'
         #   description: |2- 
         #       Responsibilities include: Working on Mean Field Theory method in Deep Learning to improve information security and cloud computing.
-      - title: Data Science Discovery Intern
+        - title: Data Science Discovery Intern
           company: Nexa Speech and UC Berkeley
           company_url: 'https://www.nexa-speech.com/'
           company_logo: ucb_logo
           location: Berkeley, USA
           date_start: '2024-1-14'
           date_end: '2024-08-10'
-          description: |2-
+          description: |3-
               Responsibilities include: Building a Multi-Agent System for Real-Time Conversations Between Humans and AIs
+
         - title: Machine Learning and Software Engineering Research Assistant
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
           company_url: 'https://www.cs.mcgill.ca/~martin/students.html'
@@ -94,7 +95,7 @@ sections:
           location: Montreal, Canada
           date_start: '2023-05-19'
           date_end: '2023-08-13'
-          description: |2-
+          description: |3-
               Responsibilities include: Using Large Language Model for Code and Documentation in the field of Software Engineering and create tools with React.js
   
         - title: IoT and ultra-wideband (UWB) Positioning Developer Intern
@@ -104,7 +105,7 @@ sections:
           location: Hong Kong, China
           date_start: '2022-06-06'
           date_end: '2022-07-15'
-          description: |2-
+          description: |3-
               Responsibilities include: Developed 3D-aware localization system with radiation ray collision method, 3D model printing and create GUI
         
         - title: AI and Robotcs Research Assistant 
@@ -114,7 +115,7 @@ sections:
           location: Hong Kong, China
           date_start: '2021-07-01'
           date_end: '2023-06-30'
-          description: |2-
+          description: |3-
               Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
               * **Project 1: Meta-reinforcement Learning Based Control Approach for Assisting HRC in Personalized Production (2021/12-2022/08)**
               * *Keywords: Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception* 
@@ -127,7 +128,7 @@ sections:
               * • Integrated virtual and realistic task planning and dynamic guidance of visual data to enhance the intelligence of robots and to facilitate information sharing with Augmented Reality
               * • Conducted human-in-the-loop control approaches
     design:
-      columns: '2'
+      columns: '3' # number of columns in the footer
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
