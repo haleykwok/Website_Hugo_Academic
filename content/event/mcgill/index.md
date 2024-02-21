@@ -4,7 +4,7 @@ title: Summer Research presentation at McGill University
 event: Summer Research presentation on topic "Machine Learning for Code and Documentation"
 # event_url: https://ras.papercept.net/conferences/conferences/CASE22/program/CASE22_ContentListWeb_1.html
 
-location: held in Montreal, Canada
+location: Montreal, Canada
 address:
   street: 
   city: 

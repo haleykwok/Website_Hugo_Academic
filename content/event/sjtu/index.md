@@ -4,7 +4,7 @@ title: Exchange in Computer science and Technology and visiting in Information a
 event: Exchange program from August 2023 to January 2024
 # event_url: https://ras.papercept.net/conferences/conferences/CASE22/program/CASE22_ContentListWeb_1.html
 
-location: held in Shanghai, China
+location: Shanghai, China
 address:
   street: 
   city: 
