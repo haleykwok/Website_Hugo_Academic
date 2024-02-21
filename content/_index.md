@@ -88,7 +88,16 @@ sections:
           date_end: '2023-08-13'
           description: |2-
               Responsibilities include: Using Large Language Model for Code and Documentation in the field of Software Engineering and create tools with React.js
-  
+        # - title: 
+        #   company: AI Lab 
+        #   company_url: 'https://www.hkailab.io/'
+        #   company_logo: nvidia-logo
+        #   location: Berkeley, USA
+        #   date_start: '2023-01-14'
+        #   date_end: ''
+        #   description: |2-
+        #       Responsibilities include: 
+        
         - title: IoT and ultra-wideband (UWB) Positioning Developer Intern
           company: Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
           company_url: 'https://hkinnovationnode.mit.edu/'
