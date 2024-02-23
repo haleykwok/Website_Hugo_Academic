@@ -32,7 +32,7 @@ tags: [Computer Science, Exchange Program, Industrial Engineering, UCBerkeley]
 featured: false
 
 image:
-  caption: 'Experience in UCBerkeley'
+  caption: 'Experience in UC Berkeley'
   focal_point: Right
 
 # links:
