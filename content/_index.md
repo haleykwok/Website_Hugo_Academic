@@ -345,7 +345,7 @@ sections:
       text: |-
         I'm interested in the areas of Machine Learning, HRC, and Software Engineering. Feel free to reach out to me for further discussion.
       # Contact (add or remove contact options as necessary)
-      email: kwokhinchi@gmail.com
+      email: <a href="mailto:kwokhinchi@gmail.com">Email Me</a>
       phone: ''
       appointment_url: ''
       address:
