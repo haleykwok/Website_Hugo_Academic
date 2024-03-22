@@ -69,19 +69,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Software Engineering and Data Science Discovery Intern
+        - title: Software Engineering and Data Science Intern
           company: Nexa Speech and UC Berkeley
           company_url: 'https://www.nexa-speech.com/'
           company_logo: ucb-logo
           location: Berkeley, USA
           date_start: '2024-01-14'
-          date_end: '2024-08-10'
+          date_end: '2024-08-15'
           description: |2-
               Responsibilities include: Building a Multi-Agent System for Real-Time Conversations Between Humans and AIs
               * Contributing to the development of a Multi-Agent System that facilitates real-time interaction between humans and AI from scratch, enhancing user experience and system responsiveness.
               * Integrating natural language processing capabilities to improve the system’s conversational accuracy and intelligence.
 
-        - title: Machine Learning and Software Engineering Research Assistant
+        - title: Research Assistant - McGill Software Technology Lab
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
           company_url: 'https://www.cs.mcgill.ca/~martin/students.html'
           company_logo: mcgill-logo
@@ -115,7 +115,7 @@ sections:
               * Programmed and refined the collision detection algorithm, enhancing the precision of the positioning system.
               * Developed a user-friendly GUI to control and monitor the system, improving user engagement and system manageability.
         
-        - title: AI and Robotcs Research Assistant 
+        - title: Research Assistant - RAIDS Group
           company: PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng, Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
           company_logo: polyu-logo
