@@ -91,7 +91,7 @@ highlight_name: true
 - ✍️ I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE - will shape my future, help me achieve my goals, and positively impact my community. I am passionate for technology, and I am here to share my journey of rediscovering my passion for STEM. Despite facing gender stereotypes and societal expectations from selecting IT as my career before, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. My ultimate ambition is to translate my research into real products, contribute to make CHANGES in the science and technology industry, and inspire others to pursue a career in STEM. 
 - 💼 An individual may be able to do great things, but a group of individuals may do better. Feel free to reach out if you have cool idea that we can collaborate by any chance.
 
-<details close>
+<!-- <details close>
 <summary>Click here to know more about My Story: Embrace CURIOSITY, Confront CHALLENGES, and Drive CHANGE</summary>
 
 Ever since the second grade of elementary school, I have been exposed to computers, and my interest in this machine grew rapidly. I was first introduced to programming languages through a Java-based video game. The iconic blue coffee cup with a red steam still holds a vivid presence in my memory. This initial interaction with the computer sparked a CURIOSITY that prompted me to delve deeper into the world of technology and programming. During my high school years, due to gender stereotyping and attending a traditional all-girls school with a low participation rate of girls in science and technology, I was discouraged from choosing logic and math-based subjects by surrounding people, causing me to pass up the opportunity to study Physics and Information Technology (I need to admit the fact that I was afraid to make a strong commitment that went against the views around me, but now, not anymore). While I entered university, I rediscovered my passion for STEM and decided to embrace my love for technology. However, without any science-related subjects in my educational background, I was at a disadvantage when it came to choosing engineering subjects such as computer science and electronic engineering in university admission. Fortunately, with the support of my professors, I received the chances to participate in computer science related projects and took several computer science courses, which helped me to strengthen my computer science background.
@@ -115,4 +115,4 @@ In the journey of my future development, the 3Cs - Curiosity, Challenges, and Ch
 
 </details>
 
-{style="text-align: justify;"}
+{style="text-align: justify;"} -->
