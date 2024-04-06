@@ -1,7 +1,7 @@
 ---
 title: Exchange at University of California, Berkeley
 
-event: Exchange program from January 2024 to May 2024
+event: Exchange program from January 2024 to August 2024
 # event_url: https://ras.papercept.net/conferences/conferences/CASE22/program/CASE22_ContentListWeb_1.html
 
 location: Berkeley, California
