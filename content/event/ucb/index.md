@@ -19,7 +19,7 @@ summary: During my academic exchange at the University of California, Berkeley, 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-01-14T21:15:00Z'
-date_end: '2024-05-15T21:35:00Z'
+date_end: '2024-08-10T21:35:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
