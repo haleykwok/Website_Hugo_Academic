@@ -39,12 +39,13 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/kwokhinchi
+
 # url_pdf: 'https://drive.google.com/file/d/1yjm-Rq3Yvg7UHue-tSGtJNZRNZPrOeuX/view?usp=drive_link'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
-# url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwoX6Va_/edit?usp=drive_link&ouid=102358073185606588058&rtpof=true&sd=true'
+url_slides: 'https://docs.google.com/presentation/d/1Z1cE6TBibvwaC24vnYemSWh-Yghb9Wyk/edit?usp=sharing&ouid=102358073185606588058&rtpof=true&sd=true'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: 'https://youtube.com'
 
