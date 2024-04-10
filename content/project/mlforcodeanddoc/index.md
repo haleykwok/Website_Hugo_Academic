@@ -21,7 +21,7 @@ links:
 #     name: Follow
 #     url: https://twitter.com/kwokhinchi
 # url_code: ''
-# url_pdf: 'https://drive.google.com/file/d/1yjm-Rq3Yvg7UHue-tSGtJNZRNZPrOeuX/view?usp=drive_link'
+url_pdf: 'https://drive.google.com/file/d/1FIDdl5QqlbQH5aheK-eHwkbhTS5P2eXm/view?usp=sharing'
 url_slides: 'https://docs.google.com/presentation/d/1Z1cE6TBibvwaC24vnYemSWh-Yghb9Wyk/edit?usp=sharing&ouid=102358073185606588058&rtpof=true&sd=true'
 # url_video: ''
 
