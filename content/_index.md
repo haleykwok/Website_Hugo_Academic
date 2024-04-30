@@ -75,11 +75,12 @@ sections:
           company_logo: ucb-logo
           location: Berkeley, USA
           date_start: '2024-01-14'
-          date_end: '2024-08-15'
+          date_end: '2024-05-01'
           description: |2-
               Responsibilities include: Building a Multi-Agent System for Real-Time Conversations Between Humans and AIs
               * Contributing to the development of a Multi-Agent System that facilitates real-time interaction between humans and AI from scratch, enhancing user experience and system responsiveness.
               * Integrating natural language processing capabilities to improve the system’s conversational accuracy and intelligence.
+              * Optimizing the recommendation system to enhance the system’s ability to provide relevant and timely information to users.
 
         - title: Research Assistant - McGill Software Technology Lab
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
