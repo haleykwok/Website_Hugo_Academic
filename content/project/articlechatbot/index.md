@@ -8,7 +8,7 @@ tags:
 date: '2024-04-28T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.nexa-speech.com'
+external_link: ''
 
 image:
   caption: The diagram of architecture of the system design
@@ -19,6 +19,7 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/kwokhinchi
+url: 'https://www.nexa-speech.com'
 url_code: 'https://github.com/Nexa-speech'
 url_pdf: 'https://drive.google.com/file/d/1Kqh5CEjUZe2LkTmn4JR83g1s4JD28NmT/view?usp=sharing'
 # url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwoX6Va_/edit?usp=drive_link&ouid=102358073185606588058&rtpof=true&sd=true'
