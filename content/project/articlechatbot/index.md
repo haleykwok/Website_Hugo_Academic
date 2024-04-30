@@ -19,10 +19,9 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/kwokhinchi
-url: 'https://www.nexa-speech.com'
 url_code: 'https://github.com/Nexa-speech'
 url_pdf: 'https://drive.google.com/file/d/1Kqh5CEjUZe2LkTmn4JR83g1s4JD28NmT/view?usp=sharing'
-# url_slides: 'https://docs.google.com/presentation/d/1OBVJ07WXGzge9d-UZCD76Cx5bwoX6Va_/edit?usp=drive_link&ouid=102358073185606588058&rtpof=true&sd=true'
+url_slides: 'https://www.nexa-speech.com'
 # url_video: ''
 
 # Slides (optional).
