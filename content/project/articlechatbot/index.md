@@ -14,12 +14,18 @@ image:
   caption: The diagram of architecture of the system design
   focal_point: Smart
 
+links:
+  - icon: github
+    icon_pack: fab
+    name: Github
+    url: https://github.com/Nexa-speech
+
 # links:
 #   - icon: twitter
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/kwokhinchi
-url_code: 'https://github.com/Nexa-speech'
+# url_code: 'https://github.com/Nexa-speech'
 url_pdf: 'https://drive.google.com/file/d/1Kqh5CEjUZe2LkTmn4JR83g1s4JD28NmT/view?usp=sharing'
 url_slides: 'https://www.nexa-speech.com'
 # url_video: ''
