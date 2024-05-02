@@ -4,7 +4,7 @@ summary: This is an internship project at UC Berkeley and Nexa Speech, under the
 
 tags:
   - Software Engineering
-  - Machine Learning
+  - AI
 date: '2024-04-28T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
