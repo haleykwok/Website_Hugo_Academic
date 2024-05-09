@@ -1,7 +1,7 @@
 ---
 title: Data Science Discovery Program (DSDP) showcase at University of California, Berkeley
 
-event: Summer Research presentation on topic "Machine Learning for Code and Documentation"
+event: DSDP internship project on topic "Building a Multi-Agent System for Real-Time Conversations Between Humans and Als"
 event_url: https://cdss.berkeley.edu/discovery
 
 location: Berkeley, California
@@ -66,6 +66,7 @@ projects:
   - articlechatbot
 ---
 
+The Discovery Program incubates and accelerates data science and AI research high impact academic, government, non-profit, and industry projects across the globe while providing UC Berkeley students real world research experiences and mentorship opportunities. We are grateful for the opportunity to work on this project and present our findings at the DSDP showcase at UC Berkeley Symposium.
+
 This is an internship project at UC Berkeley and Nexa Speech, under the supervision of @NexaSpeech Lorenz Pichler and Alessandro Neri, made by Hin Chi Kwok, Kai Qin, Jaiteg Chahal, Nick Angelici, Nicole Han, and Ediz Ertekin. We created a unified product that enables agent-to-agent interaction. This ‘Al reporter’ will be capable of analyzing articles stored in a database, extracting relevant information, and presenting it to the end user in a clear, concise, and visually appealing manner based on their specific queries. To enhance the user experience (UX) of the conversation, the system will incorporate speech generation and captions, making the interaction more engaging and accessible.
 
-The Discovery Program incubates and accelerates data science and AI research high impact academic, government, non-profit, and industry projects across the globe while providing UC Berkeley students real world research experiences and mentorship opportunities. We are grateful for the opportunity to work on this project and present our findings at the DSDP showcase at UC Berkeley Symposium.
