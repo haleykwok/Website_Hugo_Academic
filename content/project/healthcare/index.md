@@ -1,6 +1,6 @@
 ---
 title: University Health Services (UHS) Analysis
-summary: The healthcare services at UC Berkeley is undergoing a significant transformation with the integration of data analytics and technology. This project aims to leverage data analytics and optimization techniques to improve the efficiency and effectiveness of healthcare systems, specifically focusing on appointment scheduling and queue management within a healthcare facility.
+summary: This is a project (IEOR156) at UC Berkeley, made by Hin Chi Kwok. The healthcare services at UC Berkeley is undergoing a significant transformation with the integration of data analytics and technology; and we aim to leverage data analytics and optimization techniques to improve the efficiency and effectiveness of healthcare systems, specifically focusing on appointment scheduling and queue management within a healthcare facility.
 
 tags:
   - Management System
@@ -32,5 +32,11 @@ url_pdf: 'https://drive.google.com/file/d/1e7JkZilXdKh_O20WQf9h2eZSKog5CvUt/view
 ---
 
 
-
+Analysis and Methodology:
+1. Data Preparation: University Health Services (UHS) statistics originated from [fenghaolin/HanguData](https://github.com/fenghaolin/HanguData)
+2. Exploratory Data Analysis (EDA)
+3. Feature Importance Analysis
+4. Model Building
+5. Queuing Simulation and Algorithms
+6. System Architecture Design
 
