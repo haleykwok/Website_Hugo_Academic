@@ -18,8 +18,8 @@ summary: Lawrence Hall of Science is a public science center located in Berkeley
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-03T15:15:00Z'
-date_end: '2024-07-03T17:15:00Z'
+date: '2024-06-30T15:15:00Z'
+date_end: '2024-06-30T17:15:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
