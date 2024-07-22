@@ -199,7 +199,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 
-          date_end: '2025-5-30'
+          date_end: ''
           date_start: '2020-08-30'
           description: |2-
               * HKIE Student Paper Award (Champion) 2021/22 for Project entitled "Meta-reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production"
@@ -211,7 +211,7 @@ sections:
           title: Research 
           url: ''
         - certificate_url: 
-          date_end: '2025-5-30'
+          date_end: ''
           date_start: '2020-08-30'
           description: |2-
               * Innovation and Technology Scholarship 2023 (HK$150,000): Aims to provide recognition to outstanding undergraduates who have demonstrated exceptional skills and achievements in IT.
@@ -226,7 +226,7 @@ sections:
           title: Innovation
           url: ''
         - certificate_url: 
-          date_end: '2025-5-30'
+          date_end: ''
           date_start: '2020-08-30'
           description: |2-
               * Outstanding Tertiary Students Award of Hong Kong 2023
@@ -236,7 +236,7 @@ sections:
           title: Leadership 
           url: ''
         - certificate_url: 
-          date_end: '2025-5-30'
+          date_end: ''
           date_start: '2020-08-30'
           description: |2-
               * HKSAR Government Scholarship 2022/23-2023/24
