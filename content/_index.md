@@ -119,9 +119,9 @@ sections:
               * Optimized the Recommender Systems with 10000 virtual user profile.
      
         - title: Research Assistant - Polytechnique Montr´eal Software and Emerging Technologies Lab
-          company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
+          company: Polytechnique Montr´eal Software and Emerging Technologies Lab, led by Prof. Mohammad Hamdaqa
           company_url: 'https://www.polymtl.ca/expertises/en/hamdaqa-mohammad'
-          company_logo: mcgill-logo
+          company_logo: polymtl-logo
           location: (Remote) Montreal, Canada
           date_start: '2024-02-26'
           date_end: '2023-06-24'
