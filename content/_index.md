@@ -81,9 +81,9 @@ sections:
               * Achieved speech recognition accuracy (English, Cantonese, Mandarin) through meticulous data validation with Large Language Models (LLMs).
              
         - title: Machine Learning Engineer Intern
-          company: Syenergies Intelligent Systems.
+          company: Synergies Intelligent Systems.
           company_url: 'https://www.synergies.ai/'
-          company_logo: ucb-logo
+          company_logo: synergies-logo
           location: (Remote) Berkeley, USA 
           date_start: '2024-06-06'
           date_end: '2024-09-01'
@@ -95,7 +95,7 @@ sections:
         - title: Software Engineering Intern
           company: Rimble
           company_url: 'https://www.rimble.io/'
-          company_logo: ucb-logo
+          company_logo: rimble-logo
           location: San Francisco, USA
           date_start: '2024-05-15'
           date_end: '2024-08-09'
@@ -109,7 +109,7 @@ sections:
         - title: Software Engineering and Data Science Intern
           company: Nexa Speech and UC Berkeley
           company_url: 'https://www.nexa-speech.com/'
-          company_logo: ucb-logo
+          company_logo: nexa-logo
           location: Berkeley, USA
           date_start: '2024-01-14'
           date_end: '2024-04-22'
