@@ -69,18 +69,66 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Student Assistant
+          company: PolyU MIND Lab
+          company_url: 'https://www.mindlab-ai.com/'
+          company_logo: polyu-logo
+          location: (Remote) Hong Kong, China
+          date_start: '2024-07-06'
+          date_end: '2024-09-01'
+          description: |2-
+              Responsibilities include: Machine Learning Model Validation
+              * Achieved speech recognition accuracy (English, Cantonese, Mandarin) through meticulous data validation with Large Language Models (LLMs).
+             
+        - title: Machine Learning Engineer Intern
+          company: Syenergies Intelligent Systems.
+          company_url: 'https://www.synergies.ai/'
+          company_logo: ucb-logo
+          location: (Remote) Berkeley, USA 
+          date_start: '2024-06-06'
+          date_end: '2024-09-01'
+          description: |2-
+              Responsibilities include: Object Detection Model Building
+              * Utilized object detection models such as YOLO to identify LED screens, enhancing the decision-making process for clients in selecting suitable LED screens with 90% accuracy.
+              * Conducted end-to-end data analysis, from data exploration and cleaning to model building and outcome alignment with client requirements.
+               
+        - title: Software Engineering Intern
+          company: Rimble
+          company_url: 'https://www.rimble.io/'
+          company_logo: ucb-logo
+          location: San Francisco, USA
+          date_start: '2024-05-15'
+          date_end: '2024-08-09'
+          description: |2-
+              Responsibilities include: Backend Development and Data Pipeline Optimization
+              * Developed and maintained integrations with external eSports data providers to verify odds values.
+              * Engineered and managed the miss-game pipeline using AWS Lambda, S3, and DynamoDB.
+              * Designed and optimized the games’ data pipeline to ensure data integrity and usability for predictive analytics.
+              * Refactored code to remove unnecessary try-except blocks, improving overall code quality and performance.  
+  
         - title: Software Engineering and Data Science Intern
           company: Nexa Speech and UC Berkeley
           company_url: 'https://www.nexa-speech.com/'
           company_logo: ucb-logo
           location: Berkeley, USA
           date_start: '2024-01-14'
-          date_end: '2024-05-01'
+          date_end: '2024-04-22'
           description: |2-
               Responsibilities include: Building a Multi-Agent System for Real-Time Conversations Between Humans and AIs
-              * Contributing to the development of a Multi-Agent System that facilitates real-time interaction between humans and AI from scratch, enhancing user experience and system responsiveness.
-              * Integrating natural language processing capabilities to improve the system’s conversational accuracy and intelligence.
-              * Optimizing the recommendation system to enhance the system’s ability to provide relevant and timely information to users.
+              * Contributed to the development of a Multi-Agent System that facilitates real-time interaction between humans and AI from scratch, enhancing user experience and system responsiveness. 
+              * Optimized the Recommender Systems with 10000 virtual user profile.
+     
+        - title: Research Assistant - Polytechnique Montr´eal Software and Emerging Technologies Lab
+          company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
+          company_url: 'https://www.polymtl.ca/expertises/en/hamdaqa-mohammad'
+          company_logo: mcgill-logo
+          location: (Remote) Montreal, Canada
+          date_start: '2024-02-26'
+          date_end: '2023-06-24'
+          description: |2-
+              Responsibilities include: Machine Learning for Code and Documentation
+              *  Applied LLMs to analyze and interpret metamodels, using a common set of metadata for benchmarking and testing ontology matching algorithms.
+              *  Validated the precision, recall, and F1 score of the performance metrics for ontology matching algorithms.  
 
         - title: Research Assistant - McGill Software Technology Lab
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
@@ -151,7 +199,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 
-          date_end: ''
+          date_end: '2025-5-30'
           date_start: '2020-08-30'
           description: |2-
               * HKIE Student Paper Award (Champion) 2021/22 for Project entitled "Meta-reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production"
@@ -163,7 +211,7 @@ sections:
           title: Research 
           url: ''
         - certificate_url: 
-          date_end: ''
+          date_end: '2025-5-30'
           date_start: '2020-08-30'
           description: |2-
               * Innovation and Technology Scholarship 2023 (HK$150,000): Aims to provide recognition to outstanding undergraduates who have demonstrated exceptional skills and achievements in IT.
@@ -178,7 +226,7 @@ sections:
           title: Innovation
           url: ''
         - certificate_url: 
-          date_end: ''
+          date_end: '2025-5-30'
           date_start: '2020-08-30'
           description: |2-
               * Outstanding Tertiary Students Award of Hong Kong 2023
@@ -188,7 +236,7 @@ sections:
           title: Leadership 
           url: ''
         - certificate_url: 
-          date_end: ''
+          date_end: '2025-5-30'
           date_start: '2020-08-30'
           description: |2-
               * HKSAR Government Scholarship 2022/23-2023/24
