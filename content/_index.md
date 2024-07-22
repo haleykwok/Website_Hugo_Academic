@@ -73,9 +73,9 @@ sections:
           company: PolyU MIND Lab
           company_url: 'https://www.mindlab-ai.com/'
           company_logo: polyu-logo
-          location: (Remote) Hong Kong, China
+          location: Hong Kong, China
           date_start: '2024-07-06'
-          date_end: '2024-09-01'
+          date_end: '2025-07-01'
           description: |2-
               Responsibilities include: Machine Learning Model Validation
               * Achieved speech recognition accuracy (English, Cantonese, Mandarin) through meticulous data validation with Large Language Models (LLMs).
@@ -124,7 +124,7 @@ sections:
           company_logo: polymtl-logo
           location: (Remote) Montreal, Canada
           date_start: '2024-02-26'
-          date_end: '2023-06-24'
+          date_end: '2024-06-24'
           description: |2-
               Responsibilities include: Machine Learning for Code and Documentation
               *  Applied LLMs to analyze and interpret metamodels, using a common set of metadata for benchmarking and testing ontology matching algorithms.
