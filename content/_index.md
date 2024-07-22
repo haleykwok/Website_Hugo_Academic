@@ -118,8 +118,8 @@ sections:
               * Contributed to the development of a Multi-Agent System that facilitates real-time interaction between humans and AI from scratch, enhancing user experience and system responsiveness. 
               * Optimized the Recommender Systems with 10000 virtual user profile.
      
-        - title: Research Assistant - Polytechnique Montr´eal Software and Emerging Technologies Lab
-          company: Polytechnique Montr´eal Software and Emerging Technologies Lab, led by Prof. Mohammad Hamdaqa
+        - title: Research Assistant
+          company: Polytechnique Montréal Software and Emerging Technologies Lab, led by Prof. Mohammad Hamdaqa
           company_url: 'https://www.polymtl.ca/expertises/en/hamdaqa-mohammad'
           company_logo: polymtl-logo
           location: (Remote) Montreal, Canada
@@ -130,7 +130,7 @@ sections:
               *  Applied LLMs to analyze and interpret metamodels, using a common set of metadata for benchmarking and testing ontology matching algorithms.
               *  Validated the precision, recall, and F1 score of the performance metrics for ontology matching algorithms.  
 
-        - title: Research Assistant - McGill Software Technology Lab
+        - title: Research Assistant
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
           company_url: 'https://www.cs.mcgill.ca/~martin/students.html'
           company_logo: mcgill-logo
@@ -164,7 +164,7 @@ sections:
               * Programmed and refined the collision detection algorithm, enhancing the precision of the positioning system.
               * Developed a user-friendly GUI to control and monitor the system, improving user engagement and system manageability.
         
-        - title: Research Assistant - RAIDS Group
+        - title: Research Assistant
           company: PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng, Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
           company_logo: polyu-logo
