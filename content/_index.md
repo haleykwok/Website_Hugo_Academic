@@ -106,7 +106,7 @@ sections:
               * Designed and optimized the games’ data pipeline to ensure data integrity and usability for predictive analytics.
               * Refactored code to remove unnecessary try-except blocks, improving overall code quality and performance.  
   
-        - title: Software Engineering and Data Science Intern
+        - title: Software Engineering (NLP) Intern
           company: Nexa Speech and UC Berkeley
           company_url: 'https://www.nexa-speech.com/'
           company_logo: nexa-logo
