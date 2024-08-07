@@ -84,7 +84,7 @@ sections:
           company: Synergies Intelligent Systems.
           company_url: 'https://www.synergies.ai/'
           company_logo: synergies-logo
-          location: (Remote) Berkeley, USA 
+          location: Cambridge, USA 
           date_start: '2024-06-06'
           date_end: '2024-09-01'
           description: |2-
@@ -122,7 +122,7 @@ sections:
           company: Polytechnique Montréal Software and Emerging Technologies Lab, led by Prof. Mohammad Hamdaqa
           company_url: 'https://www.polymtl.ca/expertises/en/hamdaqa-mohammad'
           company_logo: polymtl-logo
-          location: (Remote) Montreal, Canada
+          location: Montreal, Canada
           date_start: '2024-02-26'
           date_end: '2024-06-24'
           description: |2-
