@@ -203,7 +203,7 @@ sections:
           date_start: '2020-08-30'
           description: |2-
               * HKIE Student Paper Award (Champion) 2021/22 for Project entitled "Meta-reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production"
-              * Canada Mitacs Globalink Scholarship: Top 2000 students over the world are invited to join the research internship in Canadian universities.
+              * Canada Mitacs Globalink Scholarship: 500 students over the world are invited to join the research internship in Canadian universities.
               * UG Summer Research Abroad Scholarship (USRA): Research Scholarship for Undergraduate Students to conduct research in Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
               * Undergradute Research and Innovation Scheme (URIS) Scholarship: Research Scholarship for Undergraduate Students to conduct research in Hong Kong Polytechnic University, Project entitled "Meta-reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production" and "Mutual Cognitive Human-Robot Collaborative Manufacturing System".
           organization: Canada Mitacs Globalink; Hong Kong Institution of Engineers
@@ -218,9 +218,6 @@ sections:
               * 21st Asia Pacific Information and Communications Technology Alliance (APICTA) Awards (Student-Tertiary Technology): Being a member of the HKSAR delegation and winning the largest yearly international ICT awards. Our team is the first Hong Kong winner in the tertiary student category in the past 4 years.
               * Gold Award of The 8th China International College Students' 'Internet+' Innovation and Entrepreneurship Competition: Ranked in the top 0.009% to win the highest award among 3,400,000 participating teams. Participation was by 25.33 million college students in 6.03 million teams from 121 countries and regions in five continents, and the competition has become the largest global event for innovation and entrepreneurship.
               * Hong Kong ICT Student Innovation Award (Tertiary or above) Gold Award and Grand Award in Student Innovation Stream for Project entitled “Mutual Cognitive Human-Robot Collaborative Manufacturing System”: Ranked in the top 0.3% to win the overall championship among 330 participating teams in Student innovation catorgory.
-              * Second Prize (Entrepreneurship Proposal Track) of The 8th Hong Kong University Student Innovation and Entrepreneurship Competition 2022
-              * Dr Winnie S M Tang-PolyU Student Innovation and Entrepreneurship Scholarship: instil a problem-driven innovation mindset into young talents through experiential learning and student-initiated research and development.
-              * Finalist in AI and Fintech Division in Hong Kong Techathon 2022
           organization: Innovation and Technology Commission; HSBC; APICTA; The Ministry of Education of the China; Hong Kong New Emerging Technology Education Association
           organization_url: 
           title: Innovation
@@ -244,11 +241,8 @@ sections:
               * HKSAR Government Fund - Talent Development Scholarship 2023
               * The Cheng Foundation Scholarship 2023
               * For Our Future Scholarship 2023
-              * Hall Residential Scholarship 2023
               * ASMPT Scholarship 2023
-              * VTech Group of Companies Scholarship 2022/23
-              * ACEHK Scholarship 
-              * Dean's list (Faculty of Engineering) 2021/22-2022/23
+              * Dean's list (Faculty of Engineering)
               * Shun Hing Electric Works and Engineering Scholarship 2021/22
           organization: HKSAR Government; The Incorporated Trustees of The Cheng Foundation; Greater Bay Area Homeland Youth Community Foundation; ASM Pacific Technology Limited; Shun Hing Group; The Hong Kong Polytechnic University
           organization_url: 
