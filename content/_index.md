@@ -126,7 +126,7 @@ sections:
           date_start: '2024-02-26'
           date_end: '2024-06-24'
           description: |2-
-              Responsibilities include: Machine Learning for Code and Documentation
+              Responsibilities include: LLMs for ontology matching
               *  Applied LLMs to analyze and interpret metamodels, using a common set of metadata for benchmarking and testing ontology matching algorithms.
               *  Validated the precision, recall, and F1 score of the performance metrics for ontology matching algorithms.  
 
