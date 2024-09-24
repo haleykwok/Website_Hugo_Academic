@@ -406,7 +406,7 @@ sections:
       address:
         street: 
         city: 
-        region: Hong Kong
+        region: HKSAR
         postcode: ''
         country: China
         country_code: CN
