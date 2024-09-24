@@ -100,9 +100,10 @@ sections:
           date_end: '2024-09-01'
           description: |2-
               Responsibilities include: Object Detection Model Building
-              * Utilized object detection models such as YOLO to identify LED screens, enhancing the decision-making process for clients in selecting suitable LED screens with 90% accuracy.
-              * Conducted end-to-end data analysis, from data exploration and cleaning to model building and outcome alignment with client requirements.
-               
+              * Implemented COCO segmentation format and used data augmentation techniques for preprocessing.
+              * Utilized object detection model YOLO to identify LED screens to enhance clients’ user selection experience.
+              * Assisted Hon Hai Precision Industry in automation by using Detectron2 model, achieving over 90% accuracy in checking for defects in hardware components like ribbon cables, heat sinks, coaxial cables, and small wiring harnesses.
+    
         - title: Software Engineering Intern
           company: Rimble
           company_url: 'https://www.rimble.io/'
