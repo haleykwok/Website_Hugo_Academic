@@ -113,9 +113,9 @@ sections:
           description: |2-
               Responsibilities include: Backend Development and Data Pipeline Optimization
               * Developed and maintained integrations with external eSports data providers to verify odds values.
-              * Engineered and managed the miss-game pipeline using AWS Lambda, S3, and DynamoDB.
+              * Engineered and managed pipeline using AWS Lambda, S3, and DynamoDB.
               * Designed and optimized the games’ data pipeline to ensure data integrity and usability for predictive analytics.
-              * Refactored code to remove unnecessary try-except blocks, improving overall code quality and performance.  
+              * Refactored code to remove unnecessary blocks, improving overall code quality and performance.  
   
         - title: Software Engineering (NLP) Intern
           company: Nexa Speech and UC Berkeley
@@ -138,8 +138,8 @@ sections:
           date_end: '2024-06-24'
           description: |2-
               Responsibilities include: LLMs for ontology matching
-              *  Applied LLMs to analyze and interpret metamodels, using a common set of metadata for benchmarking and testing ontology matching algorithms.
-              *  Validated the precision, recall, and F1 score of the performance metrics for ontology matching algorithms.  
+              *  Applied LLMs such as GPT-4, BERT, etc. to analyze and interpret metamodels; Benchmarked and tested ontology matching algo COMA 3.0 and LogMap on a set of metadata.
+              *  Achieved an average F-measure of 91%, greatly surpassing the baseline approaches, which have a maximum average of 29%  
 
         - title: Research Assistant
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
@@ -186,7 +186,7 @@ sections:
               Responsibilities include: Using MAML, DRL, and other AI techniques in Human-Robot Collaboration
               * **Project 1: Meta-reinforcement Learning Based Control Approach for Assisting HRC in Personalized Production (2021/12-2022/08)**
               * *Keywords: Model diagnostic meta-learning, Proximal policy optimization DRL, Robotics Perception* 
-              * • Awarded paper by HKIE
+              * • Awarded paper by HKIE CA Paper Competition 2021/22
               * • Designed self-learning robotic assisted systems (SLRAS) with self-adapt DRL algorithms to assist human operators
               * • Enhanced the performance by about 75% on average
               * **Project 2: Mutual Cognitive Human-Robot Collaborative Manufacturing System (2022/01-2023/02)**
