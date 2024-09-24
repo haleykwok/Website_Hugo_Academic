@@ -132,7 +132,7 @@ sections:
      
         - title: Research Assistant
           company: Polytechnique Montréal Software and Emerging Technologies Lab, led by Prof. Mohammad Hamdaqa
-          company_url: 'https://www.polymtl.ca/expertises/en/hamdaqa-mohammad'
+          company_url: 'https://saet.polymtl.ca/saet/'
           company_logo: polymtl-logo
           location: Montreal, Canada
           date_start: '2024-02-26'
