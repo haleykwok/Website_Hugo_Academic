@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student in IEOR and Computing
+role: Student in ISE and Computing
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,7 +27,7 @@ bio: I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE - will s
 # Interests to show in About widget
 interests:
   - Machine Learning
-  - Human-Robot Collaboration
+  - Data Analytics
   - Software Engineering
 
 # Education to show in About widget
