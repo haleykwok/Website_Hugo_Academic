@@ -69,16 +69,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Student Assistant
-          company: PolyU MIND Lab
-          company_url: 'https://www.mindlab-ai.com/'
+        - title: Student Assistant 
+          company: PolyU Group for Risk, Reliability, and Resilience Informatics
+          company_url: 'https://xiaogezhang.com/'
           company_logo: polyu-logo
           location: Hong Kong, China
-          date_start: '2024-07-06'
-          date_end: '2025-07-01'
+          date_start: '2024-09-01'
+          date_end: '2025-06-01'
           description: |2-
-              Responsibilities include: Machine Learning Model Validation
-              * Achieved speech recognition accuracy (English, Cantonese, Mandarin) through meticulous data validation with Large Language Models (LLMs).
+              Responsibilities include: Machine Learning for Product Modeling
+              * Currently working on Uncertainty-aware Deep Learning with SNGP
+  
+        # - title: Student Assistant
+        #   company: PolyU MIND Lab
+        #   company_url: 'https://www.mindlab-ai.com/'
+        #   company_logo: polyu-logo
+        #   location: Hong Kong, China
+        #   date_start: '2024-07-06'
+        #   date_end: '2025-07-01'
+        #   description: |2-
+        #       Responsibilities include: Machine Learning Model Validation
+        #       * Achieved speech recognition accuracy (English, Cantonese, Mandarin) through meticulous data validation with Large Language Models (LLMs).
              
         - title: Machine Learning Engineer Intern
           company: Synergies Intelligent Systems.
