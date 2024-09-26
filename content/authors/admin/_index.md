@@ -26,9 +26,10 @@ bio: I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE - will s
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Data Analytics
-  - Software Engineering
+  - Trustworthy AI
+  - Optimization
+  - Statistical Machine Learning
+  - LLMs
 
 # Education to show in About widget
 education:
@@ -84,7 +85,7 @@ highlight_name: true
 ---
 
 - Welcome to my website. Hello World from 🌏 22.3193° 114.1694° 👋
-- 🔭 I consider myself a proactive learner who is continuously exploring the realms of Machine Learning, Data Analtics, and Software Engineering. I am grateful to have been recognized with some awards in innovation and technology, which I view as collective achievements. My practical experience in Software Development has been shaped by opportunities to work alongside knowledgeable teams at reputable institutions and companies. These experiences have nurtured my ability to blend technical proficiency with a research-oriented mindset to navigate and contribute to complex projects within Enterprise Computing and Digital Servitization. I am always keen to learn from others and strive to bring a thoughtful, team-oriented approach to my work.
+- 🔭 I consider myself a proactive learner who is continuously exploring the realms of Trustworthy AI, Optimization, Statistical Machine Learning, LLMs. I am grateful to have been recognized with some awards in innovation and technology, which I view as collective achievements. My practical experience in Software Development has been shaped by opportunities to work alongside knowledgeable teams at reputable institutions and companies. These experiences have nurtured my ability to blend technical proficiency with a research-oriented mindset to navigate and contribute to complex projects within Enterprise Computing and Digital Servitization. I am always keen to learn from others and strive to bring a thoughtful, team-oriented approach to my work.
 - ✍️ I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE - will shape my future, help me achieve my goals, and positively impact my community. I am passionate for technology, and I am here to share my journey of rediscovering my passion for STEM. Despite facing gender stereotypes and societal expectations from selecting IT as my career before, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. My ultimate goal is to translate my research into real products, contribute to make CHANGES in the science and technology industry, and inspire others to pursue a career in STEM. 
 <!-- - 💼 An individual may be able to do great things, but a group of individuals may do better. Feel free to reach out if you have cool idea that we can collaborate by any chance. -->
 

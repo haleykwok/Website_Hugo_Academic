@@ -130,7 +130,7 @@ sections:
               * Contributed to the development of a Multi-Agent System that facilitates real-time interaction between humans and AI from scratch, enhancing user experience and system responsiveness. 
               * Optimized the Recommender Systems with 10000 virtual user profile.
      
-        - title: Research Assistant
+        - title: Research Intern
           company: Polytechnique Montréal Software and Emerging Technologies Lab, led by Prof. Mohammad Hamdaqa
           company_url: 'https://saet.polymtl.ca/saet/'
           company_logo: polymtl-logo
@@ -142,7 +142,7 @@ sections:
               *  Applied LLMs such as GPT-4, BERT, etc. to analyze and interpret metamodels; Benchmarked and tested ontology matching algo COMA 3.0 and LogMap on a set of metadata.
               *  Achieved an average F-measure of 91%, greatly surpassing the baseline approaches, which have a maximum average of 29%  
 
-        - title: Research Assistant
+        - title: Research Intern
           company: McGill Software Technology Lab, led by Profs. Martin Robillard & Jin Guo, McGill University
           company_url: 'https://www.cs.mcgill.ca/~martin/students.html'
           company_logo: mcgill-logo
@@ -163,7 +163,7 @@ sections:
         #   description: |2-
         #       Responsibilities include: 
 
-        - title: Software Development and IoT & ultra-wideband (UWB) Intern
+        - title: Research Intern
           company: Massachusetts Institute of Technology (MIT) Hong Kong Innovation Node
           company_url: 'https://hkinnovationnode.mit.edu/'
           company_logo: mit_logo
@@ -176,7 +176,7 @@ sections:
               * Programmed and refined the collision detection algorithm, enhancing the precision of the positioning system.
               * Developed a user-friendly GUI to control and monitor the system, improving user engagement and system manageability.
         
-        - title: Research Assistant
+        - title: Student Assistant
           company: PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng, Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
           company_logo: polyu-logo
@@ -398,7 +398,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I'm interested in the areas of Machine Learning, Data Analytics, and Software Engineering. Feel free to reach out to me for further discussion.
+        I'm interested in the areas of Trustworthy AI, Optimization, Statistical Machine Learning, LLMs. Feel free to reach out to me for further discussion.
       # Contact (add or remove contact options as necessary)
       email: 'kwokhinchi@gmail.com'
       phone: ''
