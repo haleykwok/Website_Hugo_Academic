@@ -398,7 +398,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I'm interested in the areas of Trustworthy AI, Optimization, Statistical Machine Learning, LLMs. Feel free to reach out to me for further discussion.
+        I'm interested in the areas of Trustworthy AI, Optimization, Statistical Machine Learning, and LLMs. Feel free to reach out to me for further discussion.
       # Contact (add or remove contact options as necessary)
       email: 'kwokhinchi@gmail.com'
       phone: ''
