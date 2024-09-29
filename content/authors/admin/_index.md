@@ -29,6 +29,7 @@ interests:
   - Trustworthy AI
   - Optimization
   - Statistical Machine Learning
+  - Large Language Models (LLMs)
 
 # Education to show in About widget
 education:
