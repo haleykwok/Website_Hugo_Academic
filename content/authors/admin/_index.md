@@ -29,8 +29,6 @@ interests:
   - Trustworthy AI
   - Optimization
   - Statistical Machine Learning
-  - LLMs
-
 
 # Education to show in About widget
 education:
