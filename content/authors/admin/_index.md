@@ -26,10 +26,10 @@ bio: I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE - will s
 
 # Interests to show in About widget
 interests:
-    - Trustworthy AI
-    - Optimization
-    - Statistical Machine Learning
-    - LLMs
+  - Trustworthy AI
+  - Optimization
+  - Statistical Machine Learning
+  - LLMs
 
 
 # Education to show in About widget
