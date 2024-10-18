@@ -151,7 +151,7 @@ and budget overrun is not for sure.
 
 
 
-<center><img src = '/img/CN_ENG4001/SOH.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/SOH.png' width = 350></center>
 
 ---
 
@@ -169,7 +169,7 @@ and budget overrun is not for sure.
 Objectives: general and broad-wise
 Deliverables: a specific products/ services 
 
-<center><img src = '/img/CN_ENG4001/PC.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/PC.png' width = 350></center>
 
 ---
 
@@ -189,7 +189,7 @@ Deliverables: a specific products/ services
 ## 1.5 Dynamic factors in projects
 • Client interest • Project stake • Resource consumption • Creativity • Uncertainty
 
-<center><img src = '/img/CN_ENG4001/DF.png' width = 400></center>
+<center><img src = '/content/post/img/CN_ENG4001/DF.png' width = 400></center>
 
 ---
 
@@ -198,11 +198,11 @@ Triple constraints
 • Time
 • Budget
 • Performance
-<center><img src = '/img/CN_ENG4001/IronT.png' width = 250></center>
+<center><img src = '/content/post/img/CN_ENG4001/IronT.png' width = 250></center>
 
 **[Example]**
 
-<center><img src = '/img/CN_ENG4001/IronT1.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/IronT1.png' width = 350></center>
 
 ---
 
@@ -212,7 +212,7 @@ Triple constraints
 • Business success: achieved significant commerencial success 
 • Preparing for the future: the project opened new markets or new product lines
 
-<center><img src = '/img/CN_ENG4001/F.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/F.png' width = 350></center>
 
 ## 1.8 Project management 
 
@@ -235,7 +235,7 @@ PM Professional
 ## 1.9 Useful charts in PM
 
 ### 1.9.1 Gantt Chart
-<center><img src = '/img/CN_ENG4001/gantt.png' width = 400></center>
+<center><img src = '/content/post/img/CN_ENG4001/gantt.png' width = 400></center>
 
 1. Shows all the pivotal stages in projects
 2. Shows the task duration
@@ -258,7 +258,7 @@ Benefits:
 
 ### 1.9.3 Work Breakdown Structure (WBS)
 
-<center><img src = '/img/CN_ENG4001/wbs.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/wbs.png'></center>
 
 1. Break a large project into smaller blocks and items
 2. Assigning tasks to teams
@@ -266,7 +266,7 @@ Benefits:
 
 ### 1.9.4 Pareto Chart
 
-<center><img src = '/img/CN_ENG4001/pareto.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/pareto.png' width = 350></center>
 
 1. It is an amalgamation of bar and line graphs
 2. Used to find root cause
@@ -285,7 +285,7 @@ cumulative impact of defects
 ### 1.9.6 Matrix Diagram
 With it, a PM can easily know about the involvement of each team
 
-<center><img src = '/img/CN_ENG4001/matrix.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/matrix.png' width = 350></center>
 
 2023-1-13
 
@@ -346,8 +346,8 @@ Committing the organization to begin a project
 3. resolve open issues
 
 **[Example]**
-<center><img src = '/img/CN_ENG4001/cs1.png'></center>
-<center><img src = '/img/CN_ENG4001/cs2.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/cs1.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/cs2.png'></center>
 
 
 ## 2.6 The hierarchy of project management in organizations
@@ -360,7 +360,7 @@ Three commonly-seen organizational systems:
 • Companies are structured by creating a dual hierarchy in which functions and projects have equal prominence.
 
 ### 2.6.1 Functional organizations
-<center><img src = '/img/CN_ENG4001/functionalO.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/functionalO.png' width = 350></center>
 
 1. Firm’s design maintained
 2. Fosters development of in-depth knowledge
@@ -373,7 +373,7 @@ Three commonly-seen organizational systems:
 
 
 ### 2.6.2 Project organizations
-<center><img src = '/img/CN_ENG4001/projectO.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/projectO.png' width = 350></center>
 
 1. Project manager sole authority
 2. Expensive to set up and maintain teams
@@ -387,7 +387,7 @@ Three commonly-seen organizational systems:
 9. Rapid response end
 
 ### 2.6.3 Matrix organizations
-<center><img src = '/img/CN_ENG4001/matrixO.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/matrixO.png' width = 350></center>
 
 1. Suited to dynamic environments
 2. Equal emphasis on project management and functional efficiency
@@ -411,10 +411,10 @@ Project selection models
 
 
 ## 3.1 Checklist model
-<center><img src = '/img/CN_ENG4001/checklistModel.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/checklistModel.png'></center> 
  
 ## 3.2 Simplified scoring model
-<center><img src = '/img/CN_ENG4001/simple.png' ></center>
+<center><img src = '/content/post/img/CN_ENG4001/simple.png' ></center>
 
 ## 3.3 Pairwise comparison approach
 Aims: Weightings
@@ -423,7 +423,7 @@ Aims: Weightings
 > rol > col, then input 1;
 > rol = col, then input 0.5; 
 
-<center><img src = '/img/CN_ENG4001/PW.png' width = 250></center>
+<center><img src = '/content/post/img/CN_ENG4001/PW.png' width = 250></center>
 
 Row-a: 1 + 0 = 1;
 Row-b: 0 + 0.5 = 0.5;
@@ -437,14 +437,14 @@ Row-c: 1 + 0.5 = 1.5
 
 ## 3.4 The analytical hierarchy process (AHP)
 STEP1
-<center><img src = '/img/CN_ENG4001/analyticalModel.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/analyticalModel.png'></center>
 STEP2
-<center><img src = '/img/CN_ENG4001/analyticalModel2.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/analyticalModel2.png'></center>
 
 ## 3.5 Profile model
 **Efficient frontier** is the set of project alternatives that offers either a $MAX$ return for every given level of risk , or the $MIN$ risk for every given level of return, where
 `(X1, X3, X5, X6)` lie along the efficient frontier which balances risks and returns, while `(X2, X4)` are less desirable.
-<center><img src = '/img/CN_ENG4001/profile.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/profile.png' width = 350></center>
 
 ## 3.6 Financial models
 > No. of years to pay back = Original investment / Annual net cash flow
@@ -526,7 +526,7 @@ Tools & Techniques
 • Machine learning 
 • Statistics
 
-<center><img src = '/img/CN_ENG4001/ADE.png' width = 500></center>
+<center><img src = '/content/post/img/CN_ENG4001/ADE.png' width = 500></center>
 
 
 4. Schedule Development [focus!!!]
@@ -537,7 +537,7 @@ Tools & Techniques
 • Estimated time: $$\frac{(a+4m+b)}{6}$$
 
 ## Critical Path Method
-<center><img src = '/img/CN_ENG4001/NetworkDiagram.png' width = 500></center>
+<center><img src = '/content/post/img/CN_ENG4001/NetworkDiagram.png' width = 500></center>
 
 1. Predecessors
 The activities that must be completed prior to the initiation of an activity
@@ -558,7 +558,7 @@ Float is the difference between the late start date and the early start date (LS
 $$LS-ES=LF-EF=Float$$
 It can be regarded as the “buffer” of delays
 
-<center><img src = '/img/CN_ENG4001/Float.png' width = 300></center>
+<center><img src = '/content/post/img/CN_ENG4001/Float.png' width = 300></center>
 
 
 8. Merge activity
@@ -568,7 +568,7 @@ C can’t be started until both A and B are finished
 An activity with two or more immediate successors
 E and F can start immediately upon the completion of D
 
-<center class = '/img/CN_ENG4001/half'><img src = '/img/CN_ENG4001/MergeBurst.png' width = 100></center>
+<center class = '/content/post/img/CN_ENG4001/half'><img src = '/content/post/img/CN_ENG4001/MergeBurst.png' width = 100></center>
 
 
 10. Concurrent activities
@@ -576,13 +576,13 @@ The activities that can occur in parallel
 Should have sufficient resources to support the parallel operations Concurrent
 
 
-<center><img src = '/img/CN_ENG4001/Concurrent.png' width = 400></center>
+<center><img src = '/content/post/img/CN_ENG4001/Concurrent.png' width = 400></center>
 
 **[Example]**
 
-<center><img src = '/img/CN_ENG4001/ActivityNetworkConstruction.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/ActivityNetworkConstruction.png' width = 350></center>
 
-<center><img src = '/img/CN_ENG4001/Merge.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/Merge.png' width = 350></center>
 
 ```mermaid
 graph LR
@@ -604,42 +604,42 @@ b) The shortest time required to finish the project
 c) The path **without any float**
 
 
-<center><img src = '/img/CN_ENG4001/CriticalPath.png' width = 550></center>
+<center><img src = '/content/post/img/CN_ENG4001/CriticalPath.png' width = 550></center>
 
 Delay Effect: 
 
-<center><img src = '/img/CN_ENG4001/CPD1.png' width = 500></center>
-<center><img src = '/img/CN_ENG4001/CPD2.png' width = 500></center>
+<center><img src = '/content/post/img/CN_ENG4001/CPD1.png' width = 500></center>
+<center><img src = '/content/post/img/CN_ENG4001/CPD2.png' width = 500></center>
 
 ## Activity-on-Node (AON)
 
-<center><img src = '/img/CN_ENG4001/AON.png' width = 250></center>
+<center><img src = '/content/post/img/CN_ENG4001/AON.png' width = 250></center>
 
 Five steps of the Critical Path Method (CPM): 
 1. Create the Project Activity Network 
-<center><img src = '/img/CN_ENG4001/S1.png' width = 700></center>
+<center><img src = '/content/post/img/CN_ENG4001/S1.png' width = 700></center>
 
 2. Forward pass: To determine the Early start ($ES$) date and Early finish ($EF$) date for each activity through iterative processes $ES+Duration=EF$  
-<center class = '/img/CN_ENG4001/half'><img src = '/img/CN_ENG4001/S2.png' width = 200/><img src = '/img/CN_ENG4001/S3.png' width = 300/>
+<center class = '/content/post/img/CN_ENG4001/half'><img src = '/content/post/img/CN_ENG4001/S2.png' width = 200/><img src = '/content/post/img/CN_ENG4001/S3.png' width = 300/>
 </center>
 
 `--> Merge Node: LARGEST`
 
 3. Backward pass: To determine the Late start ($LS$) and Late finish ($LF$) dates for each activity through a subtractive methodology $LF-Duration=LS$ 
-<center class = '/img/CN_ENG4001/half'><img src = '/img/CN_ENG4001/S5.png' width = 200/><img src = '/img/CN_ENG4001/S4.png' width = 200/>
+<center class = '/content/post/img/CN_ENG4001/half'><img src = '/content/post/img/CN_ENG4001/S5.png' width = 200/><img src = '/content/post/img/CN_ENG4001/S4.png' width = 200/>
 </center>
 
 `<-- Burst Node: SMALLEST`
 
 4. Determine the float (slack) for each activity $Float=LF-EF=LS-ES$
-<center><img src = '/img/CN_ENG4001/S7.png' width = 250></center>
+<center><img src = '/content/post/img/CN_ENG4001/S7.png' width = 250></center>
 
 5. Determine the critical path of the project
 **ACDFH** is the critical path, with no float
-<center><img src = '/img/CN_ENG4001/S8.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/S8.png' width = 350></center>
 
 If the project B is delayed for 2 days, it would not affect the whole progress since there is float more than 2 days.
-<center><img src = '/img/CN_ENG4001/S9.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/S9.png' width = 350></center>
 
 **[Activity]**
 
@@ -655,7 +655,7 @@ If the project B is delayed for 2 days, it would not affect the whole progress s
 |H|F, G|3|
 
 
-<center><img src = '/img/CN_ENG4001/ABDGH.png' width = 400></center>
+<center><img src = '/content/post/img/CN_ENG4001/ABDGH.png' width = 400></center>
 
 ---
 # Lecture 6 PROJECT CRASHING
@@ -668,7 +668,7 @@ The efforts to accelerate a project are referred to as **crashing**
 • Generally, the more resources we are willing to expend, the faster we can push the project to its completion. 
 • But, the effect is not equivalent across different project activities; Select the one with the **smallest slope**
 
-<center><img src = '/img/CN_ENG4001/L6tradeoff.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/L6tradeoff.png'></center>
 
 $$
 Slope = \frac{Crash\ cost - Normal\ cost}{Normal\ time - Crash\ time}
@@ -677,10 +677,10 @@ $$
 
 **[Example]**
 
-<center><img src = '/img/CN_ENG4001/L6crashing.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/L6crashing.png'></center>
 
 Critical Path: A-C-D-F-H 
-<center><img src = '/img/CN_ENG4001/L6critical.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/L6critical.png' width = 350></center>
 
 **The time is not shorted if we accelerate:**
 B for 1 day 
@@ -688,15 +688,15 @@ E for 5 days
 
 **But improve when:**
 D for 2 days
-<center><img src = '/img/CN_ENG4001/L6shortened.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/L6shortened.png' width = 350></center>
 
 **[Example]**
 
 Critical Path: A-D-E-H
-<center><img src = '/img/CN_ENG4001/L6slope.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/L6slope.png' width = 350></center>
 
 By using the slope formula, we have:
-<center><img src = '/img/CN_ENG4001/L6SC.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/L6SC.png' width = 350></center>
 
 > Need to pay attention: The critical path may change during crashing
 
@@ -713,7 +713,7 @@ Accelerating H: 2000 per week
 
 ### Project S-Curve: Simplicity
 Any significant deviations between the actual and the planned budget spending reveal a potential problem area. 
-<center class = '/img/CN_ENG4001/half'><img src = '/img/CN_ENG4001/L7sCurve.png' width = 250><img src = '/img/CN_ENG4001/L7curve.png' width = 250/></center>
+<center class = '/content/post/img/CN_ENG4001/half'><img src = '/content/post/img/CN_ENG4001/L7sCurve.png' width = 250><img src = '/content/post/img/CN_ENG4001/L7curve.png' width = 250/></center>
 
 No measurement on actual performance 
 
@@ -724,13 +724,13 @@ No measurement on actual performance
 - Help coordinate schedules with suppliers 
 - Signal other team members when their work is needed
 
-<center><img src = '/img/CN_ENG4001/L7milestone.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/L7milestone.png' width = 350></center>
 
 No measurement on budget cost
 
 ### Earned Value
 
-<center><img src = '/img/CN_ENG4001/L7earnedValue.png' width = 250><img src = '/img/CN_ENG4001/L7EV.png' width = 250></center>
+<center><img src = '/content/post/img/CN_ENG4001/L7earnedValue.png' width = 250><img src = '/content/post/img/CN_ENG4001/L7EV.png' width = 250></center>
 
 
 |Concepts|Meaning|
@@ -753,7 +753,7 @@ No measurement on budget cost
 > A positive SV indicates that the project is ahead of schedule.
 > A zero SV indicates that the project is on schedule.
 
-<center><img src = '/img/CN_ENG4001/L7SV.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/L7SV.png' width = 350></center>
 
 
 > 1. CV of an activity to a time point = EV of an activity to a time point - AC of the activity to a time point
@@ -763,42 +763,42 @@ No measurement on budget cost
 > A zero CV indicates that the project is on budget.
 
 
-<center><img src = '/img/CN_ENG4001/L7CV.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/L7CV.png' width = 350></center>
 
 > 1. SPI of the project to a time point =EV of the project to a time point /PV of the project to a time point
 
 Estimated time to completion =  $\frac{1}{SPI} * original\ estimation$
-<center><img src = '/img/CN_ENG4001/L7SPI.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/L7SPI.png' width = 350></center>
 
 
 > 1. CPI of the project to a time point =EV of the project to a time point /AC of the project to a time point
 
 Estimated cumulative cost to completion =  $\frac{1}{CPI} * original\ estimation$
-<center><img src = '/img/CN_ENG4001/L7CPI.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/L7CPI.png' width = 350></center>
 
 **[Example]**
 
 Step 1: Determine the PV for activities and the project 
-<center class = '/img/CN_ENG4001/half'><img src = '/img/CN_ENG4001/L7S1.png' width = 250><img src = '/img/CN_ENG4001/L7S2.png' width = 250></center>
+<center class = '/content/post/img/CN_ENG4001/half'><img src = '/content/post/img/CN_ENG4001/L7S1.png' width = 250><img src = '/content/post/img/CN_ENG4001/L7S2.png' width = 250></center>
 
 Step 2: Check the task completion status and actual cost expenditure at a certain time point 
-<center><img src = '/img/CN_ENG4001/L7S3.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/L7S3.png' width = 350></center>
 
 Step 3: Calculate the EV for the project at this time point 
-<center><img src = '/img/CN_ENG4001/L7S4.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/L7S4.png' width = 350></center>
 
 Step 4: Calculate the SV and SPI for the project, and update duration estimation 
 
 $SPI = EV/PV = 44/103 = 0.43$ $\rightarrow$ The project is nine months behind the schedule
 Estimated time to completion =  $\frac{1}{SPI} * original\ estimation = \frac{1}{0.43} * 7 = 16.3$
-<center><img src = '/img/CN_ENG4001/L7S5.png' width = 350></center>
+<center><img src = '/content/post/img/CN_ENG4001/L7S5.png' width = 350></center>
 
 Step 5: Calculate the CV and CPI for the project, and update cost estimation
 
 $CPI= EV/AC =44/78=0.56$ $\rightarrow$ The project is under budget
 Estimated cumulative cost to completion =  $\frac{1}{CPI} * original\ estimation = \frac{1}{0.56} * 118000 = 210714$
 
-<center class = '/img/CN_ENG4001/half'><img src = '/img/CN_ENG4001/L7S6.png' width = 350><img src = '/img/CN_ENG4001/L7S7.png' width = 350/></center>
+<center class = '/content/post/img/CN_ENG4001/half'><img src = '/content/post/img/CN_ENG4001/L7S6.png' width = 350><img src = '/content/post/img/CN_ENG4001/L7S7.png' width = 350/></center>
 
 > Be careful with the original estimation
 
@@ -890,13 +890,13 @@ Collaboration  approach  can  help  persuade  the  half- convinced members of th
 
 $Event risk = (Probability of Event) (Consequences of Event)$
 
-<a src = '/img/CN_ENG4001/riskvariables.png'></a>
+<a src = '/content/post/img/CN_ENG4001/riskvariables.png'></a>
 
 1. Risk  Breakdown  Structures  (RBS)  is  a  source-oriented  grouping  of  project  risks  that organizes and defines the total risk exposure of the project.
-<a src = '/img/CN_ENG4001/RBS.png'></a>
+<a src = '/content/post/img/CN_ENG4001/RBS.png'></a>
 
 1. Analysis of Probability and Consequences
-<a src = '/img/CN_ENG4001/matrixCon.png'></a>
+<a src = '/content/post/img/CN_ENG4001/matrixCon.png'></a>
 
 Risk  impact  matrix  facilitates  the identification  of  “criticality”  of each  of  those  risks  in  terms  of their  potential  impact  on  project performance.
 - The  types  of  risks  with  high likelihood of occurrence and high potential  for  harming  the  project are  most  relevant  to  project planning and contingency planning
@@ -928,7 +928,7 @@ Consider a firm developing a new software product for the retail market.
 – Complexity of software product: is the design relatively simple or highly complex in structure? 
 – Dependency: can the product be developed independently of any system?
 
-<a src = '/img/CN_ENG4001/PF.png'></a>
+<a src = '/content/post/img/CN_ENG4001/PF.png'></a>
 
 • Consequence  of  failure:  to  critically evaluate  the  results  of  a  project’s  success  or  failure  along  a  number  of  key dimensions
 – Cost: budget adherence vs overrun 
@@ -936,7 +936,7 @@ Consider a firm developing a new software product for the retail market.
 – Reliability: the usefulness and quality of the finished product 
 – Performance: how well the new software performs its designed functions
 
-<a src = '/img/CN_ENG4001/CF.png'></a>
+<a src = '/content/post/img/CN_ENG4001/CF.png'></a>
 
 
 Calculating a Project Risk Factor:
@@ -1083,7 +1083,7 @@ The European Association for Project Management has developed an integrated prog
 
 
 
-<center><img src = '/img/CN_ENG4001/PRAM.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/PRAM.png'></center>
 
 
 
@@ -1130,9 +1130,9 @@ Indirect cost: indirect costs are generally are linked to two features: overhead
 
 
 **[Example]**
-<center><img src = '/img/CN_ENG4001/CEB1.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/CEB1.png'></center>
 ---
-<center><img src = '/img/CN_ENG4001/CEB2.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/CEB2.png'></center>
 
 
 2023-3-30
@@ -1168,7 +1168,7 @@ Expedited costs: expedited costs are **unplanned costs incurred** when steps are
 – Examples: Suppose the project has fallen behind schedule and the decision is made to “crash” certain project activities in the hopes of regaining lost time. A hiring of temporary workers, contracting with external resources or organizations, speeding up material deliveries.
 
 
-<center><img src = '/img/CN_ENG4001/CEB3.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/CEB3.png'></center>
 
 ## Cost Estimation
 
@@ -1187,7 +1187,7 @@ Cost estimation:
 This parametric estimate allows Boeing to create highly accurate
 estimates when costing out the work and preparing detailed budgets for new aircraft development projects.
 
-<center><img src = '/img/CN_ENG4001/parametric.png' width = 400></center>
+<center><img src = '/content/post/img/CN_ENG4001/parametric.png' width = 400></center>
 
 3. Feasibility estimates: These estimates are based as a guideline on real numbers, or figures derived after the completion of the preliminary project design work.
 
@@ -1275,7 +1275,7 @@ Function point analysis is a system for estimating the size of software projects
 
 Suppose we determined (from our interviews with the restaurant owners) that the estimate for relative complexity was inputs (medium), outputs (high), interfaces (low), queries (medium), and files (low). Further, we know that the clients require the following number of each function: input screens (15), output screens (20), interfaces (3), queries (6), and report files (40).
 
-<center><img src = '/img/CN_ENG4001/functional.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/functional.png'></center>
 
 
 
@@ -1283,7 +1283,7 @@ The project will require approximately 409 function points. Consider that each r
 
 On the other hand, by assigning our entire staff of 10 programmers, we would expect to complete the job in just over four months. Cost estimation using this information is straightforward: If our average resource cost per programmer is 5,000 / month, we multiply this figure by 40.1 to determine that our estimated cost for completing the job is 200,500.
 
-<center><img src = '/img/CN_ENG4001/functional1.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/functional1.png'></center>
 
 ## Project Budget
 
@@ -1292,16 +1292,16 @@ On the other hand, by assigning our entire staff of 10 programmers, we would exp
 
 2. The bottom-up budgeting approach begins inductively from the work breakdown structure to apply direct and indirect costs to project activities. The sum of the total costs associated with each activity are then aggregated, first to the work package level, then at the deliverable level, at which point all task budgets are combined, and then higher up the chain where the sum of the work package budgets are aggregated to create the overall project budget.
 
-<center><img src = '/img/CN_ENG4001/bottomup.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/bottomup.png'></center>
 
 3. Most project budgets use some form of activity-based costing. Activity-based costing (ABc) is a budgeting method that assigns costs first to activities and then to the projects based on each project’s use of resources. Remember that project activities are any discrete task that the project team undertakes to make or deliver the project. Activity-based costing, therefore, is based on the notion that projects consume activities and activities consume resources.
 
 
-<center><img src = '/img/CN_ENG4001/activity.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/activity.png'></center>
 
 4. The time-phased budget allocates costs across both project activities and the anticipated time in which the budget is to be expended. It allows the project team to match its schedule baseline with a budget baseline, identifying milestones for both schedule performance and project expense.
   
-<center><img src = '/img/CN_ENG4001/time.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/time.png'></center>
 
 ---
 
@@ -1334,40 +1334,40 @@ Resource  leveling  is  the  process  that  addresses  the  complex  challenges 
 - Activities  with  the  most  successor  tasks.  We  select  for  resource  priority  those tasks that have the most tasks following behind them.
 - Activities  requiring  the  most  resources.  It  is  common  to  first  apply  resources  to those activities requiring the most support, and then analyze the remaining tasks based on the availability of additional resources.
 
-<center><img src = '/img/CN_ENG4001/resourceloading.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/resourceloading.png'></center>
 
-<center><img src = '/img/CN_ENG4001/resourceloading1.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/resourceloading1.png'></center>
 
-<center><img src = '/img/CN_ENG4001/resourceloading2.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/resourceloading2.png'></center>
 
 
 ### Step one: develop the resource-loading table 
 
-<center><img src = '/img/CN_ENG4001/C10step1.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/C10step1.png'></center>
 
 
 ### Step two: determine activity late Finish dates
 
 
-<center><img src = '/img/CN_ENG4001/C10step2.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/C10step2.png'></center>
 
 ### Step three: identify resource overallocation 
 If, for example, the project is budgeted for  up  to  10  resource  units  per  day,  then  this  resource  profile  is acceptable.  On  the  other  hand,  if resources are limited to some figure below the maximum found in the project’s resource profile, the project
 has an overallocation problem that must be addressed and corrected.
 
-<center><img src = '/img/CN_ENG4001/C10step3.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/C10step3.png'></center>
 
 ### Step Four: level the resource-loading table
 
-<center><img src = '/img/CN_ENG4001/C10step4.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/C10step4.png'></center>
 
-<center><img src = '/img/CN_ENG4001/resourceloading3.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/resourceloading3.png'></center>
 
 **[Example]**
 
-<center><img src = '/img/CN_ENG4001/C10example1.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/C10example1.png'></center>
 
-<center><img src = '/img/CN_ENG4001/C10example2.png'></center>
+<center><img src = '/content/post/img/CN_ENG4001/C10example2.png'></center>
 
 
 
