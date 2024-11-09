@@ -86,7 +86,20 @@ highlight_name: true
 
 - Welcome to my website. Hello World from 🌏 22.3193° 114.1694° 👋
 - 🔭 I consider myself a proactive learner who is continuously exploring the realms of Trustworthy AI, Optimization, Statistical Machine Learning, and LLMs. I am grateful to have been recognized with some awards in innovation and technology, which I view as collective achievements. My practical experience in Software Development has been shaped by opportunities to work alongside knowledgeable teams at reputable institutions and companies. These experiences have nurtured my ability to blend technical proficiency with a research-oriented mindset to navigate and contribute to complex projects within Enterprise Computing and Digital Servitization. I am always keen to learn from others and strive to bring a thoughtful, team-oriented approach to my work.
-- ✍️ I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE - will shape my future, help me achieve my goals, and positively impact my community. I am passionate for technology, and I am here to share my journey of rediscovering my passion for STEM. Despite facing gender stereotypes and societal expectations from selecting IT as my career before, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. My ultimate goal is to translate my research into real products, contribute to make CHANGES in the science and technology industry, and inspire others to pursue a career in STEM. 
+- ✍️ I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE - will shape my future, help me achieve my goals, and positively impact my community. I am passionate about using technology to solve real-life problems (with human contextual understanding), and I am here to share my journey of rediscovering my passion for STEM. Despite facing gender stereotypes and societal expectations from selecting IT as my career before, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. I hope to make positive CHANGES to our community, and inspire others to pursue a career in STEM. 
+
+<details close>
+<summary> Acknowledge not just success; sometimes failure is the motivation that drives you improvement and is surely worth remembering. Take them with a grain of salt.</summary>
+- Did not receive the D. H. Chen Foundation Scholarship 2021.
+- Did not receive the Jockey Club Scholarship 2021.
+- Did not receive the HSBC HK Scholarship 2023.
+- Criticized by various people for my decisions (if you're confident in your ego [Freud's theory](https://simple.wikipedia.org/wiki/Id,_ego,_and_super-ego), outside opinions are just noise; take opinions with critical thinking—if they make sense, take them; if not, just don't).
+<details close>
+<summary>Miscellaneous</summary>
+
+</details>
+
+
 <!-- - 💼 An individual may be able to do great things, but a group of individuals may do better. Feel free to reach out if you have cool idea that we can collaborate by any chance. -->
 
 <!-- <details close>
