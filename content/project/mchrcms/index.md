@@ -1,6 +1,7 @@
 ---
 title: Mutual Cognitive Human-Robot Collaborative Manufacturing System 基於人機互認知的機械人協作製造系統
 summary: An Research and Entrepreneurship project aims to improve collaboration between humans and robots in the manufacturing industry through harnessing technologies such as cognitive Artificial Intelligence (AI) and Augmented Reality (AR). The system combines robots' high levels of accuracy, reliability, and repeatability with humans' flexibility and adaptability to optimise productivity for various manufacturing assembly tasks in a shared workspace, made by PolyU’s Research Group of AI for Industrial Digital Servitization (RAIDS).
+draft: true
 
 tags:
   - Human-Centered Automation

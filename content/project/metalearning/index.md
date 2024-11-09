@@ -1,6 +1,8 @@
 ---
 title: Meta-Reinforcement Learning Based Control Approach for Assisting Human-Robot Collaboration in Personalized Production
 summary: A Research Project utilized MAML-based 5-step PPO to improve robot’s productivity in HRC by about 75% on average. It aims to enable collaborative robots (cobots) to acquire basic skills and perform tasks based on personalised production requirements, made by KWOK Hin Chi , LI Chengxi, PANG Yat Ming, ZHENG Pai.
+draft: true
+
 tags:
   - Human-Centered Automation
   - Intelligent and Flexible Manufacturing
