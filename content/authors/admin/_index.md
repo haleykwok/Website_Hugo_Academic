@@ -94,14 +94,14 @@ highlight_name: true
 - Did not receive the D. H. Chen Foundation Scholarship 2021.
 - Did not receive the Jockey Club Scholarship 2021.
 - Did not receive the HSBC HK Scholarship 2023.
-- Criticized by various people for my decisions (if you're confident in your ego [Freud's theory](https://simple.wikipedia.org/wiki/Id,_ego,_and_super-ego), outside opinions are just noise; take opinions with critical thinking—if they make sense, take them; if not, just don't).
+- Criticized by various people for my decisions (if you're confident in your ego ([Freud's theory](https://simple.wikipedia.org/wiki/Id,_ego,_and_super-ego)), outside opinions are just noise; take opinions with critical thinking—if they make sense, take them; if not, just don't).
   
 </details>
 
 <details close>
 <summary>Miscellaneous</summary>
 
-Whole-person development is important, make sure you living life both mentally and physically healthy :) The most important thing I value is being your unique self, not [conforming](https://en.wikipedia.org/wiki/Conformity) to others blindly.
+Whole-person development is important, make sure you living life both mentally and physically healthy :) The most important thing I value is being your unique self, love what you are working on and not [conforming](https://en.wikipedia.org/wiki/Conformity) to others blindly.
 
 - Novels/Films: Sci-fi favorites include [The Three-Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)), [Interstellar](https://en.wikipedia.org/wiki/Interstellar_(film)), and [Resident Evil](https://en.wikipedia.org/wiki/Resident_Evil), etc.
 - Documentaries: Primarily about natural sciences, history, biography, etc.
@@ -109,6 +109,8 @@ Whole-person development is important, make sure you living life both mentally a
 - Music: Piano and music genres like R&B, dreampop, darkpop, electropop, and hip-hop.
 - Cooking: Chinese cuisine, desserts (bread and cake), and Western dishes.
 - Gaming: I play FPS and TPS games such as [PUBG](https://en.wikipedia.org/wiki/PlayerUnknown%27s_Battlegrounds), [CSGO](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive), and action-adventure games like [Assassin's Creed](https://en.wikipedia.org/wiki/Assassin%27s_Creed) and [GTA](https://en.wikipedia.org/wiki/Grand_Theft_Auto). I also enjoy improving my skills through online tutorials.
+- Philosophy: [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics), [Epistemology](https://en.wikipedia.org/wiki/Epistemology), Philosophy of Mind and Science, etc.
+- Cleaning up and organizing stuff
 
 </details>
 
