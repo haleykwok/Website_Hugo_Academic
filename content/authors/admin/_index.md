@@ -90,13 +90,19 @@ highlight_name: true
 
 <details close>
 <summary> Acknowledge not just success; sometimes failure is the motivation that drives you improvement and is surely worth remembering. Take them with a grain of salt.</summary>
+
 - Did not receive the D. H. Chen Foundation Scholarship 2021.
 - Did not receive the Jockey Club Scholarship 2021.
 - Did not receive the HSBC HK Scholarship 2023.
 - Criticized by various people for my decisions (if you're confident in your ego [Freud's theory](https://simple.wikipedia.org/wiki/Id,_ego,_and_super-ego), outside opinions are just noise; take opinions with critical thinking—if they make sense, take them; if not, just don't).
+  
+</details>
+
 <details close>
 <summary>Miscellaneous</summary>
+
 Whole-person development is important, make sure you living life both mentally and physically healthy :) The most important thing I value is being your unique self, not [conforming](https://en.wikipedia.org/wiki/Conformity) to others blindly.
+
 - Novels/Films: Sci-fi favorites include [The Three-Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)), [Interstellar](https://en.wikipedia.org/wiki/Interstellar_(film)), and [Resident Evil](https://en.wikipedia.org/wiki/Resident_Evil), etc.
 - Documentaries: Primarily about natural sciences, history, biography, etc.
 - Exercise: Gym workouts, swimming, and badminton.
