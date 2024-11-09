@@ -5,6 +5,7 @@ tags:
   - Other
   - Cloud Computing
 date: '2024-01-05T00:00:00Z'
+visibility: hidden
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
