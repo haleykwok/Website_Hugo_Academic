@@ -24,6 +24,7 @@ aplayer:
 highlight_shrink:
 aside:
 abcjs:
+draft: true
 ---
 
 <span style = 'font-family: Times New Roman'>
