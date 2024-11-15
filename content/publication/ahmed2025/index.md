@@ -1,6 +1,6 @@
 <!--  
 ---
-title: "SMATCH-M-LLM: Semantic Similarity in Metamodel Matching With Large Language Models," under review at ICSE 2025, Research Track."
+title: ”SMATCH-M-LLM： Semantic Similarity in Metamodel Matching With Large Language Models“
 
 
 # Authors
@@ -112,6 +112,7 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).-->
+
 
 
 
