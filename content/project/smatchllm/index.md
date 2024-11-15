@@ -10,14 +10,14 @@ date: '2024-09-08T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Synergies Intellignet Systems, Inc.
+  caption: SMATCH-M-LLM
   focal_point: Smart
 
-links:
-  - icon: website
-    icon_pack: fas
-    name: Website
-    url: https://www.synergies.ai/
+# links:
+#   - icon: website
+#     icon_pack: fas
+#     name: Website
+#     url: https://www.synergies.ai/
 
 # url_pdf: 'https://drive.google.com/file/d/1HWm06Mwj7lnCeUC36QnCySfe-0lxmlIQ/view?usp=sharing'
 # url_code: 'https://github.com/HaleyKwok/Spherical_Robot/tree/main/code'
