@@ -1,6 +1,6 @@
 ---
 title: "SMATCH-M-LLM: Semantic Similarity in Metamodel Matching With Large Language Models"
-summary: This project focuses on developing a novel approach to metamodel matching using large language models. 
+summary: This project focuses on developing a novel approach to metamodel matching using large language models, supervised by Dr. Hamdaqa at Polytechnique Montréal Software and Emerging Technologies Lab. 
 
 tags:
   - AI
@@ -34,4 +34,6 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+This project focuses on developing a novel approach to metamodel matching using large language models, supervised by Dr. Hamdaqa at Polytechnique Montréal Software and Emerging Technologies Lab.
 

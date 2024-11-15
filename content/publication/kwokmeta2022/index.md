@@ -6,10 +6,10 @@ title: 'Meta-Reinforcement Learning Based Control Approach for Assisting Human-R
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - HC Kwok
-  - C Li
-  - Y Pang
-  - P Zheng
+  - H. C. Kwok
+  - C. Li
+  - Y. Pang
+  - P. Zheng
 
 # Author notes (optional)
 author_notes:

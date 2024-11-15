@@ -36,3 +36,5 @@ links:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+This intership project focuses on developing a data pipeline using AWS and a web crawler to preprocess and standardize data. Team members include KWOK Hin Chi, Alfonso Portilla, Octavio Lomeli-Castro, and Karthik Iyer. All rights reserved by Rimble.

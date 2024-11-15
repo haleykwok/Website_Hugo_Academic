@@ -35,3 +35,4 @@ links:
 # slides: example
 ---
 
+These are internship projects at Synergies Intelligent Systems, Inc. Tasks include using the YOLO object detection model to identify object areas and classify hardware defects with Detectron2. All rights reserved by Synergies Intelligent Systems, Inc.
