@@ -5,11 +5,11 @@ title: 'Meta-Reinforcement Learning Based Control Approach for Assisting Human-R
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-#   - KWOK Hin Chi
-#   - LI Chengxi
-#   - PANG Yat Ming
-#   - ZHENG Pai
+authors:
+  - HC Kwok
+  - C Li
+  - Y Pang
+  - P Zheng
 
 # Author notes (optional)
 author_notes:
