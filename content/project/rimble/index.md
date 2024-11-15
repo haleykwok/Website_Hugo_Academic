@@ -1,6 +1,6 @@
 ---
-title: Intership project at Rimble
-summary: The project is about the development of data pipeline using AWS and web crawler to pre-process and standardize data, with SWE team member KWOK Hin Chi, Alfonso Portilla, Octavio Lomeli-Castro, Karthik Iyer. All rights reserved by Rimble.
+title: Data Pipeline Development and Web Crawler
+summary: This intership project focuses on developing a data pipeline using AWS and a web crawler to preprocess and standardize data. Team members include KWOK Hin Chi, Alfonso Portilla, Octavio Lomeli-Castro, and Karthik Iyer. All rights reserved by Rimble.
 
 
 

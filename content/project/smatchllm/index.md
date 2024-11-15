@@ -1,6 +1,6 @@
 ---
-title: Object Classification and Hardware Defect Segmentation
-summary: These are internship projects at Synergies Intelligent Systems, Inc. Tasks include using the YOLO object detection model to identify object areas and classify hardware defects with Detectron2. All rights reserved by Synergies Intelligent Systems, Inc.
+title: "SMATCH-M-LLM: Semantic Similarity in Metamodel Matching With Large Language Models"
+summary: This project focuses on developing a novel approach to metamodel matching using large language models. 
 
 tags:
   - AI
