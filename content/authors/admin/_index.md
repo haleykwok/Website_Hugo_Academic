@@ -94,7 +94,7 @@ highlight_name: true
 - Did not receive the D. H. Chen Foundation Scholarship 2021.
 - Did not receive the Jockey Club Scholarship 2021.
 - Did not receive the HSBC HK Scholarship 2023.
-- Criticized by various people for my decisions (Decisions aren't black-and-white. You always gain and loss at the same time. With that being said, evaulate problems case-by-case. If you're determined and has optimized your decision based on your circumstances, trust your ego ([Freud's theory](https://simple.wikipedia.org/wiki/Id,_ego,_and_super-ego)), or in other words, intuition; take opinions with critical thinking—responsbility for yourself. If they make sense, take them; if not, just don't).
+- Criticized by various people for my decisions (Decisions aren't black-and-white. You always gain and loss at the same time. With that being said, evaulate problems case-by-case. If you're determined and has optimized your decision based on your circumstances, trust your ego ([Freud's theory](https://simple.wikipedia.org/wiki/Id,_ego,_and_super-ego)), or in other words, intuition; take opinions with critical thinking—responsbility for yourself :))
 
 </details>
 
