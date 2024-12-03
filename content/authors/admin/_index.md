@@ -37,9 +37,9 @@ education:
     - course: BSc in (Industrial and Systems Engineering) Enterprise Engineering with Management + Computing 
       institution: Hong Kong Polytechnic University, HKSAR, China
       year: 2020-2025
-    - course: Exchange Student in Computer Science and Technology, Information and Computing Lab, SEIEE
-      institution: Shanghai Jiaotong University, Shanghai, China
-      year: 2023-2024
+    # - course: Exchange Student in Computer Science and Technology, Information and Computing Lab, SEIEE
+    #   institution: Shanghai Jiaotong University, Shanghai, China
+    #   year: 2023-2024
     - course: Exchange Student in IEOR + Computer Science
       institution: University of California, Berkeley, USA
       year: 2024
