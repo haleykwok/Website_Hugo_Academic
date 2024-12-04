@@ -104,7 +104,7 @@ sections:
               * Utilized object detection model YOLO to identify LED screens to enhance clients’ user selection experience.
               * Assisted Hon Hai Precision Industry in automation by using Detectron2 model, achieving over 90% accuracy in checking for defects in hardware components like ribbon cables, heat sinks, coaxial cables, and small wiring harnesses.
     
-        - title: Software Engineering Intern
+        - title: Software Engineering Intern on ML
           company: Rimble
           company_url: 'https://www.rimble.io/'
           company_logo: rimble-logo
@@ -118,7 +118,7 @@ sections:
               * Designed and optimized the games’ data pipeline to ensure data integrity and usability for predictive analytics.
               * Refactored code to remove unnecessary blocks, improving overall code quality and performance.  
   
-        - title: Software Engineering (NLP) Intern
+        - title: Research Intern
           company: Nexa Speech and UC Berkeley
           company_url: 'https://www.nexa-speech.com/'
           company_logo: nexa-logo
