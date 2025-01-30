@@ -1,6 +1,6 @@
 <!--  
 ---
-title: ”SMATCH-M-LLM： Semantic Similarity in Metamodel Matching With Large Language Models“
+title: SMATCH-M-LLM： Semantic Similarity in Metamodel Matching With Large Language Models
 
 
 # Authors
