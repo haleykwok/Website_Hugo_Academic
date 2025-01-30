@@ -31,7 +31,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: under review
+publication: MSR 2025
 publication_short: ''
 
 # Summary. An optional shortened abstract.
@@ -43,9 +43,9 @@ tags: [LLMs, Metamodel Matching, Semantic Similarity]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: MSR 2025
+  url: https://conf.researchr.org/profile/icse-2025/hinchikwok
 
 # url_pdf: 'https://drive.google.com/file/d/1yjm-Rq3Yvg7UHue-tSGtJNZRNZPrOeuX/view?usp=drive_link'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
