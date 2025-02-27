@@ -1,17 +1,15 @@
 <!--  
 ---
-title: : Risk-aware Machine Learning Systems for Safety and Quality-Critical Applications
+title: : Risk-aware Machine Learning Systems for Safety and Quality-Critical Applications [Work in Progress]
 
 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-#   - N. Ahmed
-#   - H. C. Kwok
-#   - M. Hamdaqa
-#   - W. K. G. Assunção
+authors:
+  - H. C. Kwok
+
 
 
 # Author notes (optional)
@@ -19,7 +17,7 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-# date: '2024-08-03T00:00:00Z'
+date: '2024-08-30T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -36,17 +34,17 @@ publication:
 publication_short: ''
 
 # Summary. An optional shortened abstract.
-summary: Understanding varied risks associated with the input data of machine learning (ML) system and developing an integrated approach to manage risks present in the input data. 
+summary: A Research project, understanding varied risks associated with the input data of machine learning (ML) system and developing an integrated approach to manage risks present in the input data. 
 
-tags: 
+tags: [AI Safety, Risk-aware Machine Learning]
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: 
-  url: 
+# links:
+# - name: 
+#   url: 
 
 # url_pdf: 'https://drive.google.com/file/d/1yjm-Rq3Yvg7UHue-tSGtJNZRNZPrOeuX/view?usp=drive_link'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
