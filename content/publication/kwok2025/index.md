@@ -1,6 +1,6 @@
 <!--  
 ---
-title: : Risk-aware Machine Learning Systems for Safety and Quality-Critical Applications [Work in Progress]
+title: Risk-aware Machine Learning Systems for Safety and Quality-Critical Applications [Work in Progress]
 
 
 
@@ -9,6 +9,7 @@ title: : Risk-aware Machine Learning Systems for Safety and Quality-Critical App
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - H. C. Kwok
+  - X. Zhang
 
 
 
