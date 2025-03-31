@@ -11,8 +11,6 @@ authors:
   - H. C. Kwok
   - X. Zhang
 
-
-
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
