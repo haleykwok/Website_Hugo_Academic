@@ -2,7 +2,7 @@
 title: Outstanding Tertiary Students of Hong Kong 2023 - Empowering Outstanding Students towards the willing to serve peers, caring to the community, and reaching out to the world.
 
 event: Outstanding Tertiary Students Award of Hong Kong 2023 Ceremony
-event_url: https://www.gbayouth.org.hk/en/scope/scholarship
+event_url: https://www.hkytsa.org/otsahk/winners.html
 
 location: ClubONE Kornhill in Vogue
 address:
