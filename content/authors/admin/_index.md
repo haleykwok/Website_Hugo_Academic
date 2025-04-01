@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hin Chi Kwok
+title: Hin Chi (Haley) Kwok
 
 # Full name (for SEO)
 first_name: Hin Chi
@@ -69,7 +69,7 @@ social:
     link: https://github.com/HaleyKwok
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/haley-kwok-4076a8254/
+    link: https://www.linkedin.com/in/hin-chi-kwok/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
