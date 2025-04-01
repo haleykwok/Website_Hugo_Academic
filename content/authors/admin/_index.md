@@ -87,14 +87,16 @@ highlight_name: true
 - Welcome to my website. Hello World from 🌏 22.3193° 114.1694° 👋
 - 🔭 I am a senior year student at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/) supervised by [Prof. Xiaoge Zhang](https://xiaogezhang.com/). Previously, I worked as an research intern at UC Berkeley, Polytechnique Montréal (supervised by [Prof. Mohammad Hamdaqa](https://saet.polymtl.ca/saet/)), and McGill University (supervised by [Prof. Jin Guo](https://www.cs.mcgill.ca/~martin/students.html)).
 <!-- I consider myself a proactive learner who is continuously exploring the realms of Trustworthy AI, Optimization, Statistical Machine Learning, and LLMs. I am grateful to have been recognized with some awards in innovation and technology, which I view as collective achievements. My practical experience in Software Development has been shaped by opportunities to work alongside knowledgeable teams at reputable institutions and companies. These experiences have nurtured my ability to blend technical proficiency with a research-oriented mindset to navigate and contribute to complex projects within Enterprise Computing and Digital Servitization. I am always keen to learn from others and strive to bring a thoughtful, team-oriented approach to my work. -->
-- ✍️ I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE will shape my future, help me achieve my goals, and positively impact my community. I am passionate about using technology to solve real-life problems (with human contextual understanding), and I am here to share my journey of rediscovering my passion for STEM. Despite facing gender stereotypes and societal expectations from selecting IT as my career before, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. I hope to make positive CHANGES to our community, and inspire others to pursue a career in STEM. 
-
+- ✍️ I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE will shape my future, help me achieve my goals, and positively impact my community. I am passionate about using technology to solve real-life problems (with human contextual understanding).
+<!-- Despite facing gender stereotypes and societal expectations from selecting IT as my career before, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. I hope to make positive CHANGES to our community, and inspire others to pursue a career in STEM.  -->
 <details close>
 <summary> Acknowledge not just success; sometimes failure is the motivation that drives you improvement and is surely worth remembering. Take them with a grain of salt.</summary>
 
 - Did not receive the D. H. Chen Foundation Scholarship 2021.
 - Did not receive the Jockey Club Scholarship 2021.
 - Did not receive the HSBC HK Scholarship 2023.
+- Did not receive the Sir Edward Youde Memorial Scholarship 2024.
+- Rejected by ICSE 2025, etc.
 - Criticized by various people for my decisions (Decisions aren't black-and-white. You always gain and loss at the same time. With that being said, evaulate problems case-by-case. If you're determined and has optimized your decision based on your circumstances, trust your ego ([Freud's theory](https://simple.wikipedia.org/wiki/Id,_ego,_and_super-ego)), or in other words, intuition; take opinions with critical thinking—responsbility for yourself :))
 
 </details>
@@ -106,10 +108,11 @@ Whole-person development is important, ensure you are living life both mentally 
 
 - Novels/Films: Sci-fi favorites include [The Three-Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)), [Interstellar](https://en.wikipedia.org/wiki/Interstellar_(film)), and [Resident Evil](https://en.wikipedia.org/wiki/Resident_Evil), etc.
 - Documentaries: Primarily about natural sciences, history, biography, etc.
-- Exercise: Gym workouts, swimming, and badminton.
+- Exercise: Gym workouts and swimming
 - Music: Piano and music genres like R&B, dreampop, darkpop, electropop, and hip-hop.
 - Cooking: Chinese cuisine, desserts (bread and cake), and Western dishes.
 - Gaming: I play FPS and TPS games such as [PUBG](https://en.wikipedia.org/wiki/PlayerUnknown%27s_Battlegrounds), [CSGO](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive), and action-adventure games like [Assassin's Creed](https://en.wikipedia.org/wiki/Assassin%27s_Creed) and [GTA](https://en.wikipedia.org/wiki/Grand_Theft_Auto). I also enjoy improving my skills through online tutorials.
+- Board Games: I enjoy playing board games like [Catan](https://en.wikipedia.org/wiki/The_Settlers_of_Catan) and [Saboteur](https://en.wikipedia.org/wiki/Saboteur_(card_game)) with friends. Recently, I discovered an interesting game called [Publish or Perish: A Humorous Party Game about Academia](https://x.com/thepublishgame?lang=en). Can't wait to play it with my friends!
 - Philosophy: [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics), [Epistemology](https://en.wikipedia.org/wiki/Epistemology), Philosophy of Mind and Science, etc.
 - Cleaning up and organizing stuff
 
