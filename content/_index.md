@@ -419,7 +419,7 @@ sections:
         - icon: linkedin
           icon_pack: fab
           name: LinkedIn
-          link: 'https://www.linkedin.com/in/haley-kwok-4076a8254/'
+          link: 'https://www.linkedin.com/in/hin-chi-kwok/'
         - icon: twitter
           icon_pack: fab
           name: Twitter 
@@ -431,7 +431,7 @@ sections:
         - icon: instagram
           icon_pack: fab
           name: Instagram
-          link: 'https://www.instagram.com/haley.khc/'
+          link: 'https://www.instagram.com/haley.hck/'
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me
