@@ -177,7 +177,7 @@ Software programs with a Ribbon GUI have:
 - Tabs: contain groups of related commands. Some tabs, called contextual tabs, appear only when they are needed and contain commands related to the selected object.
 - Galleries: like dialog boxes, display a set of choices.
 
-<center><img src = 'C3RibbonGUI.png'></center>
+<center><img src = 'content/post/Books/Books_ComputingEssentials/C3RibbonGUI.png'></center>
 
 
 ## Specialized Application Software
@@ -303,23 +303,8 @@ Wearable	 computers,	 also	 known	 as	 wearable	 devices,	 are	 one	 of	 the	 fi
 ## Components 
 Personal	computers	come	in	a	variety	of	different	sizes,	shapes,	and	capabilities.	Although they	 look	 different	 and	 each	 has	 its	 own	 unique	 features,	 they	 share	 surprisingly	 similar components,	including	system	boards,	microprocessors,	and	memory
 
-<center><img src = '/img/Books_ComputingEssentials/C5Components.png'></center>
+<center><img src = 'content/post/Books/Books_ComputingEssentials/C5Components.png'></center>
 
-## System Board
-
-
-
-
-
-
-
-
-
-
-
----
-
-# POSTSCRIPT
 
 
 
