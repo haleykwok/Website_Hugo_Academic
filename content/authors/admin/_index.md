@@ -40,7 +40,7 @@ education:
     # - course: Exchange Student in Computer Science and Technology, Information and Computing Lab, SEIEE
     #   institution: Shanghai Jiaotong University, Shanghai, China
     #   year: 2023-2024
-    - course: Exchange Student in IEOR + Computer Science
+    - course: Exchange Student in IEOR + Computer Science (shoutout to InnoTech for supporting this!)
       institution: University of California, Berkeley, USA
       year: 2024
     - course: Research Intern in Computer Science
