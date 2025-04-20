@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Hin Chi Kwok
-date: 2022-11-02
+date: 2023-01-27
 type: landing
 
 sections:
