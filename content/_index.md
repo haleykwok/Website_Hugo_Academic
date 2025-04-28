@@ -70,7 +70,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Student Assistant 
-          company: PolyU Group for Risk, Reliability, and Resilience Informatics, led by Dr Xiaoge Zhang, Hong Kong Polytechnic University
+          company: PolyU Group for Risk, Reliability, and Resilience Informatics, led by Prof. Xiaoge Zhang, Hong Kong Polytechnic University
           company_url: 'https://xiaogezhang.com/'
           company_logo: polyu-logo
           location: Hong Kong, China
@@ -177,7 +177,7 @@ sections:
               * Developed a user-friendly GUI to control and monitor the system, improving user engagement and system manageability.
         
         - title: Student Assistant
-          company: PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Dr Pai Zheng, Hong Kong Polytechnic University
+          company: PolyU Research Group of AI for Industrial Digital Servitization, led by Ir Prof. Pai Zheng, Hong Kong Polytechnic University
           company_url: 'https://www.raids.group/'
           company_logo: polyu-logo
           location: Hong Kong, China

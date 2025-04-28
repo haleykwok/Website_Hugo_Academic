@@ -40,7 +40,7 @@ education:
     - course: Exchange Student in Computer Science and Technology, SEIEE
       institution: Shanghai Jiaotong University, Shanghai, China
       year: 2023-2024
-    - course: Exchange Student in IEOR + Computer Science (shoutout to HSBC, HKFYP and ITC for supporting this!)
+    - course: Exchange Student in IEOR + Computer Science 
       institution: University of California, Berkeley, USA
       year: 2024
     - course: Research Intern in Computer Science
@@ -89,6 +89,13 @@ highlight_name: true
 <!-- I consider myself a proactive learner who is continuously exploring the realms of Trustworthy AI, Optimization, Statistical Machine Learning, and LLMs. I am grateful to have been recognized with some awards in innovation and technology, which I view as collective achievements. My practical experience in Software Development has been shaped by opportunities to work alongside knowledgeable teams at reputable institutions and companies. These experiences have nurtured my ability to blend technical proficiency with a research-oriented mindset to navigate and contribute to complex projects within Enterprise Computing and Digital Servitization. I am always keen to learn from others and strive to bring a thoughtful, team-oriented approach to my work. -->
 - ✍️ I strongly believe that the 3Cs - CURIOSITY, CHALLENGE, and CHANGE will shape my future, help me achieve my goals, and positively impact my community. We're here to put a dent in the universe. Otherwise, why else even be here? 
 <!-- Despite facing gender stereotypes and societal expectations from selecting IT as my career before, I pursue my CURIOSITY and participate in research projects and competitions. I embrace CHALLENGES, seek innovative solutions, and am actively involved in academic exchanges and entrepreneurship. I hope to make positive CHANGES to our community, and inspire others to pursue a career in STEM.  -->
+
+## Latest News 🚀
+
+*   **[Mar 2025]** 🎉 Received The Chiang Chen Overseas Fellowship 2024/25, thanks Chiang Chen Industrial Charity Foundation and PolyU's support!
+*   **[Sep 2024]** 🏫 Back to PolyU after a fruitful gap year, shoutout to HSBC, HKFYP and ITC for supporting this! Excited to continue my journey.
+  
+
 <details close>
 <summary> Acknowledge not just success; sometimes failure is the motivation that drives you improvement and is surely worth remembering. Take them with a grain of salt.</summary>
 
