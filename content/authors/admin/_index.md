@@ -92,7 +92,7 @@ highlight_name: true
 
 ## Latest News 🚀
 
-*   **[Mar 2025]** 🎉 Received The Chiang Chen Overseas Fellowship 2024/25, thanks Chiang Chen Industrial Charity Foundation and PolyU's support!
+*   **[Mar 2025]** 🎉 Received [Chiang Chen Overseas Fellowship 2024/25](https://www.ccicf.org.hk/en/scholarships/fellowship_b_03/), thanks Chiang Chen Industrial Charity Foundation and PolyU's support!
 *   **[Sep 2024]** 🏫 Back to PolyU after a fruitful gap year, shoutout to HSBC, HKFYP and ITC for supporting this! Excited to continue my journey.
   
 
