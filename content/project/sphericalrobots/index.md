@@ -21,7 +21,7 @@ links:
     name: Github
     url: https://github.com/HaleyKwok/Spherical_Robot
 
-url_pdf: 'https://drive.google.com/file/d/1HWm06Mwj7lnCeUC36QnCySfe-0lxmlIQ/view?usp=sharing'
+url_pdf: 'https://drive.google.com/file/d/108yR51zztInigb8_SJd0FncXkq-rsxjL/view?usp=drive_link'
 url_code: 'https://github.com/HaleyKwok/Spherical_Robot/tree/main/code'
 url_poster: 'https://drive.google.com/file/d/1RRubFRvyTZDl6D7ixnBmOrLKFcAO5Gqd/view?usp=sharing'
 url_slides: https://drive.google.com/file/d/1tTC5OZGQTIzrT0lZezfE5RsNWeKfAXGQ/view?usp=sharing
