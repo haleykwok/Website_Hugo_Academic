@@ -34,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in (Industrial and Systems Engineering) Enterprise Engineering with Management,minor in Computing
+    - course: BSc in (Industrial and Systems Engineering) Enterprise Engineering with Management, minor in Computing
       institution: Hong Kong Polytechnic University, HKSAR, China
       year: 2020-2025
     # - course: Exchange Student in Computer Science and Technology, SEIEE
